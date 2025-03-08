@@ -125,61 +125,6 @@ class NeuralNetwork:
                 print("Accuracy:", train_correct/len(train_images))
                 print()
 
-            # for (images, labels) in tqdm(train_dataloader, desc="Training", leave=False):
-            #     images = images.view(images.size(0), -1).numpy()  # Flatten each image
-
-            #     num_classes = 10
-            #     labels = torch.nn.functional.one_hot(labels, num_classes)
-            #     labels = labels.cpu().numpy()
-            #     # labels = np.eye(self.output_size)[labels.numpy()]
-
-            #     images = normalize_images(images)   
-            #     self.forward(images)
-                
-            #     loss_fn = Loss_CategoricalCrossentropy(output= self.final_output, y = labels)
-            #     loss = loss_fn.calculate()
-            #     correct = calculate_accuracy(y_pred = self.final_output, y = labels)
-
-            #     train_loss += loss
-            #     train_correct += correct
-                
-            #     self.backprop(images, labels)
-                
-            # if (epoch+1) % 1 == 0:
-            #     print("------------------------------------------------------")
-            #     print("Epoch:", epoch+1)
-            #     print("Loss:", train_loss)
-            #     print("Correct Predications:", train_correct)
-            #     print("Total Images:", len(train_dataloader.dataset))
-            #     print("Accuracy:", train_correct/len(train_dataloader.dataset))
-            #     print()
-    
-    # def test(self, test_dataloader):
-    #     all_preds = []
-    #     all_labels = []
-
-    #     for (images, labels) in tqdm(test_dataloader, desc="Testing", leave=False):
-    #         images = images.view(images.size(0), -1).numpy()  # Flatten each image
-
-    #         num_classes = 10
-    #         labels = torch.nn.functional.one_hot(labels, num_classes)
-    #         labels = labels.cpu().numpy()
-
-    #         images = normalize_images(images)
-    #         self.forward(images)
-
-    #         top_pred = self.final_output.argmax(1, keepdims=True)
-    #         y_correct = labels.argmax(1, keepdims=True)
-
-    #         all_preds.append(top_pred)
-    #         all_labels.append(y_correct)
-        
-    #     # Convert list of arrays into single arrays
-    #     all_preds = np.concatenate(all_preds, axis=0)
-    #     all_labels = np.concatenate(all_labels, axis=0)
-
-    #     return all_preds, all_labels
-
     def generate_classification_report(self, test_dataloader, num_classes=10):
         # Make predictions
         all_preds, all_labels = self.test(test_dataloader)
