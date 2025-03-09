@@ -8,7 +8,7 @@ from optimizers import *
 from sklearn.metrics import classification_report
 
 class NeuralNetwork:
-    def __init__(self, input_size, output_size, weights_init, bias_init, optimizer = 'nag'):
+    def __init__(self, input_size, output_size, weights_init, bias_init, optimizer = 'nadam'):
         # Initializing number of inputs and outputs and the number of layers
         self.input_size = input_size
         self.output_size = output_size
@@ -37,6 +37,12 @@ class NeuralNetwork:
             self.optimizer = MGD(self.learning_rate)
         elif optimizer.lower() == 'nag':
             self.optimizer = NAG(self.learning_rate)
+        elif optimizer.lower() == 'rmsprop':
+            self.optimizer = RMSprop(self.learning_rate)
+        elif optimizer.lower() == 'adam':
+            self.optimizer = Adam(self.learning_rate)
+        elif optimizer.lower() == 'nadam':
+            self.optimizer = Nadam(self.learning_rate)
         else:
             raise ValueError(f"Unsupported optimizer: {optimizer}")
         
