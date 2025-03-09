@@ -4,13 +4,11 @@ from act_fn import *
 from utils import *
 from metrics import *
 from loss import *
-
-# import torch
-from tqdm.auto import tqdm
+from optimizers import *
 from sklearn.metrics import classification_report
 
 class NeuralNetwork:
-    def __init__(self, input_size, output_size, weights_init, bias_init):
+    def __init__(self, input_size, output_size, weights_init, bias_init, optimizer = 'sgd'):
         # Initializing number of inputs and outputs and the number of layers
         self.input_size = input_size
         self.output_size = output_size
@@ -32,6 +30,13 @@ class NeuralNetwork:
         self.learning_rate = 0.01
         self.outputs_with_act = []
         self.outputs_without_act = []
+
+        if optimizer.lower() == 'sgd':
+            self.optimizer = SGD(self.learning_rate)
+        elif optimizer.lower() == 'adam':
+            self.optimizer = Adam(self.learning_rate)
+        else:
+            raise ValueError(f"Unsupported optimizer: {optimizer}")
         
     def add_layer(self, no_neurons, activation_type= 'ReLU'):
         # Number of hidden layers increase by one after addition of every layer
@@ -75,27 +80,7 @@ class NeuralNetwork:
         self.final_output = softmax.forward()
 
     def backprop(self, X, y):
-        error = self.final_output - y
-        partial_derivative_w = np.dot(self.outputs_with_act[-2].T, error) / y.shape[0]
-        partial_derivative_b = np.sum(error, axis=0, keepdims=True) / y.shape[0]
-
-        self.weights[-1] -= partial_derivative_w*self.learning_rate
-        self.bias[-1] -= partial_derivative_b*self.learning_rate
-
-        # Compute the hidden layer error
-        for i in range(self.hidden_size-1, -1, -1):
-            error = np.dot(error, self.weights[i+1].T) * der_activation_func(self.outputs_with_act[i], type = self.activation[i])
-
-            if i>0:
-                partial_derivative_w = np.dot(self.outputs_with_act[i-1].T, error) / y.shape[0]
-                partial_derivative_b = np.sum(error, axis=0, keepdims=True) / y.shape[0]
-            else:
-                partial_derivative_w = np.dot(X.T, error) / y.shape[0]
-                partial_derivative_b = np.sum(error, axis=0, keepdims=True) / y.shape[0]
-
-            self.weights[i] -= partial_derivative_w*self.learning_rate
-            self.bias[i] -= partial_derivative_b*self.learning_rate
-
+        self.optimizer.update(self, X, y)
 
     def train(self, train_images, train_labels, epochs, batch_size=1):     
         for epoch in range(epochs):
