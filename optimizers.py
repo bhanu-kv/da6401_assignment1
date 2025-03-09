@@ -130,9 +130,10 @@ class NAG(Optimizer):
             prev_velocity_w = np.copy(self.velocity_w[i])
             prev_velocity_b = np.copy(self.velocity_b[i])
 
-            self.velocity_w[i] = self.momentum * prev_velocity_w - self.learning_rate * grad_w
-            self.velocity_b[i] = self.momentum * prev_velocity_b - self.learning_rate * grad_b
+            # Using lookahead term for updating velocities
+            self.velocity_w[i] = self.momentum * prev_velocity_w + self.learning_rate * (grad_w - self.momentum * prev_velocity_w)
+            self.velocity_b[i] = self.momentum * prev_velocity_b + self.learning_rate * (grad_b - self.momentum * prev_velocity_b)
 
-            # Update weights and biases using lookahead gradient
-            network.weights[i] += -self.momentum * prev_velocity_w + (1 + self.momentum) * self.velocity_w[i]
-            network.bias[i] += -self.momentum * prev_velocity_b + (1 + self.momentum) * self.velocity_b[i]
+            # Update weights and biases
+            network.weights[i] -= self.velocity_w[i]
+            network.bias[i] -= self.velocity_b[i]
