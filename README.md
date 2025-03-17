@@ -5,6 +5,22 @@
 ## Overview
 This project implements a Neural Network from scratch using only NumPy and other Python data structures. The model is tested on multiclass classification datasets such as Fashion MNIST and MNIST.
 
+## Code Organization
+
+act_fn.py: Contains all the activation functions
+confusion_matrix.py: Used to plot confusion matrix
+loss.py: Contains all the loss functions
+metrics.py: Contains all the metrics
+optimizers.py: Contains all Optimizer Classes
+q1_plot_images.py: Used to plot images of each class
+train_fashion.py: Trained fashion mnist dataset
+train_mnist.py: Trained mnist dataset
+train.py: Used for python sweep with arguement parser
+nn.py: Contains Neural Network Class
+utils: Contains all the util functions
+weight_init.py: Contains Weight Initialization functions
+wandb_sweep.py: Sweep without arguement parser
+
 ## Defining the Neural Network
 To initialize the neural network, use the following:
 
