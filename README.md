@@ -1,6 +1,6 @@
 # DA6401 Assignment 1
 
-[Project Report on Weights & Biases](https://wandb.ai/ce21b031/DA6401%20-%20Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTgzMjM5Mg)
+[Project Report on Weights & Biases](https://wandb.ai/ce21b031/DA6401%20-%20Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTgzMjM5Mg?accessToken=o241ydj5v3miydwoidt9zxcdhl8xgx4d9aig6ecoahu0zq04uzq4kbo871yqqjfb)
 
 ## Overview
 This project implements a Neural Network from scratch using only NumPy and other Python data structures. The model is tested on multiclass classification datasets such as Fashion MNIST and MNIST.
