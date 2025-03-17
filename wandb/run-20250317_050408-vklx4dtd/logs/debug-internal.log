@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:04:08.73151794+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050408-vklx4dtd/logs/debug-core.log"}
+{"time":"2025-03-17T05:04:08.834315921+05:30","level":"INFO","msg":"created new stream","id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:08.834351717+05:30","level":"INFO","msg":"stream: started","id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:08.834383447+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:08.834421786+05:30","level":"INFO","msg":"sender: started","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:08.834453729+05:30","level":"INFO","msg":"handler: started","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:09.578334694+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:04:48.995687294+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:04:48.996373894+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:04:49.999508649+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.691787171,"progress":"2.3KB/2.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.691767911,"progress":"176B/176B"},{"desc":"uploading config.yaml","runtime_seconds":0.385994849,"progress":"990B/990B"}],"total_operations":3}}
+{"time":"2025-03-17T05:04:50.6584106+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:04:50.959909335+05:30","level":"INFO","msg":"stream: closing","id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:50.959941815+05:30","level":"INFO","msg":"handler: closed","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:50.959969802+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:50.960002332+05:30","level":"INFO","msg":"sender: closed","stream_id":"vklx4dtd"}
+{"time":"2025-03-17T05:04:50.960106112+05:30","level":"INFO","msg":"stream: closed","id":"vklx4dtd"}

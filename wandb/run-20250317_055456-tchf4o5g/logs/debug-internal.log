@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:54:56.085790677+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055456-tchf4o5g/logs/debug-core.log"}
+{"time":"2025-03-17T05:54:56.191087464+05:30","level":"INFO","msg":"created new stream","id":"tchf4o5g"}
+{"time":"2025-03-17T05:54:56.191157648+05:30","level":"INFO","msg":"stream: started","id":"tchf4o5g"}
+{"time":"2025-03-17T05:54:56.191199708+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:54:56.191255469+05:30","level":"INFO","msg":"handler: started","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:54:56.191401075+05:30","level":"INFO","msg":"sender: started","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:54:56.934592707+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:55:24.967531392+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:55:24.967863431+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:55:25.971055756+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681663708,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.368804162,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T05:55:26.571899191+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:55:26.875155115+05:30","level":"INFO","msg":"stream: closing","id":"tchf4o5g"}
+{"time":"2025-03-17T05:55:26.875196924+05:30","level":"INFO","msg":"handler: closed","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:55:26.875220152+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:55:26.875281961+05:30","level":"INFO","msg":"sender: closed","stream_id":"tchf4o5g"}
+{"time":"2025-03-17T05:55:26.875423977+05:30","level":"INFO","msg":"stream: closed","id":"tchf4o5g"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:07:42.011355164+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050742-kya4tkdq/logs/debug-core.log"}
+{"time":"2025-03-17T05:07:42.115233616+05:30","level":"INFO","msg":"created new stream","id":"kya4tkdq"}
+{"time":"2025-03-17T05:07:42.115284183+05:30","level":"INFO","msg":"stream: started","id":"kya4tkdq"}
+{"time":"2025-03-17T05:07:42.115377109+05:30","level":"INFO","msg":"sender: started","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:07:42.115363683+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:07:42.115539944+05:30","level":"INFO","msg":"handler: started","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:07:42.985337534+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:08:42.872568093+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:08:42.873283628+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:08:43.876358989+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687943643,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.372697406,"progress":"991B/991B"},{"desc":"uploading history steps 7-9, summary, console lines 67-93","runtime_seconds":0.119318601}],"total_operations":3}}
+{"time":"2025-03-17T05:08:44.486484962+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:08:44.789469481+05:30","level":"INFO","msg":"stream: closing","id":"kya4tkdq"}
+{"time":"2025-03-17T05:08:44.789512831+05:30","level":"INFO","msg":"handler: closed","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:08:44.78955319+05:30","level":"INFO","msg":"sender: closed","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:08:44.789538139+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kya4tkdq"}
+{"time":"2025-03-17T05:08:44.789741832+05:30","level":"INFO","msg":"stream: closed","id":"kya4tkdq"}

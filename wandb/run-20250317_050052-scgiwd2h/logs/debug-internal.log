@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:00:52.187019916+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050052-scgiwd2h/logs/debug-core.log"}
+{"time":"2025-03-17T05:00:52.291968844+05:30","level":"INFO","msg":"created new stream","id":"scgiwd2h"}
+{"time":"2025-03-17T05:00:52.292024044+05:30","level":"INFO","msg":"stream: started","id":"scgiwd2h"}
+{"time":"2025-03-17T05:00:52.292138428+05:30","level":"INFO","msg":"handler: started","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:00:52.292172857+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:00:52.292344026+05:30","level":"INFO","msg":"sender: started","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:00:53.152777466+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:01:04.11872553+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:01:04.119447227+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:01:05.122637344+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.694966687,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.408507513,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T05:01:05.727661139+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:01:06.064599243+05:30","level":"INFO","msg":"stream: closing","id":"scgiwd2h"}
+{"time":"2025-03-17T05:01:06.064635102+05:30","level":"INFO","msg":"handler: closed","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:01:06.064659987+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:01:06.064681665+05:30","level":"INFO","msg":"sender: closed","stream_id":"scgiwd2h"}
+{"time":"2025-03-17T05:01:06.064843379+05:30","level":"INFO","msg":"stream: closed","id":"scgiwd2h"}

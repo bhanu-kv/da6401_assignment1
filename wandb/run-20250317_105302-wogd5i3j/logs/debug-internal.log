@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:53:02.459588995+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_105302-wogd5i3j/logs/debug-core.log"}
+{"time":"2025-03-17T10:53:02.563928592+05:30","level":"INFO","msg":"created new stream","id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:02.563994613+05:30","level":"INFO","msg":"stream: started","id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:02.564099841+05:30","level":"INFO","msg":"handler: started","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:02.564097556+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:02.564172698+05:30","level":"INFO","msg":"sender: started","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:03.314934364+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:53:27.611631372+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:53:27.61197715+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:53:28.615546059+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.690281771,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.408488357,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T10:53:29.220040363+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:53:29.528106141+05:30","level":"INFO","msg":"stream: closing","id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:29.528138055+05:30","level":"INFO","msg":"handler: closed","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:29.528154259+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:29.528217333+05:30","level":"INFO","msg":"sender: closed","stream_id":"wogd5i3j"}
+{"time":"2025-03-17T10:53:29.528311073+05:30","level":"INFO","msg":"stream: closed","id":"wogd5i3j"}

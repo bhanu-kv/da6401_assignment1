@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:11:53.101903442+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_021153-7cgdwqom/logs/debug-core.log"}
+{"time":"2025-03-17T02:11:53.204170745+05:30","level":"INFO","msg":"created new stream","id":"7cgdwqom"}
+{"time":"2025-03-17T02:11:53.204197623+05:30","level":"INFO","msg":"stream: started","id":"7cgdwqom"}
+{"time":"2025-03-17T02:11:53.204274236+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:11:53.204280942+05:30","level":"INFO","msg":"handler: started","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:11:53.204281108+05:30","level":"INFO","msg":"sender: started","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:11:53.952419049+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:12:18.487884823+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:12:18.488176844+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:12:19.491468068+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.675285471,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.38726541,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T02:12:20.179312257+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:12:20.501024002+05:30","level":"INFO","msg":"stream: closing","id":"7cgdwqom"}
+{"time":"2025-03-17T02:12:20.501060759+05:30","level":"INFO","msg":"handler: closed","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:12:20.501078577+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:12:20.501143915+05:30","level":"INFO","msg":"sender: closed","stream_id":"7cgdwqom"}
+{"time":"2025-03-17T02:12:20.501227506+05:30","level":"INFO","msg":"stream: closed","id":"7cgdwqom"}

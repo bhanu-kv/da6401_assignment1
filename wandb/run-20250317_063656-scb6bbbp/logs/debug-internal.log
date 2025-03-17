@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:36:56.636670528+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_063656-scb6bbbp/logs/debug-core.log"}
+{"time":"2025-03-17T06:36:56.740407184+05:30","level":"INFO","msg":"created new stream","id":"scb6bbbp"}
+{"time":"2025-03-17T06:36:56.740467573+05:30","level":"INFO","msg":"stream: started","id":"scb6bbbp"}
+{"time":"2025-03-17T06:36:56.740532747+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:36:56.740567802+05:30","level":"INFO","msg":"sender: started","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:36:56.740622676+05:30","level":"INFO","msg":"handler: started","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:36:57.443325165+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:37:13.38664818+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:37:13.38706889+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:37:14.390189049+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.695616878,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.414485508,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T06:37:15.035736539+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:37:15.342519935+05:30","level":"INFO","msg":"stream: closing","id":"scb6bbbp"}
+{"time":"2025-03-17T06:37:15.342547432+05:30","level":"INFO","msg":"handler: closed","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:37:15.342567409+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:37:15.342603803+05:30","level":"INFO","msg":"sender: closed","stream_id":"scb6bbbp"}
+{"time":"2025-03-17T06:37:15.342717155+05:30","level":"INFO","msg":"stream: closed","id":"scb6bbbp"}

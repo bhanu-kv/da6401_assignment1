@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:58:12.720674819+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025812-qszb5xb3/logs/debug-core.log"}
+{"time":"2025-03-17T02:58:12.824459278+05:30","level":"INFO","msg":"created new stream","id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:12.824498203+05:30","level":"INFO","msg":"stream: started","id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:12.824594491+05:30","level":"INFO","msg":"sender: started","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:12.824616099+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:12.824649908+05:30","level":"INFO","msg":"handler: started","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:13.55339117+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:58:34.516908884+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:58:34.51752594+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:58:35.493941305+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.649644295,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.349376886,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T02:58:36.434135256+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:58:36.746358992+05:30","level":"INFO","msg":"stream: closing","id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:36.746401166+05:30","level":"INFO","msg":"handler: closed","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:36.746419507+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:36.746511074+05:30","level":"INFO","msg":"sender: closed","stream_id":"qszb5xb3"}
+{"time":"2025-03-17T02:58:36.746630504+05:30","level":"INFO","msg":"stream: closed","id":"qszb5xb3"}

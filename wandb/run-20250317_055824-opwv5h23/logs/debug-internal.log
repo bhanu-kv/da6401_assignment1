@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:58:24.727126544+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055824-opwv5h23/logs/debug-core.log"}
+{"time":"2025-03-17T05:58:24.831683319+05:30","level":"INFO","msg":"created new stream","id":"opwv5h23"}
+{"time":"2025-03-17T05:58:24.831778419+05:30","level":"INFO","msg":"stream: started","id":"opwv5h23"}
+{"time":"2025-03-17T05:58:24.831843654+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:24.83186863+05:30","level":"INFO","msg":"sender: started","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:24.831964011+05:30","level":"INFO","msg":"handler: started","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:25.604157067+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:58:48.014560906+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:58:48.015028934+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:58:49.015870691+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.683468246,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.398977081,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T05:58:49.641390757+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:58:49.956211667+05:30","level":"INFO","msg":"stream: closing","id":"opwv5h23"}
+{"time":"2025-03-17T05:58:49.956242561+05:30","level":"INFO","msg":"handler: closed","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:49.956259868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:49.956291623+05:30","level":"INFO","msg":"sender: closed","stream_id":"opwv5h23"}
+{"time":"2025-03-17T05:58:49.956413662+05:30","level":"INFO","msg":"stream: closed","id":"opwv5h23"}

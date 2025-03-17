@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:55:54.760057897+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055554-gp06mfvp/logs/debug-core.log"}
+{"time":"2025-03-17T05:55:54.863609922+05:30","level":"INFO","msg":"created new stream","id":"gp06mfvp"}
+{"time":"2025-03-17T05:55:54.863648419+05:30","level":"INFO","msg":"stream: started","id":"gp06mfvp"}
+{"time":"2025-03-17T05:55:54.863734119+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:55:54.863747202+05:30","level":"INFO","msg":"handler: started","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:55:54.863777716+05:30","level":"INFO","msg":"sender: started","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:55:55.589735733+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:56:09.604636049+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:56:09.609301258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:56:10.609537755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.698217989,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.380255572,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T05:56:11.234394169+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:56:11.555645665+05:30","level":"INFO","msg":"stream: closing","id":"gp06mfvp"}
+{"time":"2025-03-17T05:56:11.555680228+05:30","level":"INFO","msg":"handler: closed","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:56:11.555695725+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:56:11.555772221+05:30","level":"INFO","msg":"sender: closed","stream_id":"gp06mfvp"}
+{"time":"2025-03-17T05:56:11.555846096+05:30","level":"INFO","msg":"stream: closed","id":"gp06mfvp"}

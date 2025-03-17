@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:37:12.314353034+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_013712-3ii0bd83/logs/debug-core.log"}
+{"time":"2025-03-17T01:37:12.417992335+05:30","level":"INFO","msg":"created new stream","id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:12.418024196+05:30","level":"INFO","msg":"stream: started","id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:12.418094313+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:12.418121223+05:30","level":"INFO","msg":"sender: started","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:12.4181912+05:30","level":"INFO","msg":"handler: started","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:13.158474757+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:37:30.777075407+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:37:30.777398648+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:37:31.78105014+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680889174,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.382004211,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T01:37:32.384736494+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:37:32.69917407+05:30","level":"INFO","msg":"stream: closing","id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:32.69922449+05:30","level":"INFO","msg":"handler: closed","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:32.699250141+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:32.699277379+05:30","level":"INFO","msg":"sender: closed","stream_id":"3ii0bd83"}
+{"time":"2025-03-17T01:37:32.699464195+05:30","level":"INFO","msg":"stream: closed","id":"3ii0bd83"}

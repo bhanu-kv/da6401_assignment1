@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:14:23.746721502+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_011423-ao54vitu/logs/debug-core.log"}
+{"time":"2025-03-17T01:14:23.850195111+05:30","level":"INFO","msg":"created new stream","id":"ao54vitu"}
+{"time":"2025-03-17T01:14:23.850236831+05:30","level":"INFO","msg":"stream: started","id":"ao54vitu"}
+{"time":"2025-03-17T01:14:23.850280596+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:14:23.850285249+05:30","level":"INFO","msg":"sender: started","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:14:23.850336772+05:30","level":"INFO","msg":"handler: started","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:14:24.707154247+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:15:21.39227577+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:15:21.392610382+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:15:22.396045023+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689245787,"progress":"214B/214B"},{"desc":"uploading config.yaml","runtime_seconds":0.235736479,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T01:15:23.017013815+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:15:23.353990868+05:30","level":"INFO","msg":"stream: closing","id":"ao54vitu"}
+{"time":"2025-03-17T01:15:23.354035786+05:30","level":"INFO","msg":"handler: closed","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:15:23.354061831+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:15:23.354103656+05:30","level":"INFO","msg":"sender: closed","stream_id":"ao54vitu"}
+{"time":"2025-03-17T01:15:23.354271945+05:30","level":"INFO","msg":"stream: closed","id":"ao54vitu"}

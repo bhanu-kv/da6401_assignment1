@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:20:09.873146404+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_062009-w01jhvtj/logs/debug-core.log"}
+{"time":"2025-03-17T06:20:09.976978669+05:30","level":"INFO","msg":"created new stream","id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:09.977033917+05:30","level":"INFO","msg":"stream: started","id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:09.977059126+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:09.977098814+05:30","level":"INFO","msg":"handler: started","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:09.977176216+05:30","level":"INFO","msg":"sender: started","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:11.016926298+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:20:47.39259349+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:20:47.392895668+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:20:48.395791638+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.687285643,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.379280933,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T06:20:49.015133093+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:20:49.448346694+05:30","level":"INFO","msg":"stream: closing","id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:49.448376894+05:30","level":"INFO","msg":"handler: closed","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:49.448394977+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:49.448415519+05:30","level":"INFO","msg":"sender: closed","stream_id":"w01jhvtj"}
+{"time":"2025-03-17T06:20:49.448571803+05:30","level":"INFO","msg":"stream: closed","id":"w01jhvtj"}

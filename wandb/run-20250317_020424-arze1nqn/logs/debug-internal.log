@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:04:24.940760641+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_020424-arze1nqn/logs/debug-core.log"}
+{"time":"2025-03-17T02:04:25.044207864+05:30","level":"INFO","msg":"created new stream","id":"arze1nqn"}
+{"time":"2025-03-17T02:04:25.044248966+05:30","level":"INFO","msg":"stream: started","id":"arze1nqn"}
+{"time":"2025-03-17T02:04:25.044279985+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:25.044322801+05:30","level":"INFO","msg":"handler: started","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:25.044354887+05:30","level":"INFO","msg":"sender: started","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:25.848226866+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:04:38.054306018+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:04:38.058645447+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:04:39.05794483+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.694031298,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.406508753,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T02:04:39.724342091+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:04:40.042385821+05:30","level":"INFO","msg":"stream: closing","id":"arze1nqn"}
+{"time":"2025-03-17T02:04:40.042428756+05:30","level":"INFO","msg":"handler: closed","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:40.042483165+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:40.042690788+05:30","level":"INFO","msg":"sender: closed","stream_id":"arze1nqn"}
+{"time":"2025-03-17T02:04:40.042717761+05:30","level":"INFO","msg":"stream: closed","id":"arze1nqn"}

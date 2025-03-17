@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:23:20.037428499+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_072320-7wyuwtw5/logs/debug-core.log"}
+{"time":"2025-03-17T07:23:20.140863267+05:30","level":"INFO","msg":"created new stream","id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:20.14093124+05:30","level":"INFO","msg":"stream: started","id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:20.140970776+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:20.140994645+05:30","level":"INFO","msg":"sender: started","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:20.141065834+05:30","level":"INFO","msg":"handler: started","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:21.008560431+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:23:31.424371691+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:23:31.424866019+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:23:32.427903467+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.691924309,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.379807837,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T07:23:33.047114501+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:23:33.553473437+05:30","level":"INFO","msg":"stream: closing","id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:33.553517984+05:30","level":"INFO","msg":"handler: closed","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:33.553542747+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:33.553600865+05:30","level":"INFO","msg":"sender: closed","stream_id":"7wyuwtw5"}
+{"time":"2025-03-17T07:23:33.553734146+05:30","level":"INFO","msg":"stream: closed","id":"7wyuwtw5"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:16:14.434903376+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_081614-pvc8ief1/logs/debug-core.log"}
+{"time":"2025-03-17T08:16:14.539829957+05:30","level":"INFO","msg":"created new stream","id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:14.539914709+05:30","level":"INFO","msg":"stream: started","id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:14.539993744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:14.540160507+05:30","level":"INFO","msg":"sender: started","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:14.540252113+05:30","level":"INFO","msg":"handler: started","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:15.302021388+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:16:27.911160933+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:16:27.911520406+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:16:28.914918256+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.684756691,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.684738549,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.397036455,"progress":"990B/990B"}],"total_operations":3}}
+{"time":"2025-03-17T08:16:29.565342132+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:16:29.895695008+05:30","level":"INFO","msg":"stream: closing","id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:29.895740254+05:30","level":"INFO","msg":"handler: closed","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:29.895770802+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:29.89579709+05:30","level":"INFO","msg":"sender: closed","stream_id":"pvc8ief1"}
+{"time":"2025-03-17T08:16:29.896008952+05:30","level":"INFO","msg":"stream: closed","id":"pvc8ief1"}

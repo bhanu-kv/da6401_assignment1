@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:44:23.022210804+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_044423-xn06n1vq/logs/debug-core.log"}
+{"time":"2025-03-17T04:44:23.124619738+05:30","level":"INFO","msg":"created new stream","id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:23.124641958+05:30","level":"INFO","msg":"stream: started","id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:23.124664732+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:23.124700454+05:30","level":"INFO","msg":"handler: started","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:23.124836844+05:30","level":"INFO","msg":"sender: started","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:23.850764192+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:44:52.137662999+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:44:52.138018626+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:44:53.141544761+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.679935057,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.381207143,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T04:44:53.777183596+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:44:54.080931999+05:30","level":"INFO","msg":"stream: closing","id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:54.080986576+05:30","level":"INFO","msg":"handler: closed","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:54.081029164+05:30","level":"INFO","msg":"sender: closed","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:54.08101749+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xn06n1vq"}
+{"time":"2025-03-17T04:44:54.081229035+05:30","level":"INFO","msg":"stream: closed","id":"xn06n1vq"}

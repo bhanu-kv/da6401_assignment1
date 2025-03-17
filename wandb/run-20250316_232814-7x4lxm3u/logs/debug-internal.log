@@ -1,0 +1,15 @@
+{"time":"2025-03-16T23:28:14.352745606+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250316_232814-7x4lxm3u/logs/debug-core.log"}
+{"time":"2025-03-16T23:28:14.456943437+05:30","level":"INFO","msg":"created new stream","id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:14.456999282+05:30","level":"INFO","msg":"stream: started","id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:14.457057874+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:14.457078873+05:30","level":"INFO","msg":"sender: started","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:14.457185628+05:30","level":"INFO","msg":"handler: started","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:15.164815294+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:28:33.843868812+05:30","level":"INFO","msg":"stream: closing","id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:33.843893316+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:28:33.844716141+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:28:34.797879759+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:28:35.114986564+05:30","level":"INFO","msg":"handler: closed","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:35.115015119+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:35.115044204+05:30","level":"INFO","msg":"sender: closed","stream_id":"7x4lxm3u"}
+{"time":"2025-03-16T23:28:35.115298947+05:30","level":"INFO","msg":"stream: closed","id":"7x4lxm3u"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:26:18.042546754+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_022618-d43ejblv/logs/debug-core.log"}
+{"time":"2025-03-17T02:26:18.146533784+05:30","level":"INFO","msg":"created new stream","id":"d43ejblv"}
+{"time":"2025-03-17T02:26:18.146599501+05:30","level":"INFO","msg":"stream: started","id":"d43ejblv"}
+{"time":"2025-03-17T02:26:18.146680991+05:30","level":"INFO","msg":"handler: started","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:18.146685033+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:18.146808904+05:30","level":"INFO","msg":"sender: started","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:18.941530375+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:26:32.105154671+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:26:32.105761911+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:26:33.109033765+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.682156479,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.394887957,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T02:26:33.791923243+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:26:34.099512225+05:30","level":"INFO","msg":"stream: closing","id":"d43ejblv"}
+{"time":"2025-03-17T02:26:34.099546489+05:30","level":"INFO","msg":"handler: closed","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:34.099561213+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:34.099590569+05:30","level":"INFO","msg":"sender: closed","stream_id":"d43ejblv"}
+{"time":"2025-03-17T02:26:34.099723403+05:30","level":"INFO","msg":"stream: closed","id":"d43ejblv"}

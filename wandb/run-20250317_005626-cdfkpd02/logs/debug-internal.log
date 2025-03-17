@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:56:26.150815525+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005626-cdfkpd02/logs/debug-core.log"}
+{"time":"2025-03-17T00:56:26.265544872+05:30","level":"INFO","msg":"created new stream","id":"cdfkpd02"}
+{"time":"2025-03-17T00:56:26.265606082+05:30","level":"INFO","msg":"stream: started","id":"cdfkpd02"}
+{"time":"2025-03-17T00:56:26.265674162+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:56:26.265727369+05:30","level":"INFO","msg":"handler: started","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:56:26.26591202+05:30","level":"INFO","msg":"sender: started","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:56:26.991564603+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:57:14.478843518+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:57:14.479166714+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:57:15.482658835+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.676096975,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.29198359,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T00:57:16.148814218+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:57:16.467953615+05:30","level":"INFO","msg":"stream: closing","id":"cdfkpd02"}
+{"time":"2025-03-17T00:57:16.467996359+05:30","level":"INFO","msg":"handler: closed","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:57:16.468022057+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:57:16.468043903+05:30","level":"INFO","msg":"sender: closed","stream_id":"cdfkpd02"}
+{"time":"2025-03-17T00:57:16.468247065+05:30","level":"INFO","msg":"stream: closed","id":"cdfkpd02"}

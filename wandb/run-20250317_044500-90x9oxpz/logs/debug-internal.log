@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:45:00.238012105+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_044500-90x9oxpz/logs/debug-core.log"}
+{"time":"2025-03-17T04:45:00.341148992+05:30","level":"INFO","msg":"created new stream","id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:00.341185032+05:30","level":"INFO","msg":"stream: started","id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:00.341211398+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:00.341210845+05:30","level":"INFO","msg":"handler: started","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:00.341305811+05:30","level":"INFO","msg":"sender: started","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:01.084903024+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:45:09.374302987+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:45:09.374985268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:45:10.375852982+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.690916865,"progress":"2.2KB/2.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.388159697,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T04:45:11.236290993+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:45:11.583809737+05:30","level":"INFO","msg":"stream: closing","id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:11.583843754+05:30","level":"INFO","msg":"handler: closed","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:11.583871038+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:11.583920851+05:30","level":"INFO","msg":"sender: closed","stream_id":"90x9oxpz"}
+{"time":"2025-03-17T04:45:11.584037435+05:30","level":"INFO","msg":"stream: closed","id":"90x9oxpz"}

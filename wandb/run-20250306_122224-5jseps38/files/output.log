@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/home/bhanu/IITM/Courses/FDL/da6401_assignment1/q1_plot_images.py", line 16, in <module>
-    train_data = fashion_mnist.load_data(
-TypeError: load_data() got an unexpected keyword argument 'root'
-Traceback (most recent call last):
-  File "/home/bhanu/IITM/Courses/FDL/da6401_assignment1/q1_plot_images.py", line 16, in <module>
-    train_data = fashion_mnist.load_data(
-TypeError: load_data() got an unexpected keyword argument 'root'

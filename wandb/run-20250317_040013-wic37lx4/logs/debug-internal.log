@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:00:13.641138118+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040013-wic37lx4/logs/debug-core.log"}
+{"time":"2025-03-17T04:00:13.745183048+05:30","level":"INFO","msg":"created new stream","id":"wic37lx4"}
+{"time":"2025-03-17T04:00:13.745241952+05:30","level":"INFO","msg":"stream: started","id":"wic37lx4"}
+{"time":"2025-03-17T04:00:13.745325524+05:30","level":"INFO","msg":"handler: started","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:13.745382204+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:13.745394979+05:30","level":"INFO","msg":"sender: started","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:14.498459921+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:00:29.25960154+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:00:29.260109731+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:00:30.263092083+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.68774401,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.38475401,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T04:00:30.941826251+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:00:31.294165424+05:30","level":"INFO","msg":"stream: closing","id":"wic37lx4"}
+{"time":"2025-03-17T04:00:31.294205725+05:30","level":"INFO","msg":"handler: closed","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:31.29422533+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:31.294244778+05:30","level":"INFO","msg":"sender: closed","stream_id":"wic37lx4"}
+{"time":"2025-03-17T04:00:31.294385387+05:30","level":"INFO","msg":"stream: closed","id":"wic37lx4"}

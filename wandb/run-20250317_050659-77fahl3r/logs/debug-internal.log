@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:06:59.841144048+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050659-77fahl3r/logs/debug-core.log"}
+{"time":"2025-03-17T05:06:59.943813598+05:30","level":"INFO","msg":"created new stream","id":"77fahl3r"}
+{"time":"2025-03-17T05:06:59.943848538+05:30","level":"INFO","msg":"stream: started","id":"77fahl3r"}
+{"time":"2025-03-17T05:06:59.943863474+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:06:59.943907666+05:30","level":"INFO","msg":"handler: started","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:06:59.943924896+05:30","level":"INFO","msg":"sender: started","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:07:00.691356587+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:07:36.863842547+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:07:36.864154725+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:07:37.867423128+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680092865,"progress":"206B/206B"},{"desc":"uploading config.yaml","runtime_seconds":0.291060888,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T05:07:38.497553955+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:07:38.822090312+05:30","level":"INFO","msg":"stream: closing","id":"77fahl3r"}
+{"time":"2025-03-17T05:07:38.822124067+05:30","level":"INFO","msg":"handler: closed","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:07:38.822141587+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:07:38.822202141+05:30","level":"INFO","msg":"sender: closed","stream_id":"77fahl3r"}
+{"time":"2025-03-17T05:07:38.822304134+05:30","level":"INFO","msg":"stream: closed","id":"77fahl3r"}

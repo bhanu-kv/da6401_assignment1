@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:13:03.793047301+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_021303-fygjkob6/logs/debug-core.log"}
+{"time":"2025-03-17T02:13:03.896605904+05:30","level":"INFO","msg":"created new stream","id":"fygjkob6"}
+{"time":"2025-03-17T02:13:03.896634407+05:30","level":"INFO","msg":"stream: started","id":"fygjkob6"}
+{"time":"2025-03-17T02:13:03.896686476+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:03.896707014+05:30","level":"INFO","msg":"sender: started","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:03.896717958+05:30","level":"INFO","msg":"handler: started","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:04.644950164+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:13:32.088457625+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:13:32.088751309+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:13:33.092209204+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.678292627,"progress":"201B/201B"},{"desc":"uploading config.yaml","runtime_seconds":0.366466504,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T02:13:33.776802405+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:13:34.111717699+05:30","level":"INFO","msg":"stream: closing","id":"fygjkob6"}
+{"time":"2025-03-17T02:13:34.111753903+05:30","level":"INFO","msg":"handler: closed","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:34.111769161+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:34.111812958+05:30","level":"INFO","msg":"sender: closed","stream_id":"fygjkob6"}
+{"time":"2025-03-17T02:13:34.111918379+05:30","level":"INFO","msg":"stream: closed","id":"fygjkob6"}

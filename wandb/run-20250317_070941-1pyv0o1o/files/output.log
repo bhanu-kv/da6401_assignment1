@@ -1,0 +1,91 @@
+0.09333333333333334
+New best model saved with validation accuracy: 0.09333333333333334
+------------------------------------------------------
+Epoch: 1
+Loss: 3738.1471687160756
+Correct Predications: 5344
+Total Images: 54000
+Accuracy: 0.09896296296296296
+
+
+0.1035
+New best model saved with validation accuracy: 0.1035
+------------------------------------------------------
+Epoch: 2
+Loss: 4282.630555938643
+Correct Predications: 5371
+Total Images: 54000
+Accuracy: 0.09946296296296296
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 3
+Loss: 4656.695244474907
+Correct Predications: 5450
+Total Images: 54000
+Accuracy: 0.10092592592592593
+
+
+0.098
+------------------------------------------------------
+Epoch: 4
+Loss: 4831.76360619431
+Correct Predications: 5379
+Total Images: 54000
+Accuracy: 0.09961111111111111
+
+
+0.098
+------------------------------------------------------
+Epoch: 5
+Loss: 4888.73053540725
+Correct Predications: 5540
+Total Images: 54000
+Accuracy: 0.1025925925925926
+
+
+0.1035
+------------------------------------------------------
+Epoch: 6
+Loss: 4950.811266815764
+Correct Predications: 5456
+Total Images: 54000
+Accuracy: 0.10103703703703704
+
+
+0.09716666666666667
+------------------------------------------------------
+Epoch: 7
+Loss: 4980.777900487581
+Correct Predications: 5336
+Total Images: 54000
+Accuracy: 0.09881481481481481
+
+
+0.1045
+New best model saved with validation accuracy: 0.1045
+------------------------------------------------------
+Epoch: 8
+Loss: 4986.8019634734555
+Correct Predications: 5451
+Total Images: 54000
+Accuracy: 0.10094444444444445
+
+
+0.1
+------------------------------------------------------
+Epoch: 9
+Loss: 5022.703624881838
+Correct Predications: 5378
+Total Images: 54000
+Accuracy: 0.0995925925925926
+
+
+0.098
+------------------------------------------------------
+Epoch: 10
+Loss: 4991.584161047419
+Correct Predications: 5442
+Total Images: 54000
+Accuracy: 0.10077777777777777

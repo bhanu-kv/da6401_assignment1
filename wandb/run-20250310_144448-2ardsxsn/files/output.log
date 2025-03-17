@@ -1,0 +1,45 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+0.09983333333333333
+New best model saved with validation accuracy: 0.09983333333333333
+------------------------------------------------------
+Epoch: 1
+Loss: 4233.729394020385
+Correct Predications: 5329
+Total Images: 54000
+Accuracy: 0.09868518518518518
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 2
+Loss: 3889.7811802163824
+Correct Predications: 5283
+Total Images: 54000
+Accuracy: 0.09783333333333333
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 3
+Loss: 3889.781180216383
+Correct Predications: 5283
+Total Images: 54000
+Accuracy: 0.09783333333333333
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 4
+Loss: 3889.7811802163837
+Correct Predications: 5283
+Total Images: 54000
+Accuracy: 0.09783333333333333
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 5
+Loss: 3889.7811802163837
+Correct Predications: 5283
+Total Images: 54000
+Accuracy: 0.09783333333333333

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:42:03.2791549+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_024203-p54wapen/logs/debug-core.log"}
+{"time":"2025-03-17T02:42:03.383531084+05:30","level":"INFO","msg":"created new stream","id":"p54wapen"}
+{"time":"2025-03-17T02:42:03.383598804+05:30","level":"INFO","msg":"stream: started","id":"p54wapen"}
+{"time":"2025-03-17T02:42:03.383658242+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:03.383667531+05:30","level":"INFO","msg":"sender: started","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:03.383740252+05:30","level":"INFO","msg":"handler: started","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:04.066642513+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:42:17.446373402+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:42:17.446741193+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:42:18.45045392+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.685297597,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.400140814,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T02:42:19.141747261+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:42:19.449966856+05:30","level":"INFO","msg":"stream: closing","id":"p54wapen"}
+{"time":"2025-03-17T02:42:19.449996228+05:30","level":"INFO","msg":"handler: closed","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:19.450011177+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:19.450059329+05:30","level":"INFO","msg":"sender: closed","stream_id":"p54wapen"}
+{"time":"2025-03-17T02:42:19.450163063+05:30","level":"INFO","msg":"stream: closed","id":"p54wapen"}

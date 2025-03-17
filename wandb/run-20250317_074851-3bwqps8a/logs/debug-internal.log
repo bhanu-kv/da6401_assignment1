@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:48:51.384121827+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_074851-3bwqps8a/logs/debug-core.log"}
+{"time":"2025-03-17T07:48:51.489044663+05:30","level":"INFO","msg":"created new stream","id":"3bwqps8a"}
+{"time":"2025-03-17T07:48:51.489100218+05:30","level":"INFO","msg":"stream: started","id":"3bwqps8a"}
+{"time":"2025-03-17T07:48:51.489237964+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:48:51.489243053+05:30","level":"INFO","msg":"sender: started","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:48:51.489263081+05:30","level":"INFO","msg":"handler: started","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:48:52.50500574+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:49:17.933843126+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:49:17.934158433+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:49:18.937064167+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687073117,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.383348706,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T07:49:19.601316977+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:49:19.902966985+05:30","level":"INFO","msg":"stream: closing","id":"3bwqps8a"}
+{"time":"2025-03-17T07:49:19.902995623+05:30","level":"INFO","msg":"handler: closed","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:49:19.90301229+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:49:19.903032818+05:30","level":"INFO","msg":"sender: closed","stream_id":"3bwqps8a"}
+{"time":"2025-03-17T07:49:19.903149135+05:30","level":"INFO","msg":"stream: closed","id":"3bwqps8a"}

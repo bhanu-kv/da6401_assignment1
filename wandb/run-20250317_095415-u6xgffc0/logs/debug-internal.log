@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:54:15.130807304+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_095415-u6xgffc0/logs/debug-core.log"}
+{"time":"2025-03-17T09:54:15.233626955+05:30","level":"INFO","msg":"created new stream","id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:15.233649815+05:30","level":"INFO","msg":"stream: started","id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:15.233723993+05:30","level":"INFO","msg":"sender: started","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:15.233720621+05:30","level":"INFO","msg":"handler: started","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:15.233718269+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:16.083686702+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:54:24.829553836+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:54:24.830145901+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:54:25.833196949+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.693646484,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.359353077,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T09:54:26.440975805+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:54:26.771227745+05:30","level":"INFO","msg":"stream: closing","id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:26.771238399+05:30","level":"INFO","msg":"handler: closed","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:26.771245925+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:26.77125685+05:30","level":"INFO","msg":"sender: closed","stream_id":"u6xgffc0"}
+{"time":"2025-03-17T09:54:26.771301333+05:30","level":"INFO","msg":"stream: closed","id":"u6xgffc0"}

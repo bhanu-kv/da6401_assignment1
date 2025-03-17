@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:48:05.435429382+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_014805-n0yxuaa5/logs/debug-core.log"}
+{"time":"2025-03-17T01:48:05.550007211+05:30","level":"INFO","msg":"created new stream","id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:05.55006524+05:30","level":"INFO","msg":"stream: started","id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:05.550160673+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:05.550221352+05:30","level":"INFO","msg":"sender: started","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:05.550241025+05:30","level":"INFO","msg":"handler: started","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:06.355094871+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:48:13.786577665+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:48:13.787206622+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:48:14.790869397+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.690723593,"progress":"202B/202B"},{"desc":"uploading config.yaml","runtime_seconds":0.42293114,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T01:48:15.393264639+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:48:15.74232151+05:30","level":"INFO","msg":"stream: closing","id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:15.742358025+05:30","level":"INFO","msg":"handler: closed","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:15.742374919+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:15.742468978+05:30","level":"INFO","msg":"sender: closed","stream_id":"n0yxuaa5"}
+{"time":"2025-03-17T01:48:15.742546996+05:30","level":"INFO","msg":"stream: closed","id":"n0yxuaa5"}

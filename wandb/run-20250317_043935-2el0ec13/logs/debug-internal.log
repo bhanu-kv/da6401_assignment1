@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:39:35.741773107+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_043935-2el0ec13/logs/debug-core.log"}
+{"time":"2025-03-17T04:39:35.844515755+05:30","level":"INFO","msg":"created new stream","id":"2el0ec13"}
+{"time":"2025-03-17T04:39:35.844552844+05:30","level":"INFO","msg":"stream: started","id":"2el0ec13"}
+{"time":"2025-03-17T04:39:35.844580318+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:35.844602235+05:30","level":"INFO","msg":"sender: started","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:35.844682138+05:30","level":"INFO","msg":"handler: started","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:36.583021865+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:39:44.976228959+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:39:44.97672165+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:39:45.980727069+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692848243,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.39825403,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T04:39:46.59732262+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:39:46.906797561+05:30","level":"INFO","msg":"stream: closing","id":"2el0ec13"}
+{"time":"2025-03-17T04:39:46.906832623+05:30","level":"INFO","msg":"handler: closed","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:46.906850729+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:46.906919918+05:30","level":"INFO","msg":"sender: closed","stream_id":"2el0ec13"}
+{"time":"2025-03-17T04:39:46.906990756+05:30","level":"INFO","msg":"stream: closed","id":"2el0ec13"}

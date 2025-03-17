@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:33:50.593922125+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_053350-wxq7edxs/logs/debug-core.log"}
+{"time":"2025-03-17T05:33:50.698220009+05:30","level":"INFO","msg":"created new stream","id":"wxq7edxs"}
+{"time":"2025-03-17T05:33:50.698278227+05:30","level":"INFO","msg":"stream: started","id":"wxq7edxs"}
+{"time":"2025-03-17T05:33:50.698329132+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:33:50.698352221+05:30","level":"INFO","msg":"sender: started","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:33:50.698395092+05:30","level":"INFO","msg":"handler: started","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:33:51.441524887+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:34:05.110218838+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:34:05.110669353+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:34:06.114028428+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.693102775,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.402487269,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T05:34:06.760673708+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:34:07.079569441+05:30","level":"INFO","msg":"stream: closing","id":"wxq7edxs"}
+{"time":"2025-03-17T05:34:07.079597463+05:30","level":"INFO","msg":"handler: closed","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:34:07.079612916+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:34:07.079640724+05:30","level":"INFO","msg":"sender: closed","stream_id":"wxq7edxs"}
+{"time":"2025-03-17T05:34:07.079786615+05:30","level":"INFO","msg":"stream: closed","id":"wxq7edxs"}

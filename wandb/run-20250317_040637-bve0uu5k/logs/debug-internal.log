@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:06:37.604803255+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040637-bve0uu5k/logs/debug-core.log"}
+{"time":"2025-03-17T04:06:37.70790142+05:30","level":"INFO","msg":"created new stream","id":"bve0uu5k"}
+{"time":"2025-03-17T04:06:37.707923783+05:30","level":"INFO","msg":"stream: started","id":"bve0uu5k"}
+{"time":"2025-03-17T04:06:37.707945657+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:06:37.707975001+05:30","level":"INFO","msg":"handler: started","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:06:37.708003925+05:30","level":"INFO","msg":"sender: started","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:06:38.475502558+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:07:03.581724782+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:07:03.5820134+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:07:04.585361306+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.684549563,"progress":"218B/218B"},{"desc":"uploading config.yaml","runtime_seconds":0.330153143,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T04:07:05.336806286+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:07:05.650861327+05:30","level":"INFO","msg":"stream: closing","id":"bve0uu5k"}
+{"time":"2025-03-17T04:07:05.650892963+05:30","level":"INFO","msg":"handler: closed","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:07:05.650909269+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:07:05.650973281+05:30","level":"INFO","msg":"sender: closed","stream_id":"bve0uu5k"}
+{"time":"2025-03-17T04:07:05.651036539+05:30","level":"INFO","msg":"stream: closed","id":"bve0uu5k"}

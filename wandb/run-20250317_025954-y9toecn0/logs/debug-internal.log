@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:59:54.231753235+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025954-y9toecn0/logs/debug-core.log"}
+{"time":"2025-03-17T02:59:54.336126893+05:30","level":"INFO","msg":"created new stream","id":"y9toecn0"}
+{"time":"2025-03-17T02:59:54.33618901+05:30","level":"INFO","msg":"stream: started","id":"y9toecn0"}
+{"time":"2025-03-17T02:59:54.336250536+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y9toecn0"}
+{"time":"2025-03-17T02:59:54.33633059+05:30","level":"INFO","msg":"sender: started","stream_id":"y9toecn0"}
+{"time":"2025-03-17T02:59:54.33633009+05:30","level":"INFO","msg":"handler: started","stream_id":"y9toecn0"}
+{"time":"2025-03-17T02:59:55.108793858+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:00:12.836513228+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:00:12.836805682+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:00:13.840383377+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.682566605,"progress":"218B/218B"},{"desc":"uploading config.yaml","runtime_seconds":0.408654071,"progress":"996B/996B"}],"total_operations":2}}
+{"time":"2025-03-17T03:00:14.934990742+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:00:15.272074953+05:30","level":"INFO","msg":"stream: closing","id":"y9toecn0"}
+{"time":"2025-03-17T03:00:15.272104969+05:30","level":"INFO","msg":"handler: closed","stream_id":"y9toecn0"}
+{"time":"2025-03-17T03:00:15.272120737+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y9toecn0"}
+{"time":"2025-03-17T03:00:15.272149816+05:30","level":"INFO","msg":"sender: closed","stream_id":"y9toecn0"}
+{"time":"2025-03-17T03:00:15.272267666+05:30","level":"INFO","msg":"stream: closed","id":"y9toecn0"}

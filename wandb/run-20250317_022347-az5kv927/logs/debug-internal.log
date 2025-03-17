@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:23:47.459481602+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_022347-az5kv927/logs/debug-core.log"}
+{"time":"2025-03-17T02:23:47.563799106+05:30","level":"INFO","msg":"created new stream","id":"az5kv927"}
+{"time":"2025-03-17T02:23:47.563854905+05:30","level":"INFO","msg":"stream: started","id":"az5kv927"}
+{"time":"2025-03-17T02:23:47.563911768+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:23:47.563953875+05:30","level":"INFO","msg":"sender: started","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:23:47.563955917+05:30","level":"INFO","msg":"handler: started","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:23:48.360414608+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:24:02.097097437+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:24:02.098095621+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:24:03.101698002+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.694809192,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.385569703,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T02:24:03.844317132+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:24:04.424196813+05:30","level":"INFO","msg":"stream: closing","id":"az5kv927"}
+{"time":"2025-03-17T02:24:04.424224066+05:30","level":"INFO","msg":"handler: closed","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:24:04.424238359+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:24:04.424270416+05:30","level":"INFO","msg":"sender: closed","stream_id":"az5kv927"}
+{"time":"2025-03-17T02:24:04.4243755+05:30","level":"INFO","msg":"stream: closed","id":"az5kv927"}

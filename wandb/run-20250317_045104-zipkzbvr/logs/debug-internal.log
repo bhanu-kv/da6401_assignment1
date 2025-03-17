@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:51:04.742909449+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_045104-zipkzbvr/logs/debug-core.log"}
+{"time":"2025-03-17T04:51:04.846734263+05:30","level":"INFO","msg":"created new stream","id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:04.846789208+05:30","level":"INFO","msg":"stream: started","id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:04.846889202+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:04.846902738+05:30","level":"INFO","msg":"handler: started","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:04.846972066+05:30","level":"INFO","msg":"sender: started","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:05.600670622+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:51:31.082174106+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:51:31.082509343+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:51:32.083756716+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.68361413,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.683588575,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.403325343,"progress":"995B/995B"}],"total_operations":3}}
+{"time":"2025-03-17T04:51:32.75538358+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:51:33.191074505+05:30","level":"INFO","msg":"stream: closing","id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:33.191115383+05:30","level":"INFO","msg":"handler: closed","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:33.191138396+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:33.191160842+05:30","level":"INFO","msg":"sender: closed","stream_id":"zipkzbvr"}
+{"time":"2025-03-17T04:51:33.191344314+05:30","level":"INFO","msg":"stream: closed","id":"zipkzbvr"}

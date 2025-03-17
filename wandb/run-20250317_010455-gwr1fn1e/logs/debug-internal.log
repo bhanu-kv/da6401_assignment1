@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:04:55.890924858+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_010455-gwr1fn1e/logs/debug-core.log"}
+{"time":"2025-03-17T01:04:55.993981758+05:30","level":"INFO","msg":"created new stream","id":"gwr1fn1e"}
+{"time":"2025-03-17T01:04:55.994018239+05:30","level":"INFO","msg":"stream: started","id":"gwr1fn1e"}
+{"time":"2025-03-17T01:04:55.994055436+05:30","level":"INFO","msg":"handler: started","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:04:55.994059136+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:04:55.994119705+05:30","level":"INFO","msg":"sender: started","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:04:56.750834725+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:05:26.915249439+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:05:26.915526124+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:05:27.919014358+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.675796331,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.381177591,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T01:05:28.547647249+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:05:28.845401651+05:30","level":"INFO","msg":"stream: closing","id":"gwr1fn1e"}
+{"time":"2025-03-17T01:05:28.845463606+05:30","level":"INFO","msg":"handler: closed","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:05:28.845489781+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:05:28.845543692+05:30","level":"INFO","msg":"sender: closed","stream_id":"gwr1fn1e"}
+{"time":"2025-03-17T01:05:28.845656107+05:30","level":"INFO","msg":"stream: closed","id":"gwr1fn1e"}

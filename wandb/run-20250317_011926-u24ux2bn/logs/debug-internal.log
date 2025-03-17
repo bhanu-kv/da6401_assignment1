@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:19:26.877947712+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_011926-u24ux2bn/logs/debug-core.log"}
+{"time":"2025-03-17T01:19:26.991823417+05:30","level":"INFO","msg":"created new stream","id":"u24ux2bn"}
+{"time":"2025-03-17T01:19:26.991869569+05:30","level":"INFO","msg":"stream: started","id":"u24ux2bn"}
+{"time":"2025-03-17T01:19:26.991918556+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:19:26.991934661+05:30","level":"INFO","msg":"handler: started","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:19:26.992099902+05:30","level":"INFO","msg":"sender: started","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:19:27.846857335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:20:09.122877031+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:20:09.123307433+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:20:10.126724646+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.679627518,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.406043216,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T01:20:10.733276999+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:20:11.07381216+05:30","level":"INFO","msg":"stream: closing","id":"u24ux2bn"}
+{"time":"2025-03-17T01:20:11.073852337+05:30","level":"INFO","msg":"handler: closed","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:20:11.073902857+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:20:11.07394316+05:30","level":"INFO","msg":"sender: closed","stream_id":"u24ux2bn"}
+{"time":"2025-03-17T01:20:11.07409147+05:30","level":"INFO","msg":"stream: closed","id":"u24ux2bn"}

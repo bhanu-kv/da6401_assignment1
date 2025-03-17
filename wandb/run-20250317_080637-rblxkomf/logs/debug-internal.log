@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:06:37.131894832+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_080637-rblxkomf/logs/debug-core.log"}
+{"time":"2025-03-17T08:06:37.236393184+05:30","level":"INFO","msg":"created new stream","id":"rblxkomf"}
+{"time":"2025-03-17T08:06:37.236469609+05:30","level":"INFO","msg":"stream: started","id":"rblxkomf"}
+{"time":"2025-03-17T08:06:37.236529309+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:06:37.236702845+05:30","level":"INFO","msg":"sender: started","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:06:37.236784985+05:30","level":"INFO","msg":"handler: started","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:06:37.936206898+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:07:07.935344911+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:07:07.935879319+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:07:08.942177974+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.397151792,"progress":"994B/994B"},{"desc":"uploading history steps 5-9, summary, console lines 47-92","runtime_seconds":0.299463547}],"total_operations":2}}
+{"time":"2025-03-17T08:07:09.536927443+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:07:09.970254118+05:30","level":"INFO","msg":"stream: closing","id":"rblxkomf"}
+{"time":"2025-03-17T08:07:09.970265624+05:30","level":"INFO","msg":"handler: closed","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:07:09.970273981+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:07:09.97028295+05:30","level":"INFO","msg":"sender: closed","stream_id":"rblxkomf"}
+{"time":"2025-03-17T08:07:09.970334797+05:30","level":"INFO","msg":"stream: closed","id":"rblxkomf"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:07:30.671362825+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_060730-yb6dd7te/logs/debug-core.log"}
+{"time":"2025-03-17T06:07:30.775868592+05:30","level":"INFO","msg":"created new stream","id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:30.775935705+05:30","level":"INFO","msg":"stream: started","id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:30.776074023+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:30.776097413+05:30","level":"INFO","msg":"sender: started","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:30.776203354+05:30","level":"INFO","msg":"handler: started","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:31.547318482+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:07:57.908585751+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:07:57.908912159+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:07:58.912482592+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691220668,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.358097001,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T06:07:59.562812587+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:07:59.909089839+05:30","level":"INFO","msg":"stream: closing","id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:59.909122085+05:30","level":"INFO","msg":"handler: closed","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:59.909136588+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:59.909159744+05:30","level":"INFO","msg":"sender: closed","stream_id":"yb6dd7te"}
+{"time":"2025-03-17T06:07:59.90929934+05:30","level":"INFO","msg":"stream: closed","id":"yb6dd7te"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:50:13.438181244+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005013-u7kprdes/logs/debug-core.log"}
+{"time":"2025-03-17T00:50:13.54148225+05:30","level":"INFO","msg":"created new stream","id":"u7kprdes"}
+{"time":"2025-03-17T00:50:13.541523562+05:30","level":"INFO","msg":"stream: started","id":"u7kprdes"}
+{"time":"2025-03-17T00:50:13.541581896+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:13.541604623+05:30","level":"INFO","msg":"sender: started","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:13.541668321+05:30","level":"INFO","msg":"handler: started","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:14.341615844+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:50:46.676772498+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:50:46.677173285+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:50:47.680370257+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.489881337,"progress":"1.8KB/1.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.189468425,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T00:50:47.849632173+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:50:48.159813475+05:30","level":"INFO","msg":"stream: closing","id":"u7kprdes"}
+{"time":"2025-03-17T00:50:48.159855633+05:30","level":"INFO","msg":"handler: closed","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:48.159896166+05:30","level":"INFO","msg":"sender: closed","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:48.159883767+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u7kprdes"}
+{"time":"2025-03-17T00:50:48.160068759+05:30","level":"INFO","msg":"stream: closed","id":"u7kprdes"}

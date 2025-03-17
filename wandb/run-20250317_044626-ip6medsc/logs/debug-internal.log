@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:46:26.49354142+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_044626-ip6medsc/logs/debug-core.log"}
+{"time":"2025-03-17T04:46:26.596856779+05:30","level":"INFO","msg":"created new stream","id":"ip6medsc"}
+{"time":"2025-03-17T04:46:26.596909152+05:30","level":"INFO","msg":"stream: started","id":"ip6medsc"}
+{"time":"2025-03-17T04:46:26.596977522+05:30","level":"INFO","msg":"handler: started","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:46:26.596990763+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:46:26.597102109+05:30","level":"INFO","msg":"sender: started","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:46:27.400849429+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:47:09.330205237+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:47:09.33055643+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:47:10.334104507+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.682827446,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.396051835,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T04:47:10.945392896+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:47:11.284326609+05:30","level":"INFO","msg":"stream: closing","id":"ip6medsc"}
+{"time":"2025-03-17T04:47:11.284355554+05:30","level":"INFO","msg":"handler: closed","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:47:11.284385562+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:47:11.28441278+05:30","level":"INFO","msg":"sender: closed","stream_id":"ip6medsc"}
+{"time":"2025-03-17T04:47:11.28453853+05:30","level":"INFO","msg":"stream: closed","id":"ip6medsc"}

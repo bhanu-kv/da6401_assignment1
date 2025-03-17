@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:50:38.063913512+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055038-96gpsl6s/logs/debug-core.log"}
+{"time":"2025-03-17T05:50:38.16846801+05:30","level":"INFO","msg":"created new stream","id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:38.168551989+05:30","level":"INFO","msg":"stream: started","id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:38.168607013+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:38.16862939+05:30","level":"INFO","msg":"sender: started","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:38.168788769+05:30","level":"INFO","msg":"handler: started","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:38.998863485+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:50:51.332777449+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:50:51.333333502+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:50:52.337209508+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.695720329,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.388999568,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T05:50:53.118073677+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:50:53.438149369+05:30","level":"INFO","msg":"stream: closing","id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:53.438193451+05:30","level":"INFO","msg":"handler: closed","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:53.438218943+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:53.438275198+05:30","level":"INFO","msg":"sender: closed","stream_id":"96gpsl6s"}
+{"time":"2025-03-17T05:50:53.4384256+05:30","level":"INFO","msg":"stream: closed","id":"96gpsl6s"}

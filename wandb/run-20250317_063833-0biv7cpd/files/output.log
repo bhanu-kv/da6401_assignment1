@@ -1,0 +1,93 @@
+0.782
+New best model saved with validation accuracy: 0.782
+------------------------------------------------------
+Epoch: 1
+Loss: 297.85897807139577
+Correct Predications: 40832
+Total Images: 54000
+Accuracy: 0.7561481481481481
+
+
+0.7743333333333333
+------------------------------------------------------
+Epoch: 2
+Loss: 230.08839763497966
+Correct Predications: 43219
+Total Images: 54000
+Accuracy: 0.8003518518518519
+
+
+0.7726666666666666
+------------------------------------------------------
+Epoch: 3
+Loss: 236.91407063769265
+Correct Predications: 43275
+Total Images: 54000
+Accuracy: 0.8013888888888889
+
+
+0.7285
+------------------------------------------------------
+Epoch: 4
+Loss: 268.32909664178413
+Correct Predications: 41645
+Total Images: 54000
+Accuracy: 0.7712037037037037
+
+
+0.7618333333333334
+------------------------------------------------------
+Epoch: 5
+Loss: 281.4651844509166
+Correct Predications: 41362
+Total Images: 54000
+Accuracy: 0.765962962962963
+
+
+0.7335
+------------------------------------------------------
+Epoch: 6
+Loss: 289.47278028229965
+Correct Predications: 40699
+Total Images: 54000
+Accuracy: 0.7536851851851852
+
+
+0.7188333333333333
+------------------------------------------------------
+Epoch: 7
+Loss: 302.5804873230167
+Correct Predications: 38963
+Total Images: 54000
+Accuracy: 0.7215370370370371
+/home/bhanu/IITM/Courses/FDL/da6401_assignment1/act_fn.py:13: RuntimeWarning: overflow encountered in exp
+  return (np.exp(inputs)-np.exp(-inputs))/(np.exp(inputs)+np.exp(-inputs))
+/home/bhanu/IITM/Courses/FDL/da6401_assignment1/act_fn.py:13: RuntimeWarning: invalid value encountered in divide
+  return (np.exp(inputs)-np.exp(-inputs))/(np.exp(inputs)+np.exp(-inputs))
+
+
+0.0985
+------------------------------------------------------
+Epoch: 8
+Loss: nan
+Correct Predications: 36380
+Total Images: 54000
+Accuracy: 0.6737037037037037
+
+
+0.0985
+------------------------------------------------------
+Epoch: 9
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 10
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667

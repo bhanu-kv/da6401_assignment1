@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:19:11.605374164+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_061911-sx7dylva/logs/debug-core.log"}
+{"time":"2025-03-17T06:19:11.709474191+05:30","level":"INFO","msg":"created new stream","id":"sx7dylva"}
+{"time":"2025-03-17T06:19:11.709558133+05:30","level":"INFO","msg":"stream: started","id":"sx7dylva"}
+{"time":"2025-03-17T06:19:11.709619723+05:30","level":"INFO","msg":"handler: started","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:11.709618044+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:11.709717566+05:30","level":"INFO","msg":"sender: started","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:12.401288385+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:19:25.308907254+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:19:25.309391749+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:19:26.313074725+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692937023,"progress":"206B/206B"},{"desc":"uploading config.yaml","runtime_seconds":0.389245178,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T06:19:26.971024025+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:19:27.292517497+05:30","level":"INFO","msg":"stream: closing","id":"sx7dylva"}
+{"time":"2025-03-17T06:19:27.292551024+05:30","level":"INFO","msg":"handler: closed","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:27.292573447+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:27.292633037+05:30","level":"INFO","msg":"sender: closed","stream_id":"sx7dylva"}
+{"time":"2025-03-17T06:19:27.292780425+05:30","level":"INFO","msg":"stream: closed","id":"sx7dylva"}

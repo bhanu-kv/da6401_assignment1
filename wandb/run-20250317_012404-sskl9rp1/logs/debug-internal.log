@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:24:04.39828304+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_012404-sskl9rp1/logs/debug-core.log"}
+{"time":"2025-03-17T01:24:04.502165877+05:30","level":"INFO","msg":"created new stream","id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:04.502215611+05:30","level":"INFO","msg":"stream: started","id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:04.502310091+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:04.50233715+05:30","level":"INFO","msg":"sender: started","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:04.502403818+05:30","level":"INFO","msg":"handler: started","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:05.188384833+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:24:35.208747331+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:24:35.209020628+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:24:36.212285168+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680125221,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.375286121,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T01:24:36.854078501+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:24:37.160604433+05:30","level":"INFO","msg":"stream: closing","id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:37.160639+05:30","level":"INFO","msg":"handler: closed","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:37.160678091+05:30","level":"INFO","msg":"sender: closed","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:37.160662621+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sskl9rp1"}
+{"time":"2025-03-17T01:24:37.160829712+05:30","level":"INFO","msg":"stream: closed","id":"sskl9rp1"}

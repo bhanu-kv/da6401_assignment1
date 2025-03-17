@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:46:40.007047148+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_014639-6srdlm0a/logs/debug-core.log"}
+{"time":"2025-03-17T01:46:40.111394186+05:30","level":"INFO","msg":"created new stream","id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:40.111478182+05:30","level":"INFO","msg":"stream: started","id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:40.11154834+05:30","level":"INFO","msg":"handler: started","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:40.11155705+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:40.111627951+05:30","level":"INFO","msg":"sender: started","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:40.932882045+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:46:54.083655166+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:46:54.084029945+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:46:55.087276755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.678384758,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.401118217,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T01:46:55.749152524+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:46:56.071588624+05:30","level":"INFO","msg":"stream: closing","id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:56.071646567+05:30","level":"INFO","msg":"handler: closed","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:56.071673754+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:56.071705474+05:30","level":"INFO","msg":"sender: closed","stream_id":"6srdlm0a"}
+{"time":"2025-03-17T01:46:56.0718735+05:30","level":"INFO","msg":"stream: closed","id":"6srdlm0a"}

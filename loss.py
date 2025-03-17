@@ -27,3 +27,15 @@ class Loss_CategoricalCrossentropy:
         # Calculating likelihood
         negative_log_likelihoods = -np.log(correct_confidences)
         return negative_log_likelihoods
+
+class squared_error():
+    """
+    Assumes, y_true is one-hot encoded.
+    """
+    def __init__(self, output, y):
+        self.y_pred = output
+        self.y_true = y
+
+    def calculate(self):
+        loss = np.mean(np.square(self.y_pred - self.y_true))
+        return loss

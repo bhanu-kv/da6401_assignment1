@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:25:02.300079991+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_072502-bwp2csex/logs/debug-core.log"}
+{"time":"2025-03-17T07:25:02.403484257+05:30","level":"INFO","msg":"created new stream","id":"bwp2csex"}
+{"time":"2025-03-17T07:25:02.403544783+05:30","level":"INFO","msg":"stream: started","id":"bwp2csex"}
+{"time":"2025-03-17T07:25:02.403612895+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:02.40363611+05:30","level":"INFO","msg":"sender: started","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:02.403730654+05:30","level":"INFO","msg":"handler: started","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:03.199543988+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:25:25.064664994+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:25:25.064953455+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:25:26.068247827+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681483282,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.3794988,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T07:25:26.73855085+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:25:27.062635976+05:30","level":"INFO","msg":"stream: closing","id":"bwp2csex"}
+{"time":"2025-03-17T07:25:27.062671774+05:30","level":"INFO","msg":"handler: closed","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:27.062688457+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:27.062742486+05:30","level":"INFO","msg":"sender: closed","stream_id":"bwp2csex"}
+{"time":"2025-03-17T07:25:27.062830265+05:30","level":"INFO","msg":"stream: closed","id":"bwp2csex"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:31:54.784019127+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250316_233154-qk82w1d0/logs/debug-core.log"}
+{"time":"2025-03-16T23:31:54.890913753+05:30","level":"INFO","msg":"created new stream","id":"qk82w1d0"}
+{"time":"2025-03-16T23:31:54.890975039+05:30","level":"INFO","msg":"stream: started","id":"qk82w1d0"}
+{"time":"2025-03-16T23:31:54.891033545+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:31:54.891052662+05:30","level":"INFO","msg":"handler: started","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:31:54.891089097+05:30","level":"INFO","msg":"sender: started","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:31:55.715716287+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:32:14.032658132+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:32:14.033051557+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:32:15.035914569+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.682990546,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.398113249,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-16T23:32:15.674528368+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:32:16.016637755+05:30","level":"INFO","msg":"stream: closing","id":"qk82w1d0"}
+{"time":"2025-03-16T23:32:16.016681895+05:30","level":"INFO","msg":"handler: closed","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:32:16.016716243+05:30","level":"INFO","msg":"sender: closed","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:32:16.016705725+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qk82w1d0"}
+{"time":"2025-03-16T23:32:16.016864967+05:30","level":"INFO","msg":"stream: closed","id":"qk82w1d0"}

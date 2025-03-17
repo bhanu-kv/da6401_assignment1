@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:47:57.555607486+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_044757-rxwed7eg/logs/debug-core.log"}
+{"time":"2025-03-17T04:47:57.659524908+05:30","level":"INFO","msg":"created new stream","id":"rxwed7eg"}
+{"time":"2025-03-17T04:47:57.659565645+05:30","level":"INFO","msg":"stream: started","id":"rxwed7eg"}
+{"time":"2025-03-17T04:47:57.659641877+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:47:57.659654575+05:30","level":"INFO","msg":"handler: started","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:47:57.659711167+05:30","level":"INFO","msg":"sender: started","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:47:58.405869665+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:48:13.197314193+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:48:13.197961794+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:48:14.199882073+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.698656616,"progress":"2.0KB/2.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.698633813,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.366648076,"progress":"993B/993B"},{"desc":"uploading history steps 0-9, summary, console lines 0-91","runtime_seconds":0.082026196}],"total_operations":4}}
+{"time":"2025-03-17T04:48:14.838972791+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:48:15.149246765+05:30","level":"INFO","msg":"stream: closing","id":"rxwed7eg"}
+{"time":"2025-03-17T04:48:15.149276148+05:30","level":"INFO","msg":"handler: closed","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:48:15.149291947+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:48:15.149364686+05:30","level":"INFO","msg":"sender: closed","stream_id":"rxwed7eg"}
+{"time":"2025-03-17T04:48:15.149467902+05:30","level":"INFO","msg":"stream: closed","id":"rxwed7eg"}

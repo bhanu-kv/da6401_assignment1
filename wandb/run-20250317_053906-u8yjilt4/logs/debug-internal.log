@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:39:06.435543578+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_053906-u8yjilt4/logs/debug-core.log"}
+{"time":"2025-03-17T05:39:06.538974307+05:30","level":"INFO","msg":"created new stream","id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:06.539008993+05:30","level":"INFO","msg":"stream: started","id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:06.539073266+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:06.539085413+05:30","level":"INFO","msg":"sender: started","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:06.539117092+05:30","level":"INFO","msg":"handler: started","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:07.328199293+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:39:31.147847381+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:39:31.148660225+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:39:32.152053882+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691512768,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.400666804,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T05:39:33.042699967+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:39:33.370075052+05:30","level":"INFO","msg":"stream: closing","id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:33.370106062+05:30","level":"INFO","msg":"handler: closed","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:33.370134895+05:30","level":"INFO","msg":"sender: closed","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:33.370123938+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u8yjilt4"}
+{"time":"2025-03-17T05:39:33.370300278+05:30","level":"INFO","msg":"stream: closed","id":"u8yjilt4"}

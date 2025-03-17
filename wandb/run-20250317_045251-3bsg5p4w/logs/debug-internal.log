@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:52:51.640031881+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_045251-3bsg5p4w/logs/debug-core.log"}
+{"time":"2025-03-17T04:52:51.744367853+05:30","level":"INFO","msg":"created new stream","id":"3bsg5p4w"}
+{"time":"2025-03-17T04:52:51.744461671+05:30","level":"INFO","msg":"stream: started","id":"3bsg5p4w"}
+{"time":"2025-03-17T04:52:51.744572271+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:52:51.744590934+05:30","level":"INFO","msg":"sender: started","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:52:51.744720925+05:30","level":"INFO","msg":"handler: started","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:52:52.656070475+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:53:41.866544887+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:53:41.866897806+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:53:42.870380006+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.688276612,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.392632241,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T04:53:43.484098687+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:53:43.808190453+05:30","level":"INFO","msg":"stream: closing","id":"3bsg5p4w"}
+{"time":"2025-03-17T04:53:43.808231048+05:30","level":"INFO","msg":"handler: closed","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:53:43.808259218+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:53:43.808287381+05:30","level":"INFO","msg":"sender: closed","stream_id":"3bsg5p4w"}
+{"time":"2025-03-17T04:53:43.808475673+05:30","level":"INFO","msg":"stream: closed","id":"3bsg5p4w"}

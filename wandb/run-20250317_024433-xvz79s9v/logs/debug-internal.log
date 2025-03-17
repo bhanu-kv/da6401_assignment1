@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:44:33.536392227+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_024433-xvz79s9v/logs/debug-core.log"}
+{"time":"2025-03-17T02:44:33.640714033+05:30","level":"INFO","msg":"created new stream","id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:33.64079269+05:30","level":"INFO","msg":"stream: started","id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:33.640906169+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:33.640916678+05:30","level":"INFO","msg":"sender: started","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:33.641066652+05:30","level":"INFO","msg":"handler: started","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:34.46524418+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:44:57.103723505+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:44:57.104174706+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:44:58.107175969+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.69325333,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.415093148,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T02:44:58.890749985+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:44:59.212188559+05:30","level":"INFO","msg":"stream: closing","id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:59.212232105+05:30","level":"INFO","msg":"handler: closed","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:59.212253893+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:59.212270551+05:30","level":"INFO","msg":"sender: closed","stream_id":"xvz79s9v"}
+{"time":"2025-03-17T02:44:59.212396801+05:30","level":"INFO","msg":"stream: closed","id":"xvz79s9v"}

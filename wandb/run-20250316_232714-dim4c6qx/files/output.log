@@ -1,0 +1,90 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+0.32083333333333336
+New best model saved with validation accuracy: 0.32083333333333336
+------------------------------------------------------
+Epoch: 1
+Loss: 940.265881192446
+Correct Predications: 12431
+Total Images: 54000
+Accuracy: 0.23020370370370372
+
+
+0.4045
+New best model saved with validation accuracy: 0.4045
+------------------------------------------------------
+Epoch: 2
+Loss: 894.1416224012519
+Correct Predications: 20708
+Total Images: 54000
+Accuracy: 0.3834814814814815
+
+
+0.4285
+New best model saved with validation accuracy: 0.4285
+------------------------------------------------------
+Epoch: 3
+Loss: 856.0305498787532
+Correct Predications: 23303
+Total Images: 54000
+Accuracy: 0.43153703703703705
+
+
+0.43933333333333335
+New best model saved with validation accuracy: 0.43933333333333335
+------------------------------------------------------
+Epoch: 4
+Loss: 823.6825725385227
+Correct Predications: 24027
+Total Images: 54000
+Accuracy: 0.4449444444444444
+
+
+0.44183333333333336
+New best model saved with validation accuracy: 0.44183333333333336
+------------------------------------------------------
+Epoch: 5
+Loss: 796.3282955161138
+Correct Predications: 24520
+Total Images: 54000
+Accuracy: 0.4540740740740741
+
+
+0.44666666666666666
+New best model saved with validation accuracy: 0.44666666666666666
+------------------------------------------------------
+Epoch: 6
+Loss: 773.1786362830404
+Correct Predications: 24766
+Total Images: 54000
+Accuracy: 0.4586296296296296
+
+
+0.4503333333333333
+New best model saved with validation accuracy: 0.4503333333333333
+------------------------------------------------------
+Epoch: 7
+Loss: 753.4967704329207
+Correct Predications: 24999
+Total Images: 54000
+Accuracy: 0.46294444444444444
+
+
+0.4523333333333333
+New best model saved with validation accuracy: 0.4523333333333333
+------------------------------------------------------
+Epoch: 8
+Loss: 736.6420025568293
+Correct Predications: 25241
+Total Images: 54000
+Accuracy: 0.4674259259259259
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+
+
+0.45516666666666666
+New best model saved with validation accuracy: 0.45516666666666666
+------------------------------------------------------
+Epoch: 9
+Loss: 722.083970859469
+Correct Predications: 25446
+Total Images: 54000
+Accuracy: 0.4712222222222222

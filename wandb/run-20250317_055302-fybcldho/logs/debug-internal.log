@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:53:02.750499127+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055302-fybcldho/logs/debug-core.log"}
+{"time":"2025-03-17T05:53:02.854744276+05:30","level":"INFO","msg":"created new stream","id":"fybcldho"}
+{"time":"2025-03-17T05:53:02.854820613+05:30","level":"INFO","msg":"stream: started","id":"fybcldho"}
+{"time":"2025-03-17T05:53:02.854931251+05:30","level":"INFO","msg":"sender: started","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:02.854916474+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:02.854949233+05:30","level":"INFO","msg":"handler: started","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:03.618906455+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:53:24.950297032+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:53:24.950963062+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:53:25.927985848+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.646867862,"progress":"2.0KB/2.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.646841149,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.307160525,"progress":"992B/992B"}],"total_operations":3}}
+{"time":"2025-03-17T05:53:26.788110297+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:53:27.092685739+05:30","level":"INFO","msg":"stream: closing","id":"fybcldho"}
+{"time":"2025-03-17T05:53:27.092714058+05:30","level":"INFO","msg":"handler: closed","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:27.092728607+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:27.092797267+05:30","level":"INFO","msg":"sender: closed","stream_id":"fybcldho"}
+{"time":"2025-03-17T05:53:27.092863643+05:30","level":"INFO","msg":"stream: closed","id":"fybcldho"}

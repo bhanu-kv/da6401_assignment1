@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:44:43.130797155+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_034443-kyqhv338/logs/debug-core.log"}
+{"time":"2025-03-17T03:44:43.235974918+05:30","level":"INFO","msg":"created new stream","id":"kyqhv338"}
+{"time":"2025-03-17T03:44:43.236038841+05:30","level":"INFO","msg":"stream: started","id":"kyqhv338"}
+{"time":"2025-03-17T03:44:43.236109994+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:44:43.236149095+05:30","level":"INFO","msg":"sender: started","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:44:43.236258363+05:30","level":"INFO","msg":"handler: started","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:44:43.970225555+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:45:07.16233191+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:45:07.162662372+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:45:08.166159216+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686292562,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.40272367,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T03:45:09.117590668+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:45:09.429165073+05:30","level":"INFO","msg":"stream: closing","id":"kyqhv338"}
+{"time":"2025-03-17T03:45:09.429201277+05:30","level":"INFO","msg":"handler: closed","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:45:09.429216683+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:45:09.429281565+05:30","level":"INFO","msg":"sender: closed","stream_id":"kyqhv338"}
+{"time":"2025-03-17T03:45:09.429361564+05:30","level":"INFO","msg":"stream: closed","id":"kyqhv338"}

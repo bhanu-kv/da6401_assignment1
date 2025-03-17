@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:27:35.246029981+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_102735-yiohn9ml/logs/debug-core.log"}
+{"time":"2025-03-17T10:27:35.349697515+05:30","level":"INFO","msg":"created new stream","id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:35.349776681+05:30","level":"INFO","msg":"stream: started","id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:35.349871811+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:35.349918664+05:30","level":"INFO","msg":"sender: started","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:35.350041229+05:30","level":"INFO","msg":"handler: started","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:36.100172749+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:27:47.976120658+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:27:47.976589804+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:27:48.980292312+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.687596461,"progress":"1.9KB/1.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.380968092,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T10:27:49.590849447+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:27:49.928366053+05:30","level":"INFO","msg":"stream: closing","id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:49.928429046+05:30","level":"INFO","msg":"handler: closed","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:49.928502511+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:49.928548017+05:30","level":"INFO","msg":"sender: closed","stream_id":"yiohn9ml"}
+{"time":"2025-03-17T10:27:49.928793819+05:30","level":"INFO","msg":"stream: closed","id":"yiohn9ml"}

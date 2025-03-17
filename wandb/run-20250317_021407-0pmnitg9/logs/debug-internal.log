@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:14:07.749450902+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_021407-0pmnitg9/logs/debug-core.log"}
+{"time":"2025-03-17T02:14:07.852709917+05:30","level":"INFO","msg":"created new stream","id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:07.852738225+05:30","level":"INFO","msg":"stream: started","id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:07.852777248+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:07.852795379+05:30","level":"INFO","msg":"sender: started","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:07.852821902+05:30","level":"INFO","msg":"handler: started","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:08.661425201+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:14:48.655705526+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:14:48.656011079+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:14:49.659627918+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680842826,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.352053881,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T02:14:50.576195105+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:14:50.897638084+05:30","level":"INFO","msg":"stream: closing","id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:50.897670889+05:30","level":"INFO","msg":"handler: closed","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:50.897706992+05:30","level":"INFO","msg":"sender: closed","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:50.897695288+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0pmnitg9"}
+{"time":"2025-03-17T02:14:50.897854339+05:30","level":"INFO","msg":"stream: closed","id":"0pmnitg9"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:50:32.243126104+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025032-ks3ahmct/logs/debug-core.log"}
+{"time":"2025-03-17T02:50:32.347423604+05:30","level":"INFO","msg":"created new stream","id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:32.347503189+05:30","level":"INFO","msg":"stream: started","id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:32.3475679+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:32.347579762+05:30","level":"INFO","msg":"handler: started","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:32.347609332+05:30","level":"INFO","msg":"sender: started","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:33.120740933+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:50:46.635572955+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:50:46.636041788+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:50:47.63966899+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686720533,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.346244652,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T02:50:48.314581255+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:50:48.62307691+05:30","level":"INFO","msg":"stream: closing","id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:48.623113198+05:30","level":"INFO","msg":"handler: closed","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:48.623133391+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:48.623190736+05:30","level":"INFO","msg":"sender: closed","stream_id":"ks3ahmct"}
+{"time":"2025-03-17T02:50:48.623303111+05:30","level":"INFO","msg":"stream: closed","id":"ks3ahmct"}

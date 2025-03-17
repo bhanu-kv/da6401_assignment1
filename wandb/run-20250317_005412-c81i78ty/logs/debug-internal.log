@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:54:12.254709299+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005412-c81i78ty/logs/debug-core.log"}
+{"time":"2025-03-17T00:54:12.36189451+05:30","level":"INFO","msg":"created new stream","id":"c81i78ty"}
+{"time":"2025-03-17T00:54:12.361948974+05:30","level":"INFO","msg":"stream: started","id":"c81i78ty"}
+{"time":"2025-03-17T00:54:12.361996301+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:12.362075853+05:30","level":"INFO","msg":"sender: started","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:12.362077545+05:30","level":"INFO","msg":"handler: started","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:13.147717103+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:54:25.783327307+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:54:25.783927972+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:54:26.788084041+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.683825282,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.412182899,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T00:54:27.412950339+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:54:27.725475972+05:30","level":"INFO","msg":"stream: closing","id":"c81i78ty"}
+{"time":"2025-03-17T00:54:27.725488861+05:30","level":"INFO","msg":"handler: closed","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:27.725495585+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:27.725537799+05:30","level":"INFO","msg":"sender: closed","stream_id":"c81i78ty"}
+{"time":"2025-03-17T00:54:27.725560527+05:30","level":"INFO","msg":"stream: closed","id":"c81i78ty"}

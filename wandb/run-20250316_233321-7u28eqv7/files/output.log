@@ -1,0 +1,91 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+0.10066666666666667
+New best model saved with validation accuracy: 0.10066666666666667
+------------------------------------------------------
+Epoch: 1
+Loss: 22655.86297648996
+Correct Predications: 5315
+Total Images: 54000
+Accuracy: 0.09842592592592593
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 2
+Loss: 22602.251119952394
+Correct Predications: 5394
+Total Images: 54000
+Accuracy: 0.09988888888888889
+
+
+0.09716666666666667
+------------------------------------------------------
+Epoch: 3
+Loss: 22566.380761733115
+Correct Predications: 5449
+Total Images: 54000
+Accuracy: 0.1009074074074074
+
+
+0.1045
+New best model saved with validation accuracy: 0.1045
+------------------------------------------------------
+Epoch: 4
+Loss: 22432.496249782966
+Correct Predications: 5319
+Total Images: 54000
+Accuracy: 0.0985
+
+
+0.1
+------------------------------------------------------
+Epoch: 5
+Loss: 22504.949906373695
+Correct Predications: 5480
+Total Images: 54000
+Accuracy: 0.10148148148148148
+
+
+0.1
+------------------------------------------------------
+Epoch: 6
+Loss: 22608.98378821793
+Correct Predications: 5402
+Total Images: 54000
+Accuracy: 0.10003703703703704
+
+
+0.1
+------------------------------------------------------
+Epoch: 7
+Loss: 22521.25062383651
+Correct Predications: 5307
+Total Images: 54000
+Accuracy: 0.09827777777777778
+
+
+0.09983333333333333
+------------------------------------------------------
+Epoch: 8
+Loss: 22557.00560326745
+Correct Predications: 5276
+Total Images: 54000
+Accuracy: 0.09770370370370371
+
+
+0.1045
+------------------------------------------------------
+Epoch: 9
+Loss: 22627.701647996608
+Correct Predications: 5398
+Total Images: 54000
+Accuracy: 0.09996296296296296
+
+
+0.0985
+------------------------------------------------------
+Epoch: 10
+Loss: 22592.055139118223
+Correct Predications: 5468
+Total Images: 54000
+Accuracy: 0.10125925925925926

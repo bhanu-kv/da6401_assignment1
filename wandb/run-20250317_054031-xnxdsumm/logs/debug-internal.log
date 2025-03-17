@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:40:31.555987477+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_054031-xnxdsumm/logs/debug-core.log"}
+{"time":"2025-03-17T05:40:31.659086583+05:30","level":"INFO","msg":"created new stream","id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:31.659124769+05:30","level":"INFO","msg":"stream: started","id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:31.659217591+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:31.659219055+05:30","level":"INFO","msg":"handler: started","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:31.659281095+05:30","level":"INFO","msg":"sender: started","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:32.333167759+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:40:45.637112078+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:40:45.637855365+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:40:46.640780234+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.693891085,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.399071228,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T05:40:47.223121147+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:40:47.550101299+05:30","level":"INFO","msg":"stream: closing","id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:47.550133307+05:30","level":"INFO","msg":"handler: closed","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:47.550149839+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:47.55023994+05:30","level":"INFO","msg":"sender: closed","stream_id":"xnxdsumm"}
+{"time":"2025-03-17T05:40:47.550305877+05:30","level":"INFO","msg":"stream: closed","id":"xnxdsumm"}

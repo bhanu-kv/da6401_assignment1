@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:36:24.33371014+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_093624-4hxy0511/logs/debug-core.log"}
+{"time":"2025-03-17T09:36:24.440271671+05:30","level":"INFO","msg":"created new stream","id":"4hxy0511"}
+{"time":"2025-03-17T09:36:24.440301179+05:30","level":"INFO","msg":"stream: started","id":"4hxy0511"}
+{"time":"2025-03-17T09:36:24.44031155+05:30","level":"INFO","msg":"handler: started","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:24.440334911+05:30","level":"INFO","msg":"sender: started","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:24.440400809+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:25.173804293+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:36:34.26941174+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:36:34.269880794+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:36:35.273316256+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691983776,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.395397283,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T09:36:35.869961697+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:36:36.203989159+05:30","level":"INFO","msg":"stream: closing","id":"4hxy0511"}
+{"time":"2025-03-17T09:36:36.2040264+05:30","level":"INFO","msg":"handler: closed","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:36.204048062+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:36.204097504+05:30","level":"INFO","msg":"sender: closed","stream_id":"4hxy0511"}
+{"time":"2025-03-17T09:36:36.204202756+05:30","level":"INFO","msg":"stream: closed","id":"4hxy0511"}

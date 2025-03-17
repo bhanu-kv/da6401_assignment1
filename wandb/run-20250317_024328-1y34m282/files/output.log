@@ -1,0 +1,93 @@
+0.7833333333333333
+New best model saved with validation accuracy: 0.7833333333333333
+------------------------------------------------------
+Epoch: 1
+Loss: 576.3376887248585
+Correct Predications: 41111
+Total Images: 54000
+Accuracy: 0.7613148148148148
+
+
+0.7376666666666667
+------------------------------------------------------
+Epoch: 2
+Loss: 545.4365457143161
+Correct Predications: 41415
+Total Images: 54000
+Accuracy: 0.7669444444444444
+
+
+0.7175
+------------------------------------------------------
+Epoch: 3
+Loss: 608.8431841787507
+Correct Predications: 39764
+Total Images: 54000
+Accuracy: 0.7363703703703703
+/home/bhanu/IITM/Courses/FDL/da6401_assignment1/act_fn.py:13: RuntimeWarning: overflow encountered in exp
+  return (np.exp(inputs)-np.exp(-inputs))/(np.exp(inputs)+np.exp(-inputs))
+/home/bhanu/IITM/Courses/FDL/da6401_assignment1/act_fn.py:13: RuntimeWarning: invalid value encountered in divide
+  return (np.exp(inputs)-np.exp(-inputs))/(np.exp(inputs)+np.exp(-inputs))
+
+
+0.0985
+------------------------------------------------------
+Epoch: 4
+Loss: nan
+Correct Predications: 12072
+Total Images: 54000
+Accuracy: 0.22355555555555556
+
+
+0.0985
+------------------------------------------------------
+Epoch: 5
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 6
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 7
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 8
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 9
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667
+
+
+0.0985
+------------------------------------------------------
+Epoch: 10
+Loss: nan
+Correct Predications: 5409
+Total Images: 54000
+Accuracy: 0.10016666666666667

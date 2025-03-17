@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:21:42.703932264+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_102142-91sei7mv/logs/debug-core.log"}
+{"time":"2025-03-17T10:21:42.807813872+05:30","level":"INFO","msg":"created new stream","id":"91sei7mv"}
+{"time":"2025-03-17T10:21:42.807862009+05:30","level":"INFO","msg":"stream: started","id":"91sei7mv"}
+{"time":"2025-03-17T10:21:42.807937266+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:21:42.808010519+05:30","level":"INFO","msg":"handler: started","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:21:42.807944767+05:30","level":"INFO","msg":"sender: started","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:21:43.576651402+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:22:13.966962329+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:22:13.967719729+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:22:14.94059953+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.397096898,"progress":"206B/206B"},{"desc":"uploading config.yaml","runtime_seconds":0.078956841,"progress":"983B/983B"}],"total_operations":2}}
+{"time":"2025-03-17T10:22:15.856725482+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:22:16.168235724+05:30","level":"INFO","msg":"stream: closing","id":"91sei7mv"}
+{"time":"2025-03-17T10:22:16.168272982+05:30","level":"INFO","msg":"handler: closed","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:22:16.168294121+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:22:16.168315717+05:30","level":"INFO","msg":"sender: closed","stream_id":"91sei7mv"}
+{"time":"2025-03-17T10:22:16.168521842+05:30","level":"INFO","msg":"stream: closed","id":"91sei7mv"}

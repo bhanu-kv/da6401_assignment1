@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:45:42.268411561+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_034542-rpgvoltj/logs/debug-core.log"}
+{"time":"2025-03-17T03:45:42.373831542+05:30","level":"INFO","msg":"created new stream","id":"rpgvoltj"}
+{"time":"2025-03-17T03:45:42.373906237+05:30","level":"INFO","msg":"stream: started","id":"rpgvoltj"}
+{"time":"2025-03-17T03:45:42.373990804+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:45:42.374007161+05:30","level":"INFO","msg":"sender: started","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:45:42.37416429+05:30","level":"INFO","msg":"handler: started","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:45:43.20315986+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:45:59.108167964+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:45:59.108895734+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:46:00.112254856+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.689445953,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.386106429,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T03:46:00.787355497+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:46:01.149616622+05:30","level":"INFO","msg":"stream: closing","id":"rpgvoltj"}
+{"time":"2025-03-17T03:46:01.149658997+05:30","level":"INFO","msg":"handler: closed","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:46:01.149682742+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:46:01.14991525+05:30","level":"INFO","msg":"sender: closed","stream_id":"rpgvoltj"}
+{"time":"2025-03-17T03:46:01.149942199+05:30","level":"INFO","msg":"stream: closed","id":"rpgvoltj"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:50:46.819085303+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035046-09ek8ug9/logs/debug-core.log"}
+{"time":"2025-03-17T03:50:46.922561872+05:30","level":"INFO","msg":"created new stream","id":"09ek8ug9"}
+{"time":"2025-03-17T03:50:46.922615807+05:30","level":"INFO","msg":"stream: started","id":"09ek8ug9"}
+{"time":"2025-03-17T03:50:46.922707408+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:50:46.92269883+05:30","level":"INFO","msg":"handler: started","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:50:46.922794609+05:30","level":"INFO","msg":"sender: started","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:50:47.698968885+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:50:58.076278891+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:50:58.077185312+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:50:59.056159732+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.650983167,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.366552957,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T03:50:59.838300057+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:51:00.15536901+05:30","level":"INFO","msg":"stream: closing","id":"09ek8ug9"}
+{"time":"2025-03-17T03:51:00.155411977+05:30","level":"INFO","msg":"handler: closed","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:51:00.155470635+05:30","level":"INFO","msg":"sender: closed","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:51:00.155456759+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"09ek8ug9"}
+{"time":"2025-03-17T03:51:00.155652363+05:30","level":"INFO","msg":"stream: closed","id":"09ek8ug9"}

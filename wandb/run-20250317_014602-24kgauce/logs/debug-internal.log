@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:46:02.535283542+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_014602-24kgauce/logs/debug-core.log"}
+{"time":"2025-03-17T01:46:02.63845149+05:30","level":"INFO","msg":"created new stream","id":"24kgauce"}
+{"time":"2025-03-17T01:46:02.638494428+05:30","level":"INFO","msg":"stream: started","id":"24kgauce"}
+{"time":"2025-03-17T01:46:02.638548443+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:02.638595639+05:30","level":"INFO","msg":"sender: started","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:02.638670363+05:30","level":"INFO","msg":"handler: started","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:03.448663062+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:46:10.852178536+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:46:10.852605414+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:46:11.856952667+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689810947,"progress":"189B/189B"},{"desc":"uploading config.yaml","runtime_seconds":0.385430023,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T01:46:12.50581758+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:46:12.825491098+05:30","level":"INFO","msg":"stream: closing","id":"24kgauce"}
+{"time":"2025-03-17T01:46:12.82553926+05:30","level":"INFO","msg":"handler: closed","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:12.825565909+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:12.825608977+05:30","level":"INFO","msg":"sender: closed","stream_id":"24kgauce"}
+{"time":"2025-03-17T01:46:12.825783432+05:30","level":"INFO","msg":"stream: closed","id":"24kgauce"}

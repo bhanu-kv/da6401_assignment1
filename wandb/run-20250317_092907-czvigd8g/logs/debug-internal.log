@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:29:07.068138758+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_092907-czvigd8g/logs/debug-core.log"}
+{"time":"2025-03-17T09:29:07.171703792+05:30","level":"INFO","msg":"created new stream","id":"czvigd8g"}
+{"time":"2025-03-17T09:29:07.171758838+05:30","level":"INFO","msg":"stream: started","id":"czvigd8g"}
+{"time":"2025-03-17T09:29:07.171821353+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:07.171861539+05:30","level":"INFO","msg":"sender: started","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:07.17193745+05:30","level":"INFO","msg":"handler: started","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:07.829297399+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:29:52.870591058+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:29:52.870923556+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:29:53.871754359+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.360848091,"progress":"990B/990B"},{"desc":"uploading history steps 6-9, summary, console lines 58-97","runtime_seconds":0.355709027}],"total_operations":2}}
+{"time":"2025-03-17T09:29:53.88790932+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:29:54.224598469+05:30","level":"INFO","msg":"stream: closing","id":"czvigd8g"}
+{"time":"2025-03-17T09:29:54.224640147+05:30","level":"INFO","msg":"handler: closed","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:54.224680632+05:30","level":"INFO","msg":"sender: closed","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:54.224659221+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"czvigd8g"}
+{"time":"2025-03-17T09:29:54.224838371+05:30","level":"INFO","msg":"stream: closed","id":"czvigd8g"}

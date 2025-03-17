@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:11:44.855195039+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_181144-15opc623/logs/debug-core.log"}
+{"time":"2025-03-17T18:11:44.959828478+05:30","level":"INFO","msg":"created new stream","id":"15opc623"}
+{"time":"2025-03-17T18:11:44.959852387+05:30","level":"INFO","msg":"stream: started","id":"15opc623"}
+{"time":"2025-03-17T18:11:44.959864802+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"15opc623"}
+{"time":"2025-03-17T18:11:44.959869314+05:30","level":"INFO","msg":"handler: started","stream_id":"15opc623"}
+{"time":"2025-03-17T18:11:44.959905195+05:30","level":"INFO","msg":"sender: started","stream_id":"15opc623"}
+{"time":"2025-03-17T18:11:45.761423609+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:13:08.001259361+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:13:08.00263036+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:13:09.00630517+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.401885482,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.118634657,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T18:13:09.983650373+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:13:10.307566923+05:30","level":"INFO","msg":"stream: closing","id":"15opc623"}
+{"time":"2025-03-17T18:13:10.307592116+05:30","level":"INFO","msg":"handler: closed","stream_id":"15opc623"}
+{"time":"2025-03-17T18:13:10.307611767+05:30","level":"INFO","msg":"sender: closed","stream_id":"15opc623"}
+{"time":"2025-03-17T18:13:10.307604121+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"15opc623"}
+{"time":"2025-03-17T18:13:10.307710947+05:30","level":"INFO","msg":"stream: closed","id":"15opc623"}

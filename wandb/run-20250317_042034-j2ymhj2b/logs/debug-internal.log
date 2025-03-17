@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:20:34.865404765+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_042034-j2ymhj2b/logs/debug-core.log"}
+{"time":"2025-03-17T04:20:34.970888715+05:30","level":"INFO","msg":"created new stream","id":"j2ymhj2b"}
+{"time":"2025-03-17T04:20:34.97096122+05:30","level":"INFO","msg":"stream: started","id":"j2ymhj2b"}
+{"time":"2025-03-17T04:20:34.971085946+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:20:34.971101285+05:30","level":"INFO","msg":"handler: started","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:20:34.971199192+05:30","level":"INFO","msg":"sender: started","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:20:35.728435961+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:21:17.453881776+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:21:17.454208797+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:21:18.457834722+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.684823513,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.385405077,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T04:21:19.365254627+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:21:19.726822351+05:30","level":"INFO","msg":"stream: closing","id":"j2ymhj2b"}
+{"time":"2025-03-17T04:21:19.726855958+05:30","level":"INFO","msg":"handler: closed","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:21:19.726874645+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:21:19.726898125+05:30","level":"INFO","msg":"sender: closed","stream_id":"j2ymhj2b"}
+{"time":"2025-03-17T04:21:19.727039846+05:30","level":"INFO","msg":"stream: closed","id":"j2ymhj2b"}

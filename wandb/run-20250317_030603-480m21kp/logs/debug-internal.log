@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:06:03.891862687+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_030603-480m21kp/logs/debug-core.log"}
+{"time":"2025-03-17T03:06:03.996019143+05:30","level":"INFO","msg":"created new stream","id":"480m21kp"}
+{"time":"2025-03-17T03:06:03.996074009+05:30","level":"INFO","msg":"stream: started","id":"480m21kp"}
+{"time":"2025-03-17T03:06:03.996208628+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:03.996222745+05:30","level":"INFO","msg":"sender: started","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:03.996230122+05:30","level":"INFO","msg":"handler: started","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:04.880631232+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:06:25.931804316+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:06:25.932355305+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:06:26.935505686+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.696883689,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.392629522,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T03:06:27.681319684+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:06:27.997943336+05:30","level":"INFO","msg":"stream: closing","id":"480m21kp"}
+{"time":"2025-03-17T03:06:27.997976949+05:30","level":"INFO","msg":"handler: closed","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:27.997993621+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:27.998030439+05:30","level":"INFO","msg":"sender: closed","stream_id":"480m21kp"}
+{"time":"2025-03-17T03:06:27.998154364+05:30","level":"INFO","msg":"stream: closed","id":"480m21kp"}

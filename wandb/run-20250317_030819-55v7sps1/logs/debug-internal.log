@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:08:19.619616115+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_030819-55v7sps1/logs/debug-core.log"}
+{"time":"2025-03-17T03:08:19.724065639+05:30","level":"INFO","msg":"created new stream","id":"55v7sps1"}
+{"time":"2025-03-17T03:08:19.724161298+05:30","level":"INFO","msg":"stream: started","id":"55v7sps1"}
+{"time":"2025-03-17T03:08:19.724223595+05:30","level":"INFO","msg":"handler: started","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:19.724254767+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:19.72430462+05:30","level":"INFO","msg":"sender: started","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:20.476500446+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:08:46.243498956+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:08:46.243836438+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:08:47.247141067+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.676499986,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.676483693,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.267184441,"progress":"990B/990B"}],"total_operations":3}}
+{"time":"2025-03-17T03:08:48.055969874+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:08:48.39625798+05:30","level":"INFO","msg":"stream: closing","id":"55v7sps1"}
+{"time":"2025-03-17T03:08:48.396276477+05:30","level":"INFO","msg":"handler: closed","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:48.396282167+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:48.396336099+05:30","level":"INFO","msg":"sender: closed","stream_id":"55v7sps1"}
+{"time":"2025-03-17T03:08:48.396344901+05:30","level":"INFO","msg":"stream: closed","id":"55v7sps1"}

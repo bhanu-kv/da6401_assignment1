@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:52:28.781468517+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035228-h931qmlh/logs/debug-core.log"}
+{"time":"2025-03-17T03:52:28.886121378+05:30","level":"INFO","msg":"created new stream","id":"h931qmlh"}
+{"time":"2025-03-17T03:52:28.886177343+05:30","level":"INFO","msg":"stream: started","id":"h931qmlh"}
+{"time":"2025-03-17T03:52:28.886259362+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:52:28.886281558+05:30","level":"INFO","msg":"sender: started","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:52:28.886384566+05:30","level":"INFO","msg":"handler: started","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:52:29.675669638+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:53:25.559002733+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:53:25.559441917+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:53:26.562838755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.691611338,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.374765312,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T03:53:27.355162179+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:53:27.677023006+05:30","level":"INFO","msg":"stream: closing","id":"h931qmlh"}
+{"time":"2025-03-17T03:53:27.677083136+05:30","level":"INFO","msg":"handler: closed","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:53:27.677102865+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:53:27.677175586+05:30","level":"INFO","msg":"sender: closed","stream_id":"h931qmlh"}
+{"time":"2025-03-17T03:53:27.677254335+05:30","level":"INFO","msg":"stream: closed","id":"h931qmlh"}

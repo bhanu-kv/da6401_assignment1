@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:23:13.664191608+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_032313-ikmom365/logs/debug-core.log"}
+{"time":"2025-03-17T03:23:13.768738593+05:30","level":"INFO","msg":"created new stream","id":"ikmom365"}
+{"time":"2025-03-17T03:23:13.768807344+05:30","level":"INFO","msg":"stream: started","id":"ikmom365"}
+{"time":"2025-03-17T03:23:13.768934442+05:30","level":"INFO","msg":"handler: started","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:13.769030646+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:13.769061573+05:30","level":"INFO","msg":"sender: started","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:14.519358947+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:23:25.177667751+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:23:25.178253451+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:23:26.181499401+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.700696037,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.423651059,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T03:23:27.107599814+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:23:27.430406325+05:30","level":"INFO","msg":"stream: closing","id":"ikmom365"}
+{"time":"2025-03-17T03:23:27.43048768+05:30","level":"INFO","msg":"handler: closed","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:27.430531977+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:27.430591016+05:30","level":"INFO","msg":"sender: closed","stream_id":"ikmom365"}
+{"time":"2025-03-17T03:23:27.430811657+05:30","level":"INFO","msg":"stream: closed","id":"ikmom365"}

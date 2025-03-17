@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:11:53.280752977+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_031153-nwrdjqou/logs/debug-core.log"}
+{"time":"2025-03-17T03:11:53.385389891+05:30","level":"INFO","msg":"created new stream","id":"nwrdjqou"}
+{"time":"2025-03-17T03:11:53.385454324+05:30","level":"INFO","msg":"stream: started","id":"nwrdjqou"}
+{"time":"2025-03-17T03:11:53.385510009+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:11:53.385529134+05:30","level":"INFO","msg":"sender: started","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:11:53.385547264+05:30","level":"INFO","msg":"handler: started","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:11:54.186394132+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:12:13.440028289+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:12:13.440576568+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:12:14.444105109+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.697341003,"progress":"2.2KB/2.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.403734931,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T03:12:15.209341221+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:12:15.544169131+05:30","level":"INFO","msg":"stream: closing","id":"nwrdjqou"}
+{"time":"2025-03-17T03:12:15.544203668+05:30","level":"INFO","msg":"handler: closed","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:12:15.544223928+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:12:15.544244466+05:30","level":"INFO","msg":"sender: closed","stream_id":"nwrdjqou"}
+{"time":"2025-03-17T03:12:15.544394551+05:30","level":"INFO","msg":"stream: closed","id":"nwrdjqou"}

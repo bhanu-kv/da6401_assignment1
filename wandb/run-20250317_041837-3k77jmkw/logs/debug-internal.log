@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:18:37.859058792+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_041837-3k77jmkw/logs/debug-core.log"}
+{"time":"2025-03-17T04:18:37.962111741+05:30","level":"INFO","msg":"created new stream","id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:37.962194136+05:30","level":"INFO","msg":"stream: started","id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:37.96227366+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:37.962287787+05:30","level":"INFO","msg":"sender: started","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:37.962375912+05:30","level":"INFO","msg":"handler: started","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:38.719065459+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:18:52.508456206+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:18:52.508939677+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:18:53.512835191+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.693574697,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.395599821,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T04:18:54.409587901+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:18:54.878268431+05:30","level":"INFO","msg":"stream: closing","id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:54.878305655+05:30","level":"INFO","msg":"handler: closed","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:54.878322038+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:54.878380977+05:30","level":"INFO","msg":"sender: closed","stream_id":"3k77jmkw"}
+{"time":"2025-03-17T04:18:54.878501881+05:30","level":"INFO","msg":"stream: closed","id":"3k77jmkw"}

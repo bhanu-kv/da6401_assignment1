@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:08:59.571996249+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040859-tlo92l29/logs/debug-core.log"}
+{"time":"2025-03-17T04:08:59.675727173+05:30","level":"INFO","msg":"created new stream","id":"tlo92l29"}
+{"time":"2025-03-17T04:08:59.675770418+05:30","level":"INFO","msg":"stream: started","id":"tlo92l29"}
+{"time":"2025-03-17T04:08:59.675850002+05:30","level":"INFO","msg":"sender: started","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:08:59.675883797+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:08:59.675947948+05:30","level":"INFO","msg":"handler: started","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:09:00.412700678+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:09:45.141653012+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:09:45.141999297+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:09:46.145227101+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.688923838,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.396208575,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T04:09:46.936854044+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:09:47.226761674+05:30","level":"INFO","msg":"stream: closing","id":"tlo92l29"}
+{"time":"2025-03-17T04:09:47.226808765+05:30","level":"INFO","msg":"handler: closed","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:09:47.226840988+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:09:47.226889961+05:30","level":"INFO","msg":"sender: closed","stream_id":"tlo92l29"}
+{"time":"2025-03-17T04:09:47.227058444+05:30","level":"INFO","msg":"stream: closed","id":"tlo92l29"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:15:22.111801001+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_031522-xma63tim/logs/debug-core.log"}
+{"time":"2025-03-17T03:15:22.216132037+05:30","level":"INFO","msg":"created new stream","id":"xma63tim"}
+{"time":"2025-03-17T03:15:22.216187829+05:30","level":"INFO","msg":"stream: started","id":"xma63tim"}
+{"time":"2025-03-17T03:15:22.216292252+05:30","level":"INFO","msg":"handler: started","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:22.216300039+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:22.216473626+05:30","level":"INFO","msg":"sender: started","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:23.049303434+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:15:34.163886696+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:15:34.164297942+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:15:35.167917148+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.691210049,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.38872172,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T03:15:35.852261075+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:15:36.162512332+05:30","level":"INFO","msg":"stream: closing","id":"xma63tim"}
+{"time":"2025-03-17T03:15:36.162551741+05:30","level":"INFO","msg":"handler: closed","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:36.162573884+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:36.162592491+05:30","level":"INFO","msg":"sender: closed","stream_id":"xma63tim"}
+{"time":"2025-03-17T03:15:36.162768703+05:30","level":"INFO","msg":"stream: closed","id":"xma63tim"}

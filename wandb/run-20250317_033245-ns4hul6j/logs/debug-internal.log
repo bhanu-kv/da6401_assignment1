@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:32:45.780163237+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_033245-ns4hul6j/logs/debug-core.log"}
+{"time":"2025-03-17T03:32:45.883777171+05:30","level":"INFO","msg":"created new stream","id":"ns4hul6j"}
+{"time":"2025-03-17T03:32:45.883811567+05:30","level":"INFO","msg":"stream: started","id":"ns4hul6j"}
+{"time":"2025-03-17T03:32:45.883872727+05:30","level":"INFO","msg":"handler: started","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:32:45.883875065+05:30","level":"INFO","msg":"sender: started","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:32:45.883874134+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:32:46.603469725+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:33:16.366948834+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:33:16.367268172+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:33:17.370726768+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.689123085,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.375329036,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T03:33:18.080753357+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:33:18.398727059+05:30","level":"INFO","msg":"stream: closing","id":"ns4hul6j"}
+{"time":"2025-03-17T03:33:18.398767893+05:30","level":"INFO","msg":"handler: closed","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:33:18.398802463+05:30","level":"INFO","msg":"sender: closed","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:33:18.398790397+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ns4hul6j"}
+{"time":"2025-03-17T03:33:18.398962438+05:30","level":"INFO","msg":"stream: closed","id":"ns4hul6j"}

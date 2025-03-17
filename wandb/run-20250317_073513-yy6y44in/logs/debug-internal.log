@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:35:13.535086723+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_073513-yy6y44in/logs/debug-core.log"}
+{"time":"2025-03-17T07:35:13.640002503+05:30","level":"INFO","msg":"created new stream","id":"yy6y44in"}
+{"time":"2025-03-17T07:35:13.640073156+05:30","level":"INFO","msg":"stream: started","id":"yy6y44in"}
+{"time":"2025-03-17T07:35:13.640165032+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:35:13.640193299+05:30","level":"INFO","msg":"sender: started","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:35:13.640306353+05:30","level":"INFO","msg":"handler: started","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:35:14.386178481+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:35:59.418854775+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:35:59.419174485+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:36:00.422716064+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.397909016,"progress":"992B/992B"},{"desc":"uploading history steps 6-9, summary, console lines 57-94","runtime_seconds":0.314286914}],"total_operations":2}}
+{"time":"2025-03-17T07:36:00.557370461+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:36:00.862229244+05:30","level":"INFO","msg":"stream: closing","id":"yy6y44in"}
+{"time":"2025-03-17T07:36:00.862296483+05:30","level":"INFO","msg":"handler: closed","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:36:00.86233901+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:36:00.862403927+05:30","level":"INFO","msg":"sender: closed","stream_id":"yy6y44in"}
+{"time":"2025-03-17T07:36:00.862655733+05:30","level":"INFO","msg":"stream: closed","id":"yy6y44in"}

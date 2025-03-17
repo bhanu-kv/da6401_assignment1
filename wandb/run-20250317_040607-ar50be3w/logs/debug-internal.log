@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:06:07.09330133+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040607-ar50be3w/logs/debug-core.log"}
+{"time":"2025-03-17T04:06:07.199803288+05:30","level":"INFO","msg":"created new stream","id":"ar50be3w"}
+{"time":"2025-03-17T04:06:07.199844087+05:30","level":"INFO","msg":"stream: started","id":"ar50be3w"}
+{"time":"2025-03-17T04:06:07.199935451+05:30","level":"INFO","msg":"handler: started","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:07.199938678+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:07.199938469+05:30","level":"INFO","msg":"sender: started","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:07.914897139+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:06:23.244725153+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:06:23.245252924+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:06:24.247839169+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686597727,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.391554709,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T04:06:25.018157286+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:06:25.327892875+05:30","level":"INFO","msg":"stream: closing","id":"ar50be3w"}
+{"time":"2025-03-17T04:06:25.327940266+05:30","level":"INFO","msg":"handler: closed","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:25.327974954+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:25.32802237+05:30","level":"INFO","msg":"sender: closed","stream_id":"ar50be3w"}
+{"time":"2025-03-17T04:06:25.328229942+05:30","level":"INFO","msg":"stream: closed","id":"ar50be3w"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:53:51.361022208+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_065351-zy2r545e/logs/debug-core.log"}
+{"time":"2025-03-17T06:53:51.465459566+05:30","level":"INFO","msg":"created new stream","id":"zy2r545e"}
+{"time":"2025-03-17T06:53:51.465527651+05:30","level":"INFO","msg":"stream: started","id":"zy2r545e"}
+{"time":"2025-03-17T06:53:51.465592262+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:53:51.465665107+05:30","level":"INFO","msg":"handler: started","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:53:51.465692304+05:30","level":"INFO","msg":"sender: started","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:53:52.255687457+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:54:55.605140466+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:54:55.605439867+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:54:56.609015727+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.390909661,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.088758797,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T06:54:57.506095642+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:54:57.838949737+05:30","level":"INFO","msg":"stream: closing","id":"zy2r545e"}
+{"time":"2025-03-17T06:54:57.838980261+05:30","level":"INFO","msg":"handler: closed","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:54:57.838997854+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:54:57.839062848+05:30","level":"INFO","msg":"sender: closed","stream_id":"zy2r545e"}
+{"time":"2025-03-17T06:54:57.839154799+05:30","level":"INFO","msg":"stream: closed","id":"zy2r545e"}

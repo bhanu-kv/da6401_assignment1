@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:05:33.025707976+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_010533-nlu2vcki/logs/debug-core.log"}
+{"time":"2025-03-17T01:05:33.129510908+05:30","level":"INFO","msg":"created new stream","id":"nlu2vcki"}
+{"time":"2025-03-17T01:05:33.129540598+05:30","level":"INFO","msg":"stream: started","id":"nlu2vcki"}
+{"time":"2025-03-17T01:05:33.129597553+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:05:33.129616138+05:30","level":"INFO","msg":"sender: started","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:05:33.1296283+05:30","level":"INFO","msg":"handler: started","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:05:33.885671424+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:06:30.861387774+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:06:30.861697492+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:06:31.864947965+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686798504,"progress":"201B/201B"},{"desc":"uploading config.yaml","runtime_seconds":0.374145309,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T01:06:32.482129182+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:06:32.812972818+05:30","level":"INFO","msg":"stream: closing","id":"nlu2vcki"}
+{"time":"2025-03-17T01:06:32.813013501+05:30","level":"INFO","msg":"handler: closed","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:06:32.813038488+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:06:32.813065494+05:30","level":"INFO","msg":"sender: closed","stream_id":"nlu2vcki"}
+{"time":"2025-03-17T01:06:32.81322641+05:30","level":"INFO","msg":"stream: closed","id":"nlu2vcki"}

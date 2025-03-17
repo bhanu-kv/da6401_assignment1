@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:03:25.228877178+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050325-mobtepmm/logs/debug-core.log"}
+{"time":"2025-03-17T05:03:25.332885067+05:30","level":"INFO","msg":"created new stream","id":"mobtepmm"}
+{"time":"2025-03-17T05:03:25.33293481+05:30","level":"INFO","msg":"stream: started","id":"mobtepmm"}
+{"time":"2025-03-17T05:03:25.333026612+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:25.333066825+05:30","level":"INFO","msg":"handler: started","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:25.333175067+05:30","level":"INFO","msg":"sender: started","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:26.112925701+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:03:38.165188145+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:03:38.166548563+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:03:39.168861028+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.700821777,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.408470978,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T05:03:39.776381165+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:03:40.105414236+05:30","level":"INFO","msg":"stream: closing","id":"mobtepmm"}
+{"time":"2025-03-17T05:03:40.105475358+05:30","level":"INFO","msg":"handler: closed","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:40.105500233+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:40.105541945+05:30","level":"INFO","msg":"sender: closed","stream_id":"mobtepmm"}
+{"time":"2025-03-17T05:03:40.105648885+05:30","level":"INFO","msg":"stream: closed","id":"mobtepmm"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:03:52.257908591+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050352-apz19h66/logs/debug-core.log"}
+{"time":"2025-03-17T05:03:52.361094713+05:30","level":"INFO","msg":"created new stream","id":"apz19h66"}
+{"time":"2025-03-17T05:03:52.361126955+05:30","level":"INFO","msg":"stream: started","id":"apz19h66"}
+{"time":"2025-03-17T05:03:52.361158519+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:03:52.361178266+05:30","level":"INFO","msg":"sender: started","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:03:52.361201721+05:30","level":"INFO","msg":"handler: started","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:03:53.131774603+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:04:03.589061013+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:04:03.589741679+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:04:04.593025105+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.692419472,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.385880549,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T05:04:05.206479774+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:04:05.546911912+05:30","level":"INFO","msg":"stream: closing","id":"apz19h66"}
+{"time":"2025-03-17T05:04:05.546944306+05:30","level":"INFO","msg":"handler: closed","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:04:05.546961339+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:04:05.546982671+05:30","level":"INFO","msg":"sender: closed","stream_id":"apz19h66"}
+{"time":"2025-03-17T05:04:05.547146984+05:30","level":"INFO","msg":"stream: closed","id":"apz19h66"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:05:45.117569359+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040545-trlvhaqd/logs/debug-core.log"}
+{"time":"2025-03-17T04:05:45.221552707+05:30","level":"INFO","msg":"created new stream","id":"trlvhaqd"}
+{"time":"2025-03-17T04:05:45.221616761+05:30","level":"INFO","msg":"stream: started","id":"trlvhaqd"}
+{"time":"2025-03-17T04:05:45.221670929+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:05:45.221698461+05:30","level":"INFO","msg":"sender: started","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:05:45.221871566+05:30","level":"INFO","msg":"handler: started","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:05:45.945911477+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:06:00.794624266+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:06:00.795166659+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:06:01.798765537+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691798241,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.391160071,"progress":"988B/988B"},{"desc":"uploading history steps 0-9, summary, console lines 0-97","runtime_seconds":0.042330321}],"total_operations":3}}
+{"time":"2025-03-17T04:06:02.630119016+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:06:02.926449115+05:30","level":"INFO","msg":"stream: closing","id":"trlvhaqd"}
+{"time":"2025-03-17T04:06:02.926791403+05:30","level":"INFO","msg":"handler: closed","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:06:02.926817503+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:06:02.927010581+05:30","level":"INFO","msg":"sender: closed","stream_id":"trlvhaqd"}
+{"time":"2025-03-17T04:06:02.927034407+05:30","level":"INFO","msg":"stream: closed","id":"trlvhaqd"}

@@ -1,0 +1,90 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+0.1045
+New best model saved with validation accuracy: 0.1045
+------------------------------------------------------
+Epoch: 1
+Loss: 1979.2091929258045
+Correct Predications: 5399
+Total Images: 54000
+Accuracy: 0.09998148148148148
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 2
+Loss: 1986.1510751712324
+Correct Predications: 5422
+Total Images: 54000
+Accuracy: 0.1004074074074074
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 3
+Loss: 1991.5919346442595
+Correct Predications: 5478
+Total Images: 54000
+Accuracy: 0.10144444444444445
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 4
+Loss: 1995.690191676901
+Correct Predications: 5322
+Total Images: 54000
+Accuracy: 0.09855555555555555
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 5
+Loss: 1995.4283395559742
+Correct Predications: 5386
+Total Images: 54000
+Accuracy: 0.09974074074074074
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 6
+Loss: 1995.6858019465842
+Correct Predications: 5376
+Total Images: 54000
+Accuracy: 0.09955555555555555
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 7
+Loss: 1995.6378959587646
+Correct Predications: 5354
+Total Images: 54000
+Accuracy: 0.09914814814814815
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 8
+Loss: 1995.5804432435064
+Correct Predications: 5394
+Total Images: 54000
+Accuracy: 0.09988888888888889
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 9
+Loss: 1996.175019228145
+Correct Predications: 5377
+Total Images: 54000
+Accuracy: 0.09957407407407408
+
+
+0.10066666666666667
+------------------------------------------------------
+Epoch: 10
+Loss: 1996.199514152098
+Correct Predications: 5377
+Total Images: 54000
+Accuracy: 0.09957407407407408

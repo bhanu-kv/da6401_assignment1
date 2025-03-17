@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:54:53.39334298+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_045453-rzvoz014/logs/debug-core.log"}
+{"time":"2025-03-17T04:54:53.498112564+05:30","level":"INFO","msg":"created new stream","id":"rzvoz014"}
+{"time":"2025-03-17T04:54:53.498176056+05:30","level":"INFO","msg":"stream: started","id":"rzvoz014"}
+{"time":"2025-03-17T04:54:53.498282446+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:54:53.49831666+05:30","level":"INFO","msg":"handler: started","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:54:53.498457095+05:30","level":"INFO","msg":"sender: started","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:54:54.287580264+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:55:13.876758417+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:55:13.877584394+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:55:14.881188806+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.696884818,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.406842512,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T04:55:15.48194506+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:55:15.812195501+05:30","level":"INFO","msg":"stream: closing","id":"rzvoz014"}
+{"time":"2025-03-17T04:55:15.812222913+05:30","level":"INFO","msg":"handler: closed","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:55:15.812237618+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:55:15.812262121+05:30","level":"INFO","msg":"sender: closed","stream_id":"rzvoz014"}
+{"time":"2025-03-17T04:55:15.81237364+05:30","level":"INFO","msg":"stream: closed","id":"rzvoz014"}

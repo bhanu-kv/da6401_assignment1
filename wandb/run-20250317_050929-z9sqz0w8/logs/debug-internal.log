@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:09:29.101111132+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050929-z9sqz0w8/logs/debug-core.log"}
+{"time":"2025-03-17T05:09:29.209047125+05:30","level":"INFO","msg":"created new stream","id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:29.209108773+05:30","level":"INFO","msg":"stream: started","id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:29.209200663+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:29.209233403+05:30","level":"INFO","msg":"handler: started","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:29.20932937+05:30","level":"INFO","msg":"sender: started","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:29.980649951+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:09:45.841830513+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:09:45.842565887+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:09:46.845822195+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.688960025,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.405864291,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T05:09:47.460992206+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:09:47.787289691+05:30","level":"INFO","msg":"stream: closing","id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:47.787328452+05:30","level":"INFO","msg":"handler: closed","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:47.787362732+05:30","level":"INFO","msg":"sender: closed","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:47.787350369+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z9sqz0w8"}
+{"time":"2025-03-17T05:09:47.787717605+05:30","level":"INFO","msg":"stream: closed","id":"z9sqz0w8"}

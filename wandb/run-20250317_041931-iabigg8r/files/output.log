@@ -1,0 +1,91 @@
+0.7128333333333333
+New best model saved with validation accuracy: 0.7128333333333333
+------------------------------------------------------
+Epoch: 1
+Loss: 557.5305617170202
+Correct Predications: 26298
+Total Images: 54000
+Accuracy: 0.487
+
+
+0.693
+------------------------------------------------------
+Epoch: 2
+Loss: 333.7523386405953
+Correct Predications: 38024
+Total Images: 54000
+Accuracy: 0.7041481481481482
+
+
+0.7066666666666667
+------------------------------------------------------
+Epoch: 3
+Loss: 337.2695227841082
+Correct Predications: 38148
+Total Images: 54000
+Accuracy: 0.7064444444444444
+
+
+0.7046666666666667
+------------------------------------------------------
+Epoch: 4
+Loss: 334.5924628242722
+Correct Predications: 38554
+Total Images: 54000
+Accuracy: 0.7139629629629629
+
+
+0.7008333333333333
+------------------------------------------------------
+Epoch: 5
+Loss: 336.04024803419287
+Correct Predications: 38344
+Total Images: 54000
+Accuracy: 0.7100740740740741
+
+
+0.7293333333333333
+New best model saved with validation accuracy: 0.7293333333333333
+------------------------------------------------------
+Epoch: 6
+Loss: 328.4096450923241
+Correct Predications: 38955
+Total Images: 54000
+Accuracy: 0.7213888888888889
+
+
+0.725
+------------------------------------------------------
+Epoch: 7
+Loss: 316.3127477567721
+Correct Predications: 39490
+Total Images: 54000
+Accuracy: 0.7312962962962963
+
+
+0.7231666666666666
+------------------------------------------------------
+Epoch: 8
+Loss: 310.36659384440577
+Correct Predications: 39859
+Total Images: 54000
+Accuracy: 0.7381296296296296
+
+
+0.723
+------------------------------------------------------
+Epoch: 9
+Loss: 295.8031708320742
+Correct Predications: 40234
+Total Images: 54000
+Accuracy: 0.7450740740740741
+
+
+0.7565
+New best model saved with validation accuracy: 0.7565
+------------------------------------------------------
+Epoch: 10
+Loss: 286.7295311373958
+Correct Predications: 40917
+Total Images: 54000
+Accuracy: 0.7577222222222222

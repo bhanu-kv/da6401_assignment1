@@ -1,0 +1,2 @@
+/home/bhanu/IITM/Courses/FDL/da6401_assignment1/optimizers.py:193: RuntimeWarning: overflow encountered in multiply
+  network.weights[i] -= (self.learning_rate / (np.sqrt(self.velocity_w[i]) + self.epsilon)) * (grad_w + self.weight_decay * network.weights[i])

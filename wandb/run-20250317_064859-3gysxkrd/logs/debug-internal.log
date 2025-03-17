@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:48:59.104079994+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_064859-3gysxkrd/logs/debug-core.log"}
+{"time":"2025-03-17T06:48:59.209002986+05:30","level":"INFO","msg":"created new stream","id":"3gysxkrd"}
+{"time":"2025-03-17T06:48:59.209113379+05:30","level":"INFO","msg":"stream: started","id":"3gysxkrd"}
+{"time":"2025-03-17T06:48:59.20919909+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:48:59.209243632+05:30","level":"INFO","msg":"handler: started","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:48:59.209233212+05:30","level":"INFO","msg":"sender: started","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:48:59.989960035+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:49:16.042961546+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:49:16.043614045+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:49:17.046728113+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689518814,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.39695456,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T06:49:17.651808007+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:49:18.017208323+05:30","level":"INFO","msg":"stream: closing","id":"3gysxkrd"}
+{"time":"2025-03-17T06:49:18.017247568+05:30","level":"INFO","msg":"handler: closed","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:49:18.017263435+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:49:18.017301434+05:30","level":"INFO","msg":"sender: closed","stream_id":"3gysxkrd"}
+{"time":"2025-03-17T06:49:18.017454782+05:30","level":"INFO","msg":"stream: closed","id":"3gysxkrd"}

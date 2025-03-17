@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:57:45.317737296+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025745-tkdj23wu/logs/debug-core.log"}
+{"time":"2025-03-17T02:57:45.421428419+05:30","level":"INFO","msg":"created new stream","id":"tkdj23wu"}
+{"time":"2025-03-17T02:57:45.421491934+05:30","level":"INFO","msg":"stream: started","id":"tkdj23wu"}
+{"time":"2025-03-17T02:57:45.421550186+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:57:45.421581351+05:30","level":"INFO","msg":"sender: started","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:57:45.421650939+05:30","level":"INFO","msg":"handler: started","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:57:46.321650013+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:58:07.377889268+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:58:07.379487083+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:58:08.35607452+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.659702909,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.335072635,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T02:58:09.224720992+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:58:09.550295734+05:30","level":"INFO","msg":"stream: closing","id":"tkdj23wu"}
+{"time":"2025-03-17T02:58:09.550324626+05:30","level":"INFO","msg":"handler: closed","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:58:09.550340051+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:58:09.550366801+05:30","level":"INFO","msg":"sender: closed","stream_id":"tkdj23wu"}
+{"time":"2025-03-17T02:58:09.550506848+05:30","level":"INFO","msg":"stream: closed","id":"tkdj23wu"}

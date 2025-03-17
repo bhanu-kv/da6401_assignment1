@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:54:33.952572764+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005433-71ef6rjq/logs/debug-core.log"}
+{"time":"2025-03-17T00:54:34.056764451+05:30","level":"INFO","msg":"created new stream","id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:34.056831034+05:30","level":"INFO","msg":"stream: started","id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:34.056947774+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:34.0569594+05:30","level":"INFO","msg":"handler: started","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:34.05710612+05:30","level":"INFO","msg":"sender: started","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:34.876538895+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:54:54.841619393+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:54:54.842116603+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:54:55.84617223+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689483117,"progress":"201B/201B"},{"desc":"uploading config.yaml","runtime_seconds":0.398428163,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T00:54:56.451481304+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:54:56.778326247+05:30","level":"INFO","msg":"stream: closing","id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:56.778344732+05:30","level":"INFO","msg":"handler: closed","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:56.778366208+05:30","level":"INFO","msg":"sender: closed","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:56.778355838+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"71ef6rjq"}
+{"time":"2025-03-17T00:54:56.778469505+05:30","level":"INFO","msg":"stream: closed","id":"71ef6rjq"}

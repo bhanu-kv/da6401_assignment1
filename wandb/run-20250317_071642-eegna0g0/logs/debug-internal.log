@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:16:42.475471167+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_071642-eegna0g0/logs/debug-core.log"}
+{"time":"2025-03-17T07:16:42.579993451+05:30","level":"INFO","msg":"created new stream","id":"eegna0g0"}
+{"time":"2025-03-17T07:16:42.580076443+05:30","level":"INFO","msg":"stream: started","id":"eegna0g0"}
+{"time":"2025-03-17T07:16:42.580145156+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:16:42.580161126+05:30","level":"INFO","msg":"sender: started","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:16:42.580254076+05:30","level":"INFO","msg":"handler: started","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:16:43.362045653+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:17:02.239944205+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:17:02.240262793+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:17:03.243844796+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.687496836,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.238703499,"progress":"996B/996B"}],"total_operations":2}}
+{"time":"2025-03-17T07:17:03.896607125+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:17:04.232269289+05:30","level":"INFO","msg":"stream: closing","id":"eegna0g0"}
+{"time":"2025-03-17T07:17:04.232301215+05:30","level":"INFO","msg":"handler: closed","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:17:04.232317872+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:17:04.232380376+05:30","level":"INFO","msg":"sender: closed","stream_id":"eegna0g0"}
+{"time":"2025-03-17T07:17:04.232495792+05:30","level":"INFO","msg":"stream: closed","id":"eegna0g0"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:17:40.195223945+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_061740-suzi0ja8/logs/debug-core.log"}
+{"time":"2025-03-17T06:17:40.298215126+05:30","level":"INFO","msg":"created new stream","id":"suzi0ja8"}
+{"time":"2025-03-17T06:17:40.29825411+05:30","level":"INFO","msg":"stream: started","id":"suzi0ja8"}
+{"time":"2025-03-17T06:17:40.298313403+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:17:40.298344487+05:30","level":"INFO","msg":"sender: started","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:17:40.298337225+05:30","level":"INFO","msg":"handler: started","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:17:41.031111367+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:17:59.592284243+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:17:59.592705343+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:18:00.596140739+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.685737684,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.367083518,"progress":"997B/997B"}],"total_operations":2}}
+{"time":"2025-03-17T06:18:00.610192345+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:18:00.954143514+05:30","level":"INFO","msg":"stream: closing","id":"suzi0ja8"}
+{"time":"2025-03-17T06:18:00.954169063+05:30","level":"INFO","msg":"handler: closed","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:18:00.954182624+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:18:00.95424729+05:30","level":"INFO","msg":"sender: closed","stream_id":"suzi0ja8"}
+{"time":"2025-03-17T06:18:00.954318158+05:30","level":"INFO","msg":"stream: closed","id":"suzi0ja8"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:01:49.617816652+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040149-2xtr9au6/logs/debug-core.log"}
+{"time":"2025-03-17T04:01:49.721498717+05:30","level":"INFO","msg":"created new stream","id":"2xtr9au6"}
+{"time":"2025-03-17T04:01:49.721568686+05:30","level":"INFO","msg":"stream: started","id":"2xtr9au6"}
+{"time":"2025-03-17T04:01:49.721614728+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:01:49.721647567+05:30","level":"INFO","msg":"handler: started","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:01:49.72173091+05:30","level":"INFO","msg":"sender: started","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:01:50.515245649+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:02:17.899066804+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:02:17.899368833+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:02:18.903030325+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692703355,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.37643055,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T04:02:19.754835783+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:02:20.06446355+05:30","level":"INFO","msg":"stream: closing","id":"2xtr9au6"}
+{"time":"2025-03-17T04:02:20.064494009+05:30","level":"INFO","msg":"handler: closed","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:02:20.06450965+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:02:20.06453713+05:30","level":"INFO","msg":"sender: closed","stream_id":"2xtr9au6"}
+{"time":"2025-03-17T04:02:20.064647618+05:30","level":"INFO","msg":"stream: closed","id":"2xtr9au6"}

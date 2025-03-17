@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:19:13.154061528+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_021913-un0at72u/logs/debug-core.log"}
+{"time":"2025-03-17T02:19:13.25802501+05:30","level":"INFO","msg":"created new stream","id":"un0at72u"}
+{"time":"2025-03-17T02:19:13.258083586+05:30","level":"INFO","msg":"stream: started","id":"un0at72u"}
+{"time":"2025-03-17T02:19:13.258237465+05:30","level":"INFO","msg":"sender: started","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:13.25826846+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:13.258344243+05:30","level":"INFO","msg":"handler: started","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:13.992242959+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:19:37.12789368+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:19:37.128541053+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:19:38.131817222+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680994521,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.364574659,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T02:19:38.822325669+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:19:39.150696296+05:30","level":"INFO","msg":"stream: closing","id":"un0at72u"}
+{"time":"2025-03-17T02:19:39.150734443+05:30","level":"INFO","msg":"handler: closed","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:39.150752761+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:39.150806595+05:30","level":"INFO","msg":"sender: closed","stream_id":"un0at72u"}
+{"time":"2025-03-17T02:19:39.150915881+05:30","level":"INFO","msg":"stream: closed","id":"un0at72u"}

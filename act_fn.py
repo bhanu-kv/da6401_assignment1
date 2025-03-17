@@ -2,7 +2,7 @@ import numpy as np
 
 # Activation Functions
 def activation_func(inputs, type = 'sigmoid'):
-    if type == 'ReLU':
+    if type == 'relu':
         # return np.maximum(0, inputs)
         return np.minimum(np.maximum(0, inputs), 100)
     elif type == 'sigmoid':
@@ -14,7 +14,7 @@ def activation_func(inputs, type = 'sigmoid'):
 
 # Derivative of Activation Functions
 def der_activation_func(inputs, type = 'sigmoid'):
-    if type == 'ReLU':
+    if type == 'relu':
         output = np.where(inputs >= 0, 0.0, 1.0)
         # output = output.astype(float)
         

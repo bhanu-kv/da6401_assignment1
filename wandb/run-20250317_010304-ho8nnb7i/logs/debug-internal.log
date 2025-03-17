@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:03:04.087856665+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_010304-ho8nnb7i/logs/debug-core.log"}
+{"time":"2025-03-17T01:03:04.191560175+05:30","level":"INFO","msg":"created new stream","id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:04.19161929+05:30","level":"INFO","msg":"stream: started","id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:04.191711833+05:30","level":"INFO","msg":"handler: started","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:04.191693952+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:04.191838446+05:30","level":"INFO","msg":"sender: started","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:05.19409402+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:03:37.278930367+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:03:37.279822722+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:03:38.249122871+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.382246341,"progress":"202B/202B"},{"desc":"uploading config.yaml","runtime_seconds":0.08662234,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T01:03:39.164825367+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:03:39.499542814+05:30","level":"INFO","msg":"stream: closing","id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:39.499620111+05:30","level":"INFO","msg":"handler: closed","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:39.499676683+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:39.499728967+05:30","level":"INFO","msg":"sender: closed","stream_id":"ho8nnb7i"}
+{"time":"2025-03-17T01:03:39.499886388+05:30","level":"INFO","msg":"stream: closed","id":"ho8nnb7i"}

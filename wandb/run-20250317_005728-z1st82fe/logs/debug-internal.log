@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:57:28.670207621+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005728-z1st82fe/logs/debug-core.log"}
+{"time":"2025-03-17T00:57:28.773471871+05:30","level":"INFO","msg":"created new stream","id":"z1st82fe"}
+{"time":"2025-03-17T00:57:28.773512364+05:30","level":"INFO","msg":"stream: started","id":"z1st82fe"}
+{"time":"2025-03-17T00:57:28.77355532+05:30","level":"INFO","msg":"handler: started","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:28.773564397+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:28.773617636+05:30","level":"INFO","msg":"sender: started","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:29.492199357+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:57:45.983171067+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:57:45.983521655+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:57:46.98701787+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.682209748,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.381732127,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T00:57:47.623823129+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:57:47.955471573+05:30","level":"INFO","msg":"stream: closing","id":"z1st82fe"}
+{"time":"2025-03-17T00:57:47.955515134+05:30","level":"INFO","msg":"handler: closed","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:47.955532163+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:47.955579091+05:30","level":"INFO","msg":"sender: closed","stream_id":"z1st82fe"}
+{"time":"2025-03-17T00:57:47.955696411+05:30","level":"INFO","msg":"stream: closed","id":"z1st82fe"}

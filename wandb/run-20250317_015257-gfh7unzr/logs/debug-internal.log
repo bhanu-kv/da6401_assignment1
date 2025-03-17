@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:52:57.351559379+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_015257-gfh7unzr/logs/debug-core.log"}
+{"time":"2025-03-17T01:52:57.455498037+05:30","level":"INFO","msg":"created new stream","id":"gfh7unzr"}
+{"time":"2025-03-17T01:52:57.455564894+05:30","level":"INFO","msg":"stream: started","id":"gfh7unzr"}
+{"time":"2025-03-17T01:52:57.455653246+05:30","level":"INFO","msg":"handler: started","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:52:57.455676115+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:52:57.455902812+05:30","level":"INFO","msg":"sender: started","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:52:58.193171522+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:53:42.691397089+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:53:42.691770388+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:53:43.694946342+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.689091174,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.375382354,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T01:53:44.332124216+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:53:44.636859228+05:30","level":"INFO","msg":"stream: closing","id":"gfh7unzr"}
+{"time":"2025-03-17T01:53:44.636900822+05:30","level":"INFO","msg":"handler: closed","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:53:44.63692067+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:53:44.637009165+05:30","level":"INFO","msg":"sender: closed","stream_id":"gfh7unzr"}
+{"time":"2025-03-17T01:53:44.637085704+05:30","level":"INFO","msg":"stream: closed","id":"gfh7unzr"}

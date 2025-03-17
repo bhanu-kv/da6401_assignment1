@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:40:52.187032485+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_064052-timcyafn/logs/debug-core.log"}
+{"time":"2025-03-17T06:40:52.291066102+05:30","level":"INFO","msg":"created new stream","id":"timcyafn"}
+{"time":"2025-03-17T06:40:52.291126446+05:30","level":"INFO","msg":"stream: started","id":"timcyafn"}
+{"time":"2025-03-17T06:40:52.291188033+05:30","level":"INFO","msg":"handler: started","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:40:52.291219773+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:40:52.291305007+05:30","level":"INFO","msg":"sender: started","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:40:53.074301958+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:41:37.022284356+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:41:37.022585916+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:41:38.025603188+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.683281002,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.396417452,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T06:41:38.684939835+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:41:39.026209857+05:30","level":"INFO","msg":"stream: closing","id":"timcyafn"}
+{"time":"2025-03-17T06:41:39.02624239+05:30","level":"INFO","msg":"handler: closed","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:41:39.026259885+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:41:39.026305072+05:30","level":"INFO","msg":"sender: closed","stream_id":"timcyafn"}
+{"time":"2025-03-17T06:41:39.02640133+05:30","level":"INFO","msg":"stream: closed","id":"timcyafn"}

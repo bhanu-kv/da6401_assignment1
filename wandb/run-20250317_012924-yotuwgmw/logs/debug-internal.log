@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:29:24.420421554+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_012924-yotuwgmw/logs/debug-core.log"}
+{"time":"2025-03-17T01:29:24.524259095+05:30","level":"INFO","msg":"created new stream","id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:24.524314027+05:30","level":"INFO","msg":"stream: started","id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:24.524424913+05:30","level":"INFO","msg":"sender: started","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:24.524527775+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:24.524571246+05:30","level":"INFO","msg":"handler: started","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:25.342518936+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:29:48.599824445+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:29:48.600191371+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:29:49.604367262+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.677148624,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.677118582,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.372073692,"progress":"989B/989B"}],"total_operations":3}}
+{"time":"2025-03-17T01:29:50.254495919+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:29:50.581548274+05:30","level":"INFO","msg":"stream: closing","id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:50.581583211+05:30","level":"INFO","msg":"handler: closed","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:50.581598657+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:50.581677816+05:30","level":"INFO","msg":"sender: closed","stream_id":"yotuwgmw"}
+{"time":"2025-03-17T01:29:50.581780005+05:30","level":"INFO","msg":"stream: closed","id":"yotuwgmw"}

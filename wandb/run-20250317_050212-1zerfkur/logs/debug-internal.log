@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:02:12.916862773+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_050212-1zerfkur/logs/debug-core.log"}
+{"time":"2025-03-17T05:02:13.021920287+05:30","level":"INFO","msg":"created new stream","id":"1zerfkur"}
+{"time":"2025-03-17T05:02:13.021980943+05:30","level":"INFO","msg":"stream: started","id":"1zerfkur"}
+{"time":"2025-03-17T05:02:13.022086804+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:13.022120818+05:30","level":"INFO","msg":"sender: started","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:13.022183102+05:30","level":"INFO","msg":"handler: started","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:13.878083132+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:02:47.365456493+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:02:47.366135605+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:02:48.342389415+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.644670204,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.33035939,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T05:02:48.9960466+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:02:49.321465697+05:30","level":"INFO","msg":"stream: closing","id":"1zerfkur"}
+{"time":"2025-03-17T05:02:49.321503702+05:30","level":"INFO","msg":"handler: closed","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:49.321550285+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:49.321568354+05:30","level":"INFO","msg":"sender: closed","stream_id":"1zerfkur"}
+{"time":"2025-03-17T05:02:49.32170709+05:30","level":"INFO","msg":"stream: closed","id":"1zerfkur"}

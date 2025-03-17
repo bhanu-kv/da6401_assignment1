@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:11:02.512257691+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_041102-91glz3k1/logs/debug-core.log"}
+{"time":"2025-03-17T04:11:02.615995611+05:30","level":"INFO","msg":"created new stream","id":"91glz3k1"}
+{"time":"2025-03-17T04:11:02.616069537+05:30","level":"INFO","msg":"stream: started","id":"91glz3k1"}
+{"time":"2025-03-17T04:11:02.616127237+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:02.616178265+05:30","level":"INFO","msg":"sender: started","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:02.616241473+05:30","level":"INFO","msg":"handler: started","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:03.492959529+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:11:33.545275101+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:11:33.545588941+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:11:34.549187052+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68077027,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.394346428,"progress":"992B/992B"},{"desc":"uploading history steps 5-9, summary, console lines 48-97","runtime_seconds":0.201145757}],"total_operations":3}}
+{"time":"2025-03-17T04:11:35.230139428+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:11:35.531962524+05:30","level":"INFO","msg":"stream: closing","id":"91glz3k1"}
+{"time":"2025-03-17T04:11:35.532016195+05:30","level":"INFO","msg":"handler: closed","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:35.532051011+05:30","level":"INFO","msg":"sender: closed","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:35.532041386+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"91glz3k1"}
+{"time":"2025-03-17T04:11:35.532223003+05:30","level":"INFO","msg":"stream: closed","id":"91glz3k1"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:28:03.041715431+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_052803-kimknq19/logs/debug-core.log"}
+{"time":"2025-03-17T05:28:03.146338247+05:30","level":"INFO","msg":"created new stream","id":"kimknq19"}
+{"time":"2025-03-17T05:28:03.146429448+05:30","level":"INFO","msg":"stream: started","id":"kimknq19"}
+{"time":"2025-03-17T05:28:03.146526876+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:28:03.146593936+05:30","level":"INFO","msg":"sender: started","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:28:03.146696745+05:30","level":"INFO","msg":"handler: started","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:28:03.97754644+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:28:58.446179805+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:28:58.446576817+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:28:59.450150294+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681893177,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.3826791,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T05:29:00.052280462+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:29:00.396263316+05:30","level":"INFO","msg":"stream: closing","id":"kimknq19"}
+{"time":"2025-03-17T05:29:00.39631837+05:30","level":"INFO","msg":"handler: closed","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:29:00.396338703+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:29:00.396420159+05:30","level":"INFO","msg":"sender: closed","stream_id":"kimknq19"}
+{"time":"2025-03-17T05:29:00.396545074+05:30","level":"INFO","msg":"stream: closed","id":"kimknq19"}

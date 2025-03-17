@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:45:32.254344718+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_074532-us6i1yhz/logs/debug-core.log"}
+{"time":"2025-03-17T07:45:32.357817104+05:30","level":"INFO","msg":"created new stream","id":"us6i1yhz"}
+{"time":"2025-03-17T07:45:32.357853692+05:30","level":"INFO","msg":"stream: started","id":"us6i1yhz"}
+{"time":"2025-03-17T07:45:32.357891331+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:45:32.357907818+05:30","level":"INFO","msg":"handler: started","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:45:32.357955706+05:30","level":"INFO","msg":"sender: started","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:45:33.089604515+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:46:08.652077208+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:46:08.652406165+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:46:09.655971027+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.67821684,"progress":"201B/201B"},{"desc":"uploading config.yaml","runtime_seconds":0.387940827,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T07:46:10.275067528+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:46:10.585741514+05:30","level":"INFO","msg":"stream: closing","id":"us6i1yhz"}
+{"time":"2025-03-17T07:46:10.585775723+05:30","level":"INFO","msg":"handler: closed","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:46:10.585818699+05:30","level":"INFO","msg":"sender: closed","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:46:10.585800557+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"us6i1yhz"}
+{"time":"2025-03-17T07:46:10.585969211+05:30","level":"INFO","msg":"stream: closed","id":"us6i1yhz"}

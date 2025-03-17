@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:17:06.608712923+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_041706-1mor0q69/logs/debug-core.log"}
+{"time":"2025-03-17T04:17:06.713042813+05:30","level":"INFO","msg":"created new stream","id":"1mor0q69"}
+{"time":"2025-03-17T04:17:06.713108786+05:30","level":"INFO","msg":"stream: started","id":"1mor0q69"}
+{"time":"2025-03-17T04:17:06.713182278+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:06.713197719+05:30","level":"INFO","msg":"sender: started","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:06.713246587+05:30","level":"INFO","msg":"handler: started","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:07.512701546+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:17:23.796498377+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:17:23.797087843+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:17:24.801393613+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.69942606,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.396479545,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T04:17:25.767274063+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:17:26.083178256+05:30","level":"INFO","msg":"stream: closing","id":"1mor0q69"}
+{"time":"2025-03-17T04:17:26.083213503+05:30","level":"INFO","msg":"handler: closed","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:26.083235386+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:26.083296419+05:30","level":"INFO","msg":"sender: closed","stream_id":"1mor0q69"}
+{"time":"2025-03-17T04:17:26.083380977+05:30","level":"INFO","msg":"stream: closed","id":"1mor0q69"}

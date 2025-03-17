@@ -1,0 +1,94 @@
+0.7365
+New best model saved with validation accuracy: 0.7365
+------------------------------------------------------
+Epoch: 1
+Loss: 398.95081874366736
+Correct Predications: 35336
+Total Images: 54000
+Accuracy: 0.6543703703703704
+
+
+0.7421666666666666
+New best model saved with validation accuracy: 0.7421666666666666
+------------------------------------------------------
+Epoch: 2
+Loss: 270.51543534892954
+Correct Predications: 41085
+Total Images: 54000
+Accuracy: 0.7608333333333334
+
+
+0.7341666666666666
+------------------------------------------------------
+Epoch: 3
+Loss: 273.48216442838043
+Correct Predications: 41484
+Total Images: 54000
+Accuracy: 0.7682222222222223
+
+
+0.7511666666666666
+New best model saved with validation accuracy: 0.7511666666666666
+------------------------------------------------------
+Epoch: 4
+Loss: 284.8628054248562
+Correct Predications: 41601
+Total Images: 54000
+Accuracy: 0.7703888888888889
+
+
+0.7606666666666667
+New best model saved with validation accuracy: 0.7606666666666667
+------------------------------------------------------
+Epoch: 5
+Loss: 286.7007661061597
+Correct Predications: 41739
+Total Images: 54000
+Accuracy: 0.7729444444444444
+
+
+0.7858333333333334
+New best model saved with validation accuracy: 0.7858333333333334
+------------------------------------------------------
+Epoch: 6
+Loss: 280.3524700194641
+Correct Predications: 42126
+Total Images: 54000
+Accuracy: 0.7801111111111111
+
+
+0.776
+------------------------------------------------------
+Epoch: 7
+Loss: 273.3064942396172
+Correct Predications: 42462
+Total Images: 54000
+Accuracy: 0.7863333333333333
+
+
+0.785
+------------------------------------------------------
+Epoch: 8
+Loss: 271.1026375741055
+Correct Predications: 42518
+Total Images: 54000
+Accuracy: 0.7873703703703704
+
+
+0.7973333333333333
+New best model saved with validation accuracy: 0.7973333333333333
+------------------------------------------------------
+Epoch: 9
+Loss: 271.4748296677213
+Correct Predications: 42513
+Total Images: 54000
+Accuracy: 0.7872777777777777
+
+
+0.7381666666666666
+------------------------------------------------------
+Epoch: 10
+Loss: 268.5610272815067
+Correct Predications: 42746
+Total Images: 54000
+Accuracy: 0.7915925925925926

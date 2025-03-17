@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:51:02.030326614+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_095102-6yjxqj6y/logs/debug-core.log"}
+{"time":"2025-03-17T09:51:02.134992396+05:30","level":"INFO","msg":"created new stream","id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:02.135102032+05:30","level":"INFO","msg":"stream: started","id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:02.135110927+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:02.135194019+05:30","level":"INFO","msg":"handler: started","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:02.135226489+05:30","level":"INFO","msg":"sender: started","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:02.916604586+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:51:33.741066984+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:51:33.741710537+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:51:34.717643293+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.523209157,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.240145592,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T09:51:34.816837944+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:51:35.133643243+05:30","level":"INFO","msg":"stream: closing","id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:35.133681763+05:30","level":"INFO","msg":"handler: closed","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:35.133706361+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:35.133775262+05:30","level":"INFO","msg":"sender: closed","stream_id":"6yjxqj6y"}
+{"time":"2025-03-17T09:51:35.133859942+05:30","level":"INFO","msg":"stream: closed","id":"6yjxqj6y"}

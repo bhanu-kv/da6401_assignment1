@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:30:32.006609139+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_033031-cqyn7h80/logs/debug-core.log"}
+{"time":"2025-03-17T03:30:32.110042024+05:30","level":"INFO","msg":"created new stream","id":"cqyn7h80"}
+{"time":"2025-03-17T03:30:32.110083717+05:30","level":"INFO","msg":"stream: started","id":"cqyn7h80"}
+{"time":"2025-03-17T03:30:32.110116863+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:30:32.110156711+05:30","level":"INFO","msg":"handler: started","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:30:32.110204674+05:30","level":"INFO","msg":"sender: started","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:30:32.863341661+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:30:58.018283145+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:30:58.018726553+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:30:59.019517816+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.683500829,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.401000637,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T03:30:59.703219222+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:31:00.012676908+05:30","level":"INFO","msg":"stream: closing","id":"cqyn7h80"}
+{"time":"2025-03-17T03:31:00.012722224+05:30","level":"INFO","msg":"handler: closed","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:31:00.012747063+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:31:00.012792145+05:30","level":"INFO","msg":"sender: closed","stream_id":"cqyn7h80"}
+{"time":"2025-03-17T03:31:00.012962793+05:30","level":"INFO","msg":"stream: closed","id":"cqyn7h80"}

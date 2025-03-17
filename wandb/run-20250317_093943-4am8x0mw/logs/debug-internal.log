@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:39:43.241073847+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_093943-4am8x0mw/logs/debug-core.log"}
+{"time":"2025-03-17T09:39:43.348785026+05:30","level":"INFO","msg":"created new stream","id":"4am8x0mw"}
+{"time":"2025-03-17T09:39:43.348839984+05:30","level":"INFO","msg":"stream: started","id":"4am8x0mw"}
+{"time":"2025-03-17T09:39:43.348918048+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:39:43.348937002+05:30","level":"INFO","msg":"sender: started","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:39:43.349052224+05:30","level":"INFO","msg":"handler: started","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:39:44.142418642+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:39:58.357392207+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:39:58.358711457+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:39:59.36238794+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.690308594,"progress":"190B/190B"},{"desc":"uploading config.yaml","runtime_seconds":0.383666861,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T09:39:59.970228328+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:40:00.520626684+05:30","level":"INFO","msg":"stream: closing","id":"4am8x0mw"}
+{"time":"2025-03-17T09:40:00.520656691+05:30","level":"INFO","msg":"handler: closed","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:40:00.52067905+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:40:00.52070048+05:30","level":"INFO","msg":"sender: closed","stream_id":"4am8x0mw"}
+{"time":"2025-03-17T09:40:00.520850775+05:30","level":"INFO","msg":"stream: closed","id":"4am8x0mw"}

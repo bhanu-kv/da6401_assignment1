@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:22:24.402352547+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_062224-7aqk14ky/logs/debug-core.log"}
+{"time":"2025-03-17T06:22:24.507308902+05:30","level":"INFO","msg":"created new stream","id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:24.507365256+05:30","level":"INFO","msg":"stream: started","id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:24.507542625+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:24.507552006+05:30","level":"INFO","msg":"sender: started","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:24.507552452+05:30","level":"INFO","msg":"handler: started","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:25.33607236+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:22:49.116606058+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:22:49.11691622+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:22:50.120366235+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691329096,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.407267491,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T06:22:50.709387505+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:22:51.032555249+05:30","level":"INFO","msg":"stream: closing","id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:51.032584287+05:30","level":"INFO","msg":"handler: closed","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:51.032600978+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:51.032627259+05:30","level":"INFO","msg":"sender: closed","stream_id":"7aqk14ky"}
+{"time":"2025-03-17T06:22:51.032751298+05:30","level":"INFO","msg":"stream: closed","id":"7aqk14ky"}

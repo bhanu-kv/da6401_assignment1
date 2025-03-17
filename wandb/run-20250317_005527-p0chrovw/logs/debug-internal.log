@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:55:27.71893883+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_005527-p0chrovw/logs/debug-core.log"}
+{"time":"2025-03-17T00:55:27.822616872+05:30","level":"INFO","msg":"created new stream","id":"p0chrovw"}
+{"time":"2025-03-17T00:55:27.822665623+05:30","level":"INFO","msg":"stream: started","id":"p0chrovw"}
+{"time":"2025-03-17T00:55:27.822942647+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:55:27.822973385+05:30","level":"INFO","msg":"handler: started","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:55:27.823328349+05:30","level":"INFO","msg":"sender: started","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:55:28.541218825+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:56:17.932036691+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:56:17.932727113+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:56:18.936683101+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6645497,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.360982918,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T00:56:19.561825941+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:56:19.892777637+05:30","level":"INFO","msg":"stream: closing","id":"p0chrovw"}
+{"time":"2025-03-17T00:56:19.892811977+05:30","level":"INFO","msg":"handler: closed","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:56:19.892854472+05:30","level":"INFO","msg":"sender: closed","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:56:19.892838377+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"p0chrovw"}
+{"time":"2025-03-17T00:56:19.893013456+05:30","level":"INFO","msg":"stream: closed","id":"p0chrovw"}

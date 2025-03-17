@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:15:00.967273459+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_031500-euv8onyt/logs/debug-core.log"}
+{"time":"2025-03-17T03:15:01.070271657+05:30","level":"INFO","msg":"created new stream","id":"euv8onyt"}
+{"time":"2025-03-17T03:15:01.070316496+05:30","level":"INFO","msg":"stream: started","id":"euv8onyt"}
+{"time":"2025-03-17T03:15:01.070376202+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:01.070380721+05:30","level":"INFO","msg":"handler: started","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:01.070428677+05:30","level":"INFO","msg":"sender: started","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:01.806548847+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:15:17.941292144+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:15:17.941741584+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:15:18.945244907+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.697135045,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.380805752,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T03:15:19.601844607+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:15:19.943524397+05:30","level":"INFO","msg":"stream: closing","id":"euv8onyt"}
+{"time":"2025-03-17T03:15:19.943564442+05:30","level":"INFO","msg":"handler: closed","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:19.943604491+05:30","level":"INFO","msg":"sender: closed","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:19.943586745+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"euv8onyt"}
+{"time":"2025-03-17T03:15:19.943760024+05:30","level":"INFO","msg":"stream: closed","id":"euv8onyt"}

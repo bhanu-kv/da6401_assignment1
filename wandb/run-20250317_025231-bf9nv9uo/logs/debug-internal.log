@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:52:31.189898588+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025231-bf9nv9uo/logs/debug-core.log"}
+{"time":"2025-03-17T02:52:31.292574299+05:30","level":"INFO","msg":"created new stream","id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:31.292605206+05:30","level":"INFO","msg":"stream: started","id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:31.292658511+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:31.292677336+05:30","level":"INFO","msg":"sender: started","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:31.292683503+05:30","level":"INFO","msg":"handler: started","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:32.084471431+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:52:46.059980846+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:52:46.060453836+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:52:47.063755218+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.698024926,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.392636565,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T02:52:47.728874838+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:52:48.058857405+05:30","level":"INFO","msg":"stream: closing","id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:48.058889649+05:30","level":"INFO","msg":"handler: closed","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:48.058910179+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:48.058937898+05:30","level":"INFO","msg":"sender: closed","stream_id":"bf9nv9uo"}
+{"time":"2025-03-17T02:52:48.059096466+05:30","level":"INFO","msg":"stream: closed","id":"bf9nv9uo"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:36:05.999442902+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_073605-cyv779bd/logs/debug-core.log"}
+{"time":"2025-03-17T07:36:06.103677327+05:30","level":"INFO","msg":"created new stream","id":"cyv779bd"}
+{"time":"2025-03-17T07:36:06.103740479+05:30","level":"INFO","msg":"stream: started","id":"cyv779bd"}
+{"time":"2025-03-17T07:36:06.103846882+05:30","level":"INFO","msg":"handler: started","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:06.103905146+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:06.103913005+05:30","level":"INFO","msg":"sender: started","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:06.887063019+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:36:20.643867605+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:36:20.644422867+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:36:21.648052056+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691306654,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.408472611,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T07:36:22.267360545+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:36:22.610396539+05:30","level":"INFO","msg":"stream: closing","id":"cyv779bd"}
+{"time":"2025-03-17T07:36:22.610447563+05:30","level":"INFO","msg":"handler: closed","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:22.610466579+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:22.610495088+05:30","level":"INFO","msg":"sender: closed","stream_id":"cyv779bd"}
+{"time":"2025-03-17T07:36:22.610600484+05:30","level":"INFO","msg":"stream: closed","id":"cyv779bd"}

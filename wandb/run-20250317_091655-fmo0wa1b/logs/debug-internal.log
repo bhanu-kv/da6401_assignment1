@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:16:55.060382992+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_091655-fmo0wa1b/logs/debug-core.log"}
+{"time":"2025-03-17T09:16:55.164013451+05:30","level":"INFO","msg":"created new stream","id":"fmo0wa1b"}
+{"time":"2025-03-17T09:16:55.164045712+05:30","level":"INFO","msg":"stream: started","id":"fmo0wa1b"}
+{"time":"2025-03-17T09:16:55.164064401+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:16:55.164078568+05:30","level":"INFO","msg":"handler: started","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:16:55.164104341+05:30","level":"INFO","msg":"sender: started","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:16:56.261166593+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:17:29.544156159+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:17:29.544968047+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:17:30.520717988+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.423273979,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.123865026,"progress":"984B/984B"}],"total_operations":2}}
+{"time":"2025-03-17T09:17:31.664272457+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:17:31.968599906+05:30","level":"INFO","msg":"stream: closing","id":"fmo0wa1b"}
+{"time":"2025-03-17T09:17:31.968625271+05:30","level":"INFO","msg":"handler: closed","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:17:31.968651782+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:17:31.968665345+05:30","level":"INFO","msg":"sender: closed","stream_id":"fmo0wa1b"}
+{"time":"2025-03-17T09:17:31.968710939+05:30","level":"INFO","msg":"stream: closed","id":"fmo0wa1b"}

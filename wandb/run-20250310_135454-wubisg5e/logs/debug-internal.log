@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:54:54.079580721+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250310_135454-wubisg5e/logs/debug-core.log"}
+{"time":"2025-03-10T13:54:54.193109109+05:30","level":"INFO","msg":"created new stream","id":"wubisg5e"}
+{"time":"2025-03-10T13:54:54.19317394+05:30","level":"INFO","msg":"stream: started","id":"wubisg5e"}
+{"time":"2025-03-10T13:54:54.193791211+05:30","level":"INFO","msg":"handler: started","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:54:54.19351686+05:30","level":"INFO","msg":"sender: started","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:54:54.193243392+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:54:54.993264891+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:55:10.053034542+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:55:10.094194258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:55:11.057164287+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.367304584,"progress":"983B/983B"},{"desc":"uploading history steps 0-4, summary, console lines 0-43","runtime_seconds":0.183724396}],"total_operations":2}}
+{"time":"2025-03-10T13:55:11.106606218+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:55:11.547596514+05:30","level":"INFO","msg":"stream: closing","id":"wubisg5e"}
+{"time":"2025-03-10T13:55:11.547632673+05:30","level":"INFO","msg":"handler: closed","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:55:11.547669212+05:30","level":"INFO","msg":"sender: closed","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:55:11.54765395+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wubisg5e"}
+{"time":"2025-03-10T13:55:11.547807856+05:30","level":"INFO","msg":"stream: closed","id":"wubisg5e"}

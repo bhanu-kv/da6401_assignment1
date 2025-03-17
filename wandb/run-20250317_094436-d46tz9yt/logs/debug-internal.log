@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:44:36.135025351+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_094436-d46tz9yt/logs/debug-core.log"}
+{"time":"2025-03-17T09:44:36.239590119+05:30","level":"INFO","msg":"created new stream","id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:36.239673013+05:30","level":"INFO","msg":"stream: started","id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:36.239816602+05:30","level":"INFO","msg":"handler: started","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:36.239875087+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:36.239921785+05:30","level":"INFO","msg":"sender: started","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:37.053910669+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:44:51.438777034+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:44:51.439396381+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:44:52.442288854+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.693882386,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.391627614,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T09:44:53.045904598+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:44:53.484201665+05:30","level":"INFO","msg":"stream: closing","id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:53.484210415+05:30","level":"INFO","msg":"handler: closed","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:53.484215797+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:53.484229469+05:30","level":"INFO","msg":"sender: closed","stream_id":"d46tz9yt"}
+{"time":"2025-03-17T09:44:53.484273704+05:30","level":"INFO","msg":"stream: closed","id":"d46tz9yt"}

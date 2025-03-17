@@ -1,0 +1,91 @@
+0.7888333333333334
+New best model saved with validation accuracy: 0.7888333333333334
+------------------------------------------------------
+Epoch: 1
+Loss: 274.3282130756245
+Correct Predications: 40843
+Total Images: 54000
+Accuracy: 0.7563518518518518
+
+
+0.7955
+New best model saved with validation accuracy: 0.7955
+------------------------------------------------------
+Epoch: 2
+Loss: 208.7170527402362
+Correct Predications: 44320
+Total Images: 54000
+Accuracy: 0.8207407407407408
+
+
+0.7995
+New best model saved with validation accuracy: 0.7995
+------------------------------------------------------
+Epoch: 3
+Loss: 199.35995077103348
+Correct Predications: 44779
+Total Images: 54000
+Accuracy: 0.8292407407407407
+
+
+0.7915
+------------------------------------------------------
+Epoch: 4
+Loss: 201.65872929606542
+Correct Predications: 44699
+Total Images: 54000
+Accuracy: 0.8277592592592593
+
+
+0.7573333333333333
+------------------------------------------------------
+Epoch: 5
+Loss: 214.11237635482456
+Correct Predications: 44037
+Total Images: 54000
+Accuracy: 0.8155
+
+
+0.7205
+------------------------------------------------------
+Epoch: 6
+Loss: 249.42329261257032
+Correct Predications: 42460
+Total Images: 54000
+Accuracy: 0.7862962962962963
+
+
+0.7006666666666667
+------------------------------------------------------
+Epoch: 7
+Loss: 348.4594332901086
+Correct Predications: 37308
+Total Images: 54000
+Accuracy: 0.6908888888888889
+
+
+0.6133333333333333
+------------------------------------------------------
+Epoch: 8
+Loss: 406.10730724169537
+Correct Predications: 34415
+Total Images: 54000
+Accuracy: 0.6373148148148148
+
+
+0.5756666666666667
+------------------------------------------------------
+Epoch: 9
+Loss: 472.7073021678501
+Correct Predications: 29902
+Total Images: 54000
+Accuracy: 0.5537407407407408
+
+
+0.5831666666666667
+------------------------------------------------------
+Epoch: 10
+Loss: 464.12460506500264
+Correct Predications: 30415
+Total Images: 54000
+Accuracy: 0.5632407407407407

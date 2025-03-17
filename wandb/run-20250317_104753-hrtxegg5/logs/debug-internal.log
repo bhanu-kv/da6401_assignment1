@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:47:53.53025891+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_104753-hrtxegg5/logs/debug-core.log"}
+{"time":"2025-03-17T10:47:53.6339776+05:30","level":"INFO","msg":"created new stream","id":"hrtxegg5"}
+{"time":"2025-03-17T10:47:53.63408266+05:30","level":"INFO","msg":"stream: started","id":"hrtxegg5"}
+{"time":"2025-03-17T10:47:53.634132936+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:47:53.634146456+05:30","level":"INFO","msg":"sender: started","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:47:53.634318515+05:30","level":"INFO","msg":"handler: started","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:47:54.402182473+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:48:12.124659228+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:48:12.125149102+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:48:13.128314335+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.680542713,"progress":"1.9KB/1.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.392402013,"progress":"985B/985B"}],"total_operations":2}}
+{"time":"2025-03-17T10:48:13.733423424+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:48:14.06684422+05:30","level":"INFO","msg":"stream: closing","id":"hrtxegg5"}
+{"time":"2025-03-17T10:48:14.066874943+05:30","level":"INFO","msg":"handler: closed","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:48:14.066889606+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:48:14.066917745+05:30","level":"INFO","msg":"sender: closed","stream_id":"hrtxegg5"}
+{"time":"2025-03-17T10:48:14.067060695+05:30","level":"INFO","msg":"stream: closed","id":"hrtxegg5"}

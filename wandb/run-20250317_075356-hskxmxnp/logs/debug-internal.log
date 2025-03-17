@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:53:56.539491082+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_075356-hskxmxnp/logs/debug-core.log"}
+{"time":"2025-03-17T07:53:56.644408314+05:30","level":"INFO","msg":"created new stream","id":"hskxmxnp"}
+{"time":"2025-03-17T07:53:56.644495042+05:30","level":"INFO","msg":"stream: started","id":"hskxmxnp"}
+{"time":"2025-03-17T07:53:56.644626944+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:53:56.644642835+05:30","level":"INFO","msg":"sender: started","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:53:56.644719565+05:30","level":"INFO","msg":"handler: started","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:53:57.426174326+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:54:15.349119696+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:54:15.350005458+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:54:16.352551939+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68757902,"progress":"206B/206B"},{"desc":"uploading config.yaml","runtime_seconds":0.354809804,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T07:54:16.953568511+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:54:17.278975215+05:30","level":"INFO","msg":"stream: closing","id":"hskxmxnp"}
+{"time":"2025-03-17T07:54:17.279008652+05:30","level":"INFO","msg":"handler: closed","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:54:17.27902404+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:54:17.279073991+05:30","level":"INFO","msg":"sender: closed","stream_id":"hskxmxnp"}
+{"time":"2025-03-17T07:54:17.279185651+05:30","level":"INFO","msg":"stream: closed","id":"hskxmxnp"}

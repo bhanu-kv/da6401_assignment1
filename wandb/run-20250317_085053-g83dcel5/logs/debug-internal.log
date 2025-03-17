@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:50:53.487855463+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_085053-g83dcel5/logs/debug-core.log"}
+{"time":"2025-03-17T08:50:53.59299185+05:30","level":"INFO","msg":"created new stream","id":"g83dcel5"}
+{"time":"2025-03-17T08:50:53.593051466+05:30","level":"INFO","msg":"stream: started","id":"g83dcel5"}
+{"time":"2025-03-17T08:50:53.593180439+05:30","level":"INFO","msg":"sender: started","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:50:53.593162327+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:50:53.593287929+05:30","level":"INFO","msg":"handler: started","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:50:54.322526234+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:51:18.353695124+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:51:18.354170379+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:51:19.357510285+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687599208,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.408312734,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T08:51:19.972190587+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:51:20.276935552+05:30","level":"INFO","msg":"stream: closing","id":"g83dcel5"}
+{"time":"2025-03-17T08:51:20.276978241+05:30","level":"INFO","msg":"handler: closed","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:51:20.276999657+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:51:20.277059113+05:30","level":"INFO","msg":"sender: closed","stream_id":"g83dcel5"}
+{"time":"2025-03-17T08:51:20.277181244+05:30","level":"INFO","msg":"stream: closed","id":"g83dcel5"}

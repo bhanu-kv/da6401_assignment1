@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:23:57.648123766+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_092357-22p8q83t/logs/debug-core.log"}
+{"time":"2025-03-17T09:23:57.754840847+05:30","level":"INFO","msg":"created new stream","id":"22p8q83t"}
+{"time":"2025-03-17T09:23:57.754886648+05:30","level":"INFO","msg":"stream: started","id":"22p8q83t"}
+{"time":"2025-03-17T09:23:57.7548987+05:30","level":"INFO","msg":"handler: started","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:23:57.754943226+05:30","level":"INFO","msg":"sender: started","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:23:57.755003256+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:23:58.561847299+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:24:21.832261559+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:24:21.832916753+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:24:22.836391108+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691474058,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.384171921,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T09:24:23.452996105+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:24:23.784381+05:30","level":"INFO","msg":"stream: closing","id":"22p8q83t"}
+{"time":"2025-03-17T09:24:23.784415587+05:30","level":"INFO","msg":"handler: closed","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:24:23.784466574+05:30","level":"INFO","msg":"sender: closed","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:24:23.784455945+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"22p8q83t"}
+{"time":"2025-03-17T09:24:23.784624454+05:30","level":"INFO","msg":"stream: closed","id":"22p8q83t"}

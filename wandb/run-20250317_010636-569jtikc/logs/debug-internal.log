@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:06:36.975394973+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_010636-569jtikc/logs/debug-core.log"}
+{"time":"2025-03-17T01:06:37.079790256+05:30","level":"INFO","msg":"created new stream","id":"569jtikc"}
+{"time":"2025-03-17T01:06:37.079895274+05:30","level":"INFO","msg":"stream: started","id":"569jtikc"}
+{"time":"2025-03-17T01:06:37.079942828+05:30","level":"INFO","msg":"handler: started","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:06:37.079955815+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:06:37.080107743+05:30","level":"INFO","msg":"sender: started","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:06:37.788010082+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:07:12.76603021+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:07:12.766357693+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:07:13.769947831+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.667401504,"progress":"202B/202B"},{"desc":"uploading config.yaml","runtime_seconds":0.402017407,"progress":"995B/995B"}],"total_operations":2}}
+{"time":"2025-03-17T01:07:14.393057316+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:07:14.727879751+05:30","level":"INFO","msg":"stream: closing","id":"569jtikc"}
+{"time":"2025-03-17T01:07:14.727913383+05:30","level":"INFO","msg":"handler: closed","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:07:14.72793139+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:07:14.727992156+05:30","level":"INFO","msg":"sender: closed","stream_id":"569jtikc"}
+{"time":"2025-03-17T01:07:14.728079119+05:30","level":"INFO","msg":"stream: closed","id":"569jtikc"}

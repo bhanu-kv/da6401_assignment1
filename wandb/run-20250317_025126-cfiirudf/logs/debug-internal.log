@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:51:26.442694006+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025126-cfiirudf/logs/debug-core.log"}
+{"time":"2025-03-17T02:51:26.547262093+05:30","level":"INFO","msg":"created new stream","id":"cfiirudf"}
+{"time":"2025-03-17T02:51:26.547322195+05:30","level":"INFO","msg":"stream: started","id":"cfiirudf"}
+{"time":"2025-03-17T02:51:26.547361478+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:26.547485953+05:30","level":"INFO","msg":"handler: started","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:26.547503647+05:30","level":"INFO","msg":"sender: started","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:27.30985572+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:51:51.185929134+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:51:51.186285849+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:51:52.18976286+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.682276547,"progress":"2.3KB/2.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.682230889,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.406967683,"progress":"994B/994B"}],"total_operations":3}}
+{"time":"2025-03-17T02:51:52.965239707+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:51:53.29701572+05:30","level":"INFO","msg":"stream: closing","id":"cfiirudf"}
+{"time":"2025-03-17T02:51:53.297108869+05:30","level":"INFO","msg":"handler: closed","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:53.297155864+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:53.297208766+05:30","level":"INFO","msg":"sender: closed","stream_id":"cfiirudf"}
+{"time":"2025-03-17T02:51:53.297560043+05:30","level":"INFO","msg":"stream: closed","id":"cfiirudf"}

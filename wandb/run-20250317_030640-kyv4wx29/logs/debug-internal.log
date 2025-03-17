@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:06:40.150542238+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_030640-kyv4wx29/logs/debug-core.log"}
+{"time":"2025-03-17T03:06:40.254945643+05:30","level":"INFO","msg":"created new stream","id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:40.255010728+05:30","level":"INFO","msg":"stream: started","id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:40.255089773+05:30","level":"INFO","msg":"handler: started","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:40.255237077+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:40.255282866+05:30","level":"INFO","msg":"sender: started","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:41.112638802+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:06:50.494987507+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:06:50.49561043+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:06:51.498717414+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686464588,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.387406542,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T03:06:52.331314657+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:06:52.665610447+05:30","level":"INFO","msg":"stream: closing","id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:52.665639062+05:30","level":"INFO","msg":"handler: closed","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:52.665654723+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:52.665720571+05:30","level":"INFO","msg":"sender: closed","stream_id":"kyv4wx29"}
+{"time":"2025-03-17T03:06:52.66578652+05:30","level":"INFO","msg":"stream: closed","id":"kyv4wx29"}

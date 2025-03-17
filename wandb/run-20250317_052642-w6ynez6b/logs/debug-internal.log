@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:26:42.407512489+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_052642-w6ynez6b/logs/debug-core.log"}
+{"time":"2025-03-17T05:26:42.512296932+05:30","level":"INFO","msg":"created new stream","id":"w6ynez6b"}
+{"time":"2025-03-17T05:26:42.512374939+05:30","level":"INFO","msg":"stream: started","id":"w6ynez6b"}
+{"time":"2025-03-17T05:26:42.512476911+05:30","level":"INFO","msg":"handler: started","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:26:42.512480661+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:26:42.512594119+05:30","level":"INFO","msg":"sender: started","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:26:43.214667603+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:27:14.965491591+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:27:14.965832034+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:27:15.969127374+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.522954171,"progress":"214B/214B"},{"desc":"uploading config.yaml","runtime_seconds":0.236785502,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T05:27:16.077645034+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:27:16.401980516+05:30","level":"INFO","msg":"stream: closing","id":"w6ynez6b"}
+{"time":"2025-03-17T05:27:16.402014365+05:30","level":"INFO","msg":"handler: closed","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:27:16.402038532+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:27:16.402062919+05:30","level":"INFO","msg":"sender: closed","stream_id":"w6ynez6b"}
+{"time":"2025-03-17T05:27:16.402220176+05:30","level":"INFO","msg":"stream: closed","id":"w6ynez6b"}

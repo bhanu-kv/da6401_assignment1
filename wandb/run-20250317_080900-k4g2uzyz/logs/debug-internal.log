@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:09:00.483465348+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_080900-k4g2uzyz/logs/debug-core.log"}
+{"time":"2025-03-17T08:09:00.587109103+05:30","level":"INFO","msg":"created new stream","id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:00.587165186+05:30","level":"INFO","msg":"stream: started","id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:00.587270862+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:00.587286248+05:30","level":"INFO","msg":"handler: started","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:00.587325254+05:30","level":"INFO","msg":"sender: started","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:01.357728719+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:09:26.342015697+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:09:26.342412073+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:09:27.345537513+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.695797643,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.391751909,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T08:09:27.949041774+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:09:28.282903033+05:30","level":"INFO","msg":"stream: closing","id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:28.282931631+05:30","level":"INFO","msg":"handler: closed","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:28.282948015+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:28.283007381+05:30","level":"INFO","msg":"sender: closed","stream_id":"k4g2uzyz"}
+{"time":"2025-03-17T08:09:28.283094731+05:30","level":"INFO","msg":"stream: closed","id":"k4g2uzyz"}

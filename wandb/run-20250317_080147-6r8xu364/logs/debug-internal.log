@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:01:47.069061232+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_080147-6r8xu364/logs/debug-core.log"}
+{"time":"2025-03-17T08:01:47.173315491+05:30","level":"INFO","msg":"created new stream","id":"6r8xu364"}
+{"time":"2025-03-17T08:01:47.173376631+05:30","level":"INFO","msg":"stream: started","id":"6r8xu364"}
+{"time":"2025-03-17T08:01:47.173525205+05:30","level":"INFO","msg":"handler: started","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:01:47.173545523+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:01:47.173605341+05:30","level":"INFO","msg":"sender: started","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:01:47.933459276+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:02:10.582823064+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:02:10.583174637+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:02:11.586546743+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68486789,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.386626472,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T08:02:12.211466255+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:02:12.521089724+05:30","level":"INFO","msg":"stream: closing","id":"6r8xu364"}
+{"time":"2025-03-17T08:02:12.521122257+05:30","level":"INFO","msg":"handler: closed","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:02:12.521144083+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:02:12.521164121+05:30","level":"INFO","msg":"sender: closed","stream_id":"6r8xu364"}
+{"time":"2025-03-17T08:02:12.521328529+05:30","level":"INFO","msg":"stream: closed","id":"6r8xu364"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T00:40:37.968210815+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_004037-g7fitu40/logs/debug-core.log"}
+{"time":"2025-03-17T00:40:38.072092818+05:30","level":"INFO","msg":"created new stream","id":"g7fitu40"}
+{"time":"2025-03-17T00:40:38.072154125+05:30","level":"INFO","msg":"stream: started","id":"g7fitu40"}
+{"time":"2025-03-17T00:40:38.072203633+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:40:38.072246408+05:30","level":"INFO","msg":"sender: started","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:40:38.072320926+05:30","level":"INFO","msg":"handler: started","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:40:38.922331868+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T00:41:06.827013858+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T00:41:06.827360084+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T00:41:07.830810587+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.676707223,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.374568926,"progress":"984B/984B"}],"total_operations":2}}
+{"time":"2025-03-17T00:41:08.427997464+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T00:41:08.77140045+05:30","level":"INFO","msg":"stream: closing","id":"g7fitu40"}
+{"time":"2025-03-17T00:41:08.771463254+05:30","level":"INFO","msg":"handler: closed","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:41:08.771485842+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:41:08.771521111+05:30","level":"INFO","msg":"sender: closed","stream_id":"g7fitu40"}
+{"time":"2025-03-17T00:41:08.771655817+05:30","level":"INFO","msg":"stream: closed","id":"g7fitu40"}

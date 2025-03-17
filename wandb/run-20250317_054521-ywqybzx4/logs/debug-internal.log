@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:45:21.261748257+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_054521-ywqybzx4/logs/debug-core.log"}
+{"time":"2025-03-17T05:45:21.365899626+05:30","level":"INFO","msg":"created new stream","id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:21.365992413+05:30","level":"INFO","msg":"stream: started","id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:21.366104143+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:21.366113667+05:30","level":"INFO","msg":"sender: started","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:21.366165796+05:30","level":"INFO","msg":"handler: started","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:22.114263345+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:45:40.193913448+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:45:40.194254487+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:45:41.197757918+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.679022204,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.352698053,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T05:45:41.830908668+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:45:42.161621828+05:30","level":"INFO","msg":"stream: closing","id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:42.161654963+05:30","level":"INFO","msg":"handler: closed","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:42.161669527+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:42.16170788+05:30","level":"INFO","msg":"sender: closed","stream_id":"ywqybzx4"}
+{"time":"2025-03-17T05:45:42.161807418+05:30","level":"INFO","msg":"stream: closed","id":"ywqybzx4"}

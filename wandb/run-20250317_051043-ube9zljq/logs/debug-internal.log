@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:10:43.989795383+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_051043-ube9zljq/logs/debug-core.log"}
+{"time":"2025-03-17T05:10:44.093639226+05:30","level":"INFO","msg":"created new stream","id":"ube9zljq"}
+{"time":"2025-03-17T05:10:44.093708746+05:30","level":"INFO","msg":"stream: started","id":"ube9zljq"}
+{"time":"2025-03-17T05:10:44.093739326+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:10:44.093818256+05:30","level":"INFO","msg":"handler: started","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:10:44.093964602+05:30","level":"INFO","msg":"sender: started","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:10:44.953795125+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:11:09.73618948+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:11:09.736531625+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:11:10.739954551+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.688971538,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.406334217,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T05:11:11.382510604+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:11:11.716115946+05:30","level":"INFO","msg":"stream: closing","id":"ube9zljq"}
+{"time":"2025-03-17T05:11:11.71621393+05:30","level":"INFO","msg":"handler: closed","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:11:11.716257+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:11:11.716281572+05:30","level":"INFO","msg":"sender: closed","stream_id":"ube9zljq"}
+{"time":"2025-03-17T05:11:11.716639453+05:30","level":"INFO","msg":"stream: closed","id":"ube9zljq"}

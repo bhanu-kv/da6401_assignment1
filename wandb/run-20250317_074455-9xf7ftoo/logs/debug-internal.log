@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:44:55.24013688+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_074455-9xf7ftoo/logs/debug-core.log"}
+{"time":"2025-03-17T07:44:55.344900245+05:30","level":"INFO","msg":"created new stream","id":"9xf7ftoo"}
+{"time":"2025-03-17T07:44:55.344979941+05:30","level":"INFO","msg":"stream: started","id":"9xf7ftoo"}
+{"time":"2025-03-17T07:44:55.345089171+05:30","level":"INFO","msg":"sender: started","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:44:55.345087811+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:44:55.345182831+05:30","level":"INFO","msg":"handler: started","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:44:56.094497389+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:45:26.661361019+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:45:26.662289258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:45:27.631182512+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.149273281,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.149255673,"progress":"216B/216B"}],"total_operations":2}}
+{"time":"2025-03-17T07:45:28.780501011+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:45:29.090048388+05:30","level":"INFO","msg":"stream: closing","id":"9xf7ftoo"}
+{"time":"2025-03-17T07:45:29.090104197+05:30","level":"INFO","msg":"handler: closed","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:45:29.090133793+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:45:29.090188948+05:30","level":"INFO","msg":"sender: closed","stream_id":"9xf7ftoo"}
+{"time":"2025-03-17T07:45:29.090329698+05:30","level":"INFO","msg":"stream: closed","id":"9xf7ftoo"}

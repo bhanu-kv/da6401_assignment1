@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:12:04.706807092+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_081204-xbf2c2jx/logs/debug-core.log"}
+{"time":"2025-03-17T08:12:04.810984094+05:30","level":"INFO","msg":"created new stream","id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:04.811049475+05:30","level":"INFO","msg":"stream: started","id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:04.811209172+05:30","level":"INFO","msg":"handler: started","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:04.811244574+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:04.811345715+05:30","level":"INFO","msg":"sender: started","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:05.83950393+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:12:31.055996214+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:12:31.056303043+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:12:32.058918419+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.67721746,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.402027382,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T08:12:32.676123553+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:12:33.126622483+05:30","level":"INFO","msg":"stream: closing","id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:33.126666005+05:30","level":"INFO","msg":"handler: closed","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:33.126708229+05:30","level":"INFO","msg":"sender: closed","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:33.126692171+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xbf2c2jx"}
+{"time":"2025-03-17T08:12:33.126938266+05:30","level":"INFO","msg":"stream: closed","id":"xbf2c2jx"}

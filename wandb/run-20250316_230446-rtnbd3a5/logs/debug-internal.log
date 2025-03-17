@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:04:46.543398797+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250316_230446-rtnbd3a5/logs/debug-core.log"}
+{"time":"2025-03-16T23:04:46.650533252+05:30","level":"INFO","msg":"created new stream","id":"rtnbd3a5"}
+{"time":"2025-03-16T23:04:46.650630439+05:30","level":"INFO","msg":"stream: started","id":"rtnbd3a5"}
+{"time":"2025-03-16T23:04:46.650802553+05:30","level":"INFO","msg":"sender: started","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:04:46.650787789+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:04:46.650982318+05:30","level":"INFO","msg":"handler: started","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:04:47.537085137+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:05:54.464281393+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:05:54.468478846+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:05:55.443765229+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.381245335,"progress":"206B/206B"},{"desc":"uploading config.yaml","runtime_seconds":0.087598922,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-16T23:05:55.901229403+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:05:56.221405342+05:30","level":"INFO","msg":"stream: closing","id":"rtnbd3a5"}
+{"time":"2025-03-16T23:05:56.221456257+05:30","level":"INFO","msg":"handler: closed","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:05:56.221503166+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:05:56.221520197+05:30","level":"INFO","msg":"sender: closed","stream_id":"rtnbd3a5"}
+{"time":"2025-03-16T23:05:56.22159289+05:30","level":"INFO","msg":"stream: closed","id":"rtnbd3a5"}

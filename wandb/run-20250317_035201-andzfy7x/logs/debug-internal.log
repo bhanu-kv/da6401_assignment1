@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:52:01.94982095+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035201-andzfy7x/logs/debug-core.log"}
+{"time":"2025-03-17T03:52:02.053816518+05:30","level":"INFO","msg":"created new stream","id":"andzfy7x"}
+{"time":"2025-03-17T03:52:02.053880867+05:30","level":"INFO","msg":"stream: started","id":"andzfy7x"}
+{"time":"2025-03-17T03:52:02.053970769+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:02.053982582+05:30","level":"INFO","msg":"handler: started","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:02.054085801+05:30","level":"INFO","msg":"sender: started","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:02.851937341+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:52:22.426524501+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:52:22.426990524+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:52:23.429965224+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68986472,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.412453693,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T03:52:24.315613267+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:52:24.620033316+05:30","level":"INFO","msg":"stream: closing","id":"andzfy7x"}
+{"time":"2025-03-17T03:52:24.62006072+05:30","level":"INFO","msg":"handler: closed","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:24.62007684+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:24.620144151+05:30","level":"INFO","msg":"sender: closed","stream_id":"andzfy7x"}
+{"time":"2025-03-17T03:52:24.620210998+05:30","level":"INFO","msg":"stream: closed","id":"andzfy7x"}

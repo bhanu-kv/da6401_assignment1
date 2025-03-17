@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:05:13.300939525+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040513-w66jywob/logs/debug-core.log"}
+{"time":"2025-03-17T04:05:13.405054528+05:30","level":"INFO","msg":"created new stream","id":"w66jywob"}
+{"time":"2025-03-17T04:05:13.405103388+05:30","level":"INFO","msg":"stream: started","id":"w66jywob"}
+{"time":"2025-03-17T04:05:13.405162981+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:13.405181155+05:30","level":"INFO","msg":"sender: started","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:13.405257769+05:30","level":"INFO","msg":"handler: started","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:14.158359324+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:05:36.663378316+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:05:36.663705072+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:05:37.667261531+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686120193,"progress":"201B/201B"},{"desc":"uploading config.yaml","runtime_seconds":0.399360228,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T04:05:38.617736499+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:05:38.950868561+05:30","level":"INFO","msg":"stream: closing","id":"w66jywob"}
+{"time":"2025-03-17T04:05:38.950901571+05:30","level":"INFO","msg":"handler: closed","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:38.9509186+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:38.950989298+05:30","level":"INFO","msg":"sender: closed","stream_id":"w66jywob"}
+{"time":"2025-03-17T04:05:38.951073158+05:30","level":"INFO","msg":"stream: closed","id":"w66jywob"}

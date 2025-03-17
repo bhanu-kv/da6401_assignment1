@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:32:46.247687626+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_053246-akvbu0qf/logs/debug-core.log"}
+{"time":"2025-03-17T05:32:46.350765436+05:30","level":"INFO","msg":"created new stream","id":"akvbu0qf"}
+{"time":"2025-03-17T05:32:46.350790924+05:30","level":"INFO","msg":"stream: started","id":"akvbu0qf"}
+{"time":"2025-03-17T05:32:46.350817531+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:32:46.35085272+05:30","level":"INFO","msg":"sender: started","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:32:46.350867038+05:30","level":"INFO","msg":"handler: started","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:32:47.081491114+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:33:09.875339156+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:33:09.876046853+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:33:10.878993898+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687426447,"progress":"202B/202B"},{"desc":"uploading config.yaml","runtime_seconds":0.382862437,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T05:33:11.465830037+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:33:11.8096242+05:30","level":"INFO","msg":"stream: closing","id":"akvbu0qf"}
+{"time":"2025-03-17T05:33:11.809654156+05:30","level":"INFO","msg":"handler: closed","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:33:11.809668333+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:33:11.809732957+05:30","level":"INFO","msg":"sender: closed","stream_id":"akvbu0qf"}
+{"time":"2025-03-17T05:33:11.809829722+05:30","level":"INFO","msg":"stream: closed","id":"akvbu0qf"}

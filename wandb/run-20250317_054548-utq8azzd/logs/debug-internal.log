@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:45:48.3725576+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_054548-utq8azzd/logs/debug-core.log"}
+{"time":"2025-03-17T05:45:48.477136305+05:30","level":"INFO","msg":"created new stream","id":"utq8azzd"}
+{"time":"2025-03-17T05:45:48.4772032+05:30","level":"INFO","msg":"stream: started","id":"utq8azzd"}
+{"time":"2025-03-17T05:45:48.477331612+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:45:48.4773477+05:30","level":"INFO","msg":"sender: started","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:45:48.477373959+05:30","level":"INFO","msg":"handler: started","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:45:49.265101843+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:46:02.490462987+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:46:02.490804864+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:46:03.494348089+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.372927245,"progress":"990B/990B"}],"total_operations":1}}
+{"time":"2025-03-17T05:46:03.6460385+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:46:03.975576303+05:30","level":"INFO","msg":"stream: closing","id":"utq8azzd"}
+{"time":"2025-03-17T05:46:03.975610465+05:30","level":"INFO","msg":"handler: closed","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:46:03.975628485+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:46:03.975697461+05:30","level":"INFO","msg":"sender: closed","stream_id":"utq8azzd"}
+{"time":"2025-03-17T05:46:03.975799035+05:30","level":"INFO","msg":"stream: closed","id":"utq8azzd"}

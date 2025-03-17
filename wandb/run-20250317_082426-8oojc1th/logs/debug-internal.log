@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:24:26.074349191+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_082426-8oojc1th/logs/debug-core.log"}
+{"time":"2025-03-17T08:24:26.179333444+05:30","level":"INFO","msg":"created new stream","id":"8oojc1th"}
+{"time":"2025-03-17T08:24:26.179401102+05:30","level":"INFO","msg":"stream: started","id":"8oojc1th"}
+{"time":"2025-03-17T08:24:26.179515567+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:24:26.179530907+05:30","level":"INFO","msg":"handler: started","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:24:26.179669534+05:30","level":"INFO","msg":"sender: started","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:24:26.916986343+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:25:06.348922617+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:25:06.34944243+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:25:07.35280037+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692745627,"progress":"176B/176B"},{"desc":"uploading config.yaml","runtime_seconds":0.405689849,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T08:25:07.959734179+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:25:08.302217965+05:30","level":"INFO","msg":"stream: closing","id":"8oojc1th"}
+{"time":"2025-03-17T08:25:08.302273369+05:30","level":"INFO","msg":"handler: closed","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:25:08.30230079+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:25:08.30233711+05:30","level":"INFO","msg":"sender: closed","stream_id":"8oojc1th"}
+{"time":"2025-03-17T08:25:08.302509792+05:30","level":"INFO","msg":"stream: closed","id":"8oojc1th"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:16:41.277273349+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_061641-ync5flmf/logs/debug-core.log"}
+{"time":"2025-03-17T06:16:41.380562021+05:30","level":"INFO","msg":"created new stream","id":"ync5flmf"}
+{"time":"2025-03-17T06:16:41.380607439+05:30","level":"INFO","msg":"stream: started","id":"ync5flmf"}
+{"time":"2025-03-17T06:16:41.380647373+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:16:41.380665245+05:30","level":"INFO","msg":"handler: started","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:16:41.380771765+05:30","level":"INFO","msg":"sender: started","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:16:42.12010412+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:17:10.008326481+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:17:10.008626629+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:17:11.012079059+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.681586081,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.401189424,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T06:17:11.807367817+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:17:12.129584852+05:30","level":"INFO","msg":"stream: closing","id":"ync5flmf"}
+{"time":"2025-03-17T06:17:12.129615972+05:30","level":"INFO","msg":"handler: closed","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:17:12.129630368+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:17:12.129673885+05:30","level":"INFO","msg":"sender: closed","stream_id":"ync5flmf"}
+{"time":"2025-03-17T06:17:12.129782069+05:30","level":"INFO","msg":"stream: closed","id":"ync5flmf"}

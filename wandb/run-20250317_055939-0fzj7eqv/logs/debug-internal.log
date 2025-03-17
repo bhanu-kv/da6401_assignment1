@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:59:39.454123638+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055939-0fzj7eqv/logs/debug-core.log"}
+{"time":"2025-03-17T05:59:39.558280975+05:30","level":"INFO","msg":"created new stream","id":"0fzj7eqv"}
+{"time":"2025-03-17T05:59:39.558334466+05:30","level":"INFO","msg":"stream: started","id":"0fzj7eqv"}
+{"time":"2025-03-17T05:59:39.558450714+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T05:59:39.558464006+05:30","level":"INFO","msg":"handler: started","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T05:59:39.558553313+05:30","level":"INFO","msg":"sender: started","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T05:59:40.373507023+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:00:01.846342309+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:00:01.846930608+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:00:02.849828048+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.701300095,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.388347109,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T06:00:03.455776834+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:00:03.946701783+05:30","level":"INFO","msg":"stream: closing","id":"0fzj7eqv"}
+{"time":"2025-03-17T06:00:03.946735753+05:30","level":"INFO","msg":"handler: closed","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T06:00:03.946748866+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T06:00:03.946821212+05:30","level":"INFO","msg":"sender: closed","stream_id":"0fzj7eqv"}
+{"time":"2025-03-17T06:00:03.946892542+05:30","level":"INFO","msg":"stream: closed","id":"0fzj7eqv"}

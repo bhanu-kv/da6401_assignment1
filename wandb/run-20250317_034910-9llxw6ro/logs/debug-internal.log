@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:49:10.836765819+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_034910-9llxw6ro/logs/debug-core.log"}
+{"time":"2025-03-17T03:49:10.939592114+05:30","level":"INFO","msg":"created new stream","id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:10.939622241+05:30","level":"INFO","msg":"stream: started","id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:10.939685214+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:10.939695528+05:30","level":"INFO","msg":"handler: started","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:10.93969629+05:30","level":"INFO","msg":"sender: started","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:11.669236359+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:49:48.92066444+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:49:48.920984347+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:49:49.924205361+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692654673,"progress":"205B/205B"},{"desc":"uploading config.yaml","runtime_seconds":0.364993802,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T03:49:50.703265461+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:49:51.003556052+05:30","level":"INFO","msg":"stream: closing","id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:51.003592997+05:30","level":"INFO","msg":"handler: closed","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:51.003610815+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:51.00367706+05:30","level":"INFO","msg":"sender: closed","stream_id":"9llxw6ro"}
+{"time":"2025-03-17T03:49:51.003761693+05:30","level":"INFO","msg":"stream: closed","id":"9llxw6ro"}

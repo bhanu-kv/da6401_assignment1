@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:08:03.065808139+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_060803-88hxozec/logs/debug-core.log"}
+{"time":"2025-03-17T06:08:03.169227005+05:30","level":"INFO","msg":"created new stream","id":"88hxozec"}
+{"time":"2025-03-17T06:08:03.169261625+05:30","level":"INFO","msg":"stream: started","id":"88hxozec"}
+{"time":"2025-03-17T06:08:03.169310727+05:30","level":"INFO","msg":"handler: started","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:03.169308249+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:03.169389874+05:30","level":"INFO","msg":"sender: started","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:03.882351583+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:08:28.860220042+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:08:28.860584054+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:08:29.864057526+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.690508045,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.390252734,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T06:08:30.529520903+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:08:30.882773844+05:30","level":"INFO","msg":"stream: closing","id":"88hxozec"}
+{"time":"2025-03-17T06:08:30.882815048+05:30","level":"INFO","msg":"handler: closed","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:30.882839239+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:30.882893114+05:30","level":"INFO","msg":"sender: closed","stream_id":"88hxozec"}
+{"time":"2025-03-17T06:08:30.883044331+05:30","level":"INFO","msg":"stream: closed","id":"88hxozec"}

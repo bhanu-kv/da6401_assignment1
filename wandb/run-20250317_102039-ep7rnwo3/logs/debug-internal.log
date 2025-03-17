@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:20:39.469421644+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_102039-ep7rnwo3/logs/debug-core.log"}
+{"time":"2025-03-17T10:20:39.572936631+05:30","level":"INFO","msg":"created new stream","id":"ep7rnwo3"}
+{"time":"2025-03-17T10:20:39.572986626+05:30","level":"INFO","msg":"stream: started","id":"ep7rnwo3"}
+{"time":"2025-03-17T10:20:39.573038202+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:20:39.573036192+05:30","level":"INFO","msg":"handler: started","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:20:39.573162785+05:30","level":"INFO","msg":"sender: started","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:20:40.371435045+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:21:36.594464651+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:21:36.594803082+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:21:37.598000646+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687945464,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.378312796,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T10:21:38.209756283+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:21:38.533846231+05:30","level":"INFO","msg":"stream: closing","id":"ep7rnwo3"}
+{"time":"2025-03-17T10:21:38.533879721+05:30","level":"INFO","msg":"handler: closed","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:21:38.533896617+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:21:38.533929359+05:30","level":"INFO","msg":"sender: closed","stream_id":"ep7rnwo3"}
+{"time":"2025-03-17T10:21:38.534031735+05:30","level":"INFO","msg":"stream: closed","id":"ep7rnwo3"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:12:20.703586319+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_031220-2mki3wal/logs/debug-core.log"}
+{"time":"2025-03-17T03:12:20.806782792+05:30","level":"INFO","msg":"created new stream","id":"2mki3wal"}
+{"time":"2025-03-17T03:12:20.806829806+05:30","level":"INFO","msg":"stream: started","id":"2mki3wal"}
+{"time":"2025-03-17T03:12:20.80686363+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:12:20.806936581+05:30","level":"INFO","msg":"sender: started","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:12:20.80702994+05:30","level":"INFO","msg":"handler: started","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:12:21.530893032+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:13:08.756366886+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:13:08.756731003+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:13:09.759982683+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.668049944,"progress":"203B/203B"},{"desc":"uploading config.yaml","runtime_seconds":0.358820881,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T03:13:10.571242634+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:13:10.895843284+05:30","level":"INFO","msg":"stream: closing","id":"2mki3wal"}
+{"time":"2025-03-17T03:13:10.895891915+05:30","level":"INFO","msg":"handler: closed","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:13:10.895919302+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:13:10.895978102+05:30","level":"INFO","msg":"sender: closed","stream_id":"2mki3wal"}
+{"time":"2025-03-17T03:13:10.896099584+05:30","level":"INFO","msg":"stream: closed","id":"2mki3wal"}

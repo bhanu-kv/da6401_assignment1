@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:45:15.58020909+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_034515-ev7s8yq0/logs/debug-core.log"}
+{"time":"2025-03-17T03:45:15.684918018+05:30","level":"INFO","msg":"created new stream","id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:15.684973821+05:30","level":"INFO","msg":"stream: started","id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:15.685098461+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:15.685101373+05:30","level":"INFO","msg":"handler: started","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:15.68517896+05:30","level":"INFO","msg":"sender: started","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:16.444722862+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:45:35.093127983+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:45:35.093442574+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:45:36.094482144+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681281835,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.380353195,"progress":"997B/997B"}],"total_operations":2}}
+{"time":"2025-03-17T03:45:36.795905464+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:45:37.122630448+05:30","level":"INFO","msg":"stream: closing","id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:37.122663292+05:30","level":"INFO","msg":"handler: closed","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:37.122685715+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:37.122706816+05:30","level":"INFO","msg":"sender: closed","stream_id":"ev7s8yq0"}
+{"time":"2025-03-17T03:45:37.12285625+05:30","level":"INFO","msg":"stream: closed","id":"ev7s8yq0"}

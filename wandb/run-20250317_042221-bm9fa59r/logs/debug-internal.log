@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:22:21.701781745+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_042221-bm9fa59r/logs/debug-core.log"}
+{"time":"2025-03-17T04:22:21.806204253+05:30","level":"INFO","msg":"created new stream","id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:21.806265808+05:30","level":"INFO","msg":"stream: started","id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:21.806373393+05:30","level":"INFO","msg":"sender: started","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:21.806362625+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:21.806535976+05:30","level":"INFO","msg":"handler: started","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:22.577246512+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:22:35.941337004+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:22:35.941828992+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:22:36.945099332+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.689238535,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.387324644,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T04:22:37.777697883+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:22:38.107544276+05:30","level":"INFO","msg":"stream: closing","id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:38.107571018+05:30","level":"INFO","msg":"handler: closed","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:38.107586818+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:38.107631013+05:30","level":"INFO","msg":"sender: closed","stream_id":"bm9fa59r"}
+{"time":"2025-03-17T04:22:38.107744233+05:30","level":"INFO","msg":"stream: closed","id":"bm9fa59r"}

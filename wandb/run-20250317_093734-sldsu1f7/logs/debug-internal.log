@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:37:34.767159687+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_093734-sldsu1f7/logs/debug-core.log"}
+{"time":"2025-03-17T09:37:34.87148991+05:30","level":"INFO","msg":"created new stream","id":"sldsu1f7"}
+{"time":"2025-03-17T09:37:34.871552362+05:30","level":"INFO","msg":"stream: started","id":"sldsu1f7"}
+{"time":"2025-03-17T09:37:34.871622324+05:30","level":"INFO","msg":"handler: started","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:37:34.871644939+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:37:34.871729419+05:30","level":"INFO","msg":"sender: started","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:37:35.642806017+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:38:03.601754994+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:38:03.604955199+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:38:04.605896001+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.685923771,"progress":"2.2KB/2.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.395672688,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T09:38:05.236155336+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:38:05.565607867+05:30","level":"INFO","msg":"stream: closing","id":"sldsu1f7"}
+{"time":"2025-03-17T09:38:05.565647339+05:30","level":"INFO","msg":"handler: closed","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:38:05.565669218+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:38:05.565719243+05:30","level":"INFO","msg":"sender: closed","stream_id":"sldsu1f7"}
+{"time":"2025-03-17T09:38:05.565852696+05:30","level":"INFO","msg":"stream: closed","id":"sldsu1f7"}

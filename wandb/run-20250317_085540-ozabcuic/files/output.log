@@ -1,0 +1,91 @@
+0.797
+New best model saved with validation accuracy: 0.797
+------------------------------------------------------
+Epoch: 1
+Loss: 892.3071335575886
+Correct Predications: 35024
+Total Images: 54000
+Accuracy: 0.6485925925925926
+
+
+0.8163333333333334
+New best model saved with validation accuracy: 0.8163333333333334
+------------------------------------------------------
+Epoch: 2
+Loss: 469.5191953794666
+Correct Predications: 43653
+Total Images: 54000
+Accuracy: 0.8083888888888889
+
+
+0.8155
+------------------------------------------------------
+Epoch: 3
+Loss: 442.84312831953883
+Correct Predications: 44109
+Total Images: 54000
+Accuracy: 0.8168333333333333
+
+
+0.8201666666666667
+New best model saved with validation accuracy: 0.8201666666666667
+------------------------------------------------------
+Epoch: 4
+Loss: 432.4135599058934
+Correct Predications: 44440
+Total Images: 54000
+Accuracy: 0.822962962962963
+
+
+0.8086666666666666
+------------------------------------------------------
+Epoch: 5
+Loss: 420.9069711158577
+Correct Predications: 44738
+Total Images: 54000
+Accuracy: 0.8284814814814815
+
+
+0.8068333333333333
+------------------------------------------------------
+Epoch: 6
+Loss: 417.56090286008424
+Correct Predications: 44793
+Total Images: 54000
+Accuracy: 0.8295
+
+
+0.8121666666666667
+------------------------------------------------------
+Epoch: 7
+Loss: 414.5833199043472
+Correct Predications: 44828
+Total Images: 54000
+Accuracy: 0.8301481481481482
+
+
+0.8005
+------------------------------------------------------
+Epoch: 8
+Loss: 414.11261622710515
+Correct Predications: 44910
+Total Images: 54000
+Accuracy: 0.8316666666666667
+
+
+0.792
+------------------------------------------------------
+Epoch: 9
+Loss: 412.50734925007504
+Correct Predications: 44929
+Total Images: 54000
+Accuracy: 0.8320185185185185
+
+
+0.8105
+------------------------------------------------------
+Epoch: 10
+Loss: 413.68573189106104
+Correct Predications: 44883
+Total Images: 54000
+Accuracy: 0.8311666666666667

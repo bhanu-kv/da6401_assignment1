@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:04:36.750389652+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_070436-k2mph20b/logs/debug-core.log"}
+{"time":"2025-03-17T07:04:36.853007693+05:30","level":"INFO","msg":"created new stream","id":"k2mph20b"}
+{"time":"2025-03-17T07:04:36.853045873+05:30","level":"INFO","msg":"stream: started","id":"k2mph20b"}
+{"time":"2025-03-17T07:04:36.853069501+05:30","level":"INFO","msg":"handler: started","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:04:36.853070629+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:04:36.853125609+05:30","level":"INFO","msg":"sender: started","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:04:37.692354095+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:05:25.578420444+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:05:25.578892011+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:05:26.582128001+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.693460621,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.384451132,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T07:05:27.228883926+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:05:27.548516073+05:30","level":"INFO","msg":"stream: closing","id":"k2mph20b"}
+{"time":"2025-03-17T07:05:27.548562586+05:30","level":"INFO","msg":"handler: closed","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:05:27.548589827+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:05:27.54863207+05:30","level":"INFO","msg":"sender: closed","stream_id":"k2mph20b"}
+{"time":"2025-03-17T07:05:27.548793627+05:30","level":"INFO","msg":"stream: closed","id":"k2mph20b"}

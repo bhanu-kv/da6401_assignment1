@@ -1,0 +1,58 @@
+2025-03-10 13:42:16,589 INFO    Thread-6  :22365 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-10 13:42:16,589 INFO    Thread-6  :22365 [wandb_setup.py:_flush():67] Configure stats pid to 22365
+2025-03-10 13:42:16,589 INFO    Thread-6  :22365 [wandb_setup.py:_flush():67] Loading settings from /home/bhanu/.config/wandb/settings
+2025-03-10 13:42:16,589 INFO    Thread-6  :22365 [wandb_setup.py:_flush():67] Loading settings from /home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/settings
+2025-03-10 13:42:16,590 INFO    Thread-6  :22365 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:42:16,590 INFO    Thread-6  :22365 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250310_134216-b4lxxi6d/logs/debug.log
+2025-03-10 13:42:16,590 INFO    Thread-6  :22365 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250310_134216-b4lxxi6d/logs/debug-internal.log
+2025-03-10 13:42:16,590 INFO    Thread-6  :22365 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:42:16,590 INFO    Thread-6  :22365 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_func': 'relu', 'batch_size': 128, 'epochs': 5, 'hidden_layer_size': 32, 'hidden_layers': 3, 'learning_rate': 0.001, 'loss_fn': 'cross_entropy', 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'xavier_init'}
+config: {'_wandb': {}}
+2025-03-10 13:42:16,591 INFO    Thread-6  :22365 [wandb_init.py:init():784] starting backend
+2025-03-10 13:42:16,591 INFO    Thread-6  :22365 [wandb_init.py:init():788] sending inform_init request
+2025-03-10 13:42:16,602 INFO    Thread-6  :22365 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-10 13:42:16,602 INFO    Thread-6  :22365 [wandb_init.py:init():798] backend started and connected
+2025-03-10 13:42:16,605 INFO    Thread-6  :22365 [wandb_run.py:_config_callback():1261] config_cb None None {'activation_func': 'relu', 'batch_size': 128, 'epochs': 5, 'hidden_layer_size': 32, 'hidden_layers': 3, 'learning_rate': 0.001, 'loss_fn': 'cross_entropy', 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'xavier_init'}
+2025-03-10 13:42:16,613 INFO    Thread-6  :22365 [wandb_init.py:init():891] updated telemetry
+2025-03-10 13:42:16,644 INFO    Thread-6  :22365 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-10 13:42:17,582 INFO    Thread-6  :22365 [wandb_init.py:init():990] starting run threads in backend
+2025-03-10 13:42:17,917 INFO    Thread-6  :22365 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-10 13:42:17,917 INFO    Thread-6  :22365 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-10 13:42:17,917 INFO    Thread-6  :22365 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-10 13:42:17,917 INFO    Thread-6  :22365 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-10 13:42:17,918 INFO    Thread-6  :22365 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-10 13:42:17,920 INFO    Thread-6  :22365 [wandb_run.py:_finish():2112] finishing run ce21b031/DA6401 - Assignment1/b4lxxi6d
+2025-03-10 13:42:17,921 INFO    Thread-6  :22365 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 1
+2025-03-10 13:42:17,921 INFO    Thread-6  :22365 [wandb_run.py:_restore():2322] restore
+2025-03-10 13:42:17,921 INFO    Thread-6  :22365 [wandb_run.py:_restore():2328] restore done
+2025-03-10 13:42:20,254 INFO    MsgRouterThr:22365 [mailbox.py:close():129] Closing mailbox, abandoning 1 handles.
+2025-03-10 13:42:20,255 INFO    Thread-6  :22365 [wandb_run.py:_restore():2322] restore
+2025-03-10 13:42:20,255 INFO    Thread-6  :22365 [wandb_run.py:_restore():2328] restore done
+2025-03-10 13:42:20,256 ERROR   Thread-6  :22365 [wandb_run.py:_atexit_cleanup():2361] Problem finishing run
+Traceback (most recent call last):
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb_sweep.py", line 37, in train_wandb
+    NN.train(train_images = train_images,
+  File "/home/bhanu/IITM/Courses/FDL/da6401_assignment1/nn.py", line 123, in train
+    self.forward(batch_images)
+  File "/home/bhanu/IITM/Courses/FDL/da6401_assignment1/nn.py", line 98, in forward
+    layer_output = np.dot(layer_output, self.weights[i]) + self.bias[i]
+TypeError: unsupported operand type(s) for +: 'float' and 'NoneType'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2352, in _atexit_cleanup
+    self._on_finish()
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2628, in _on_finish
+    internal_messages_handle = self._backend.interface.deliver_internal_messages()
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 963, in deliver_internal_messages
+    return self._deliver_internal_messages(internal_message)
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 479, in _deliver_internal_messages
+    return self._deliver_record(record)
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 389, in _deliver_record
+    handle = mailbox.require_response(record)
+  File "/home/bhanu/anaconda3/lib/python3.9/site-packages/wandb/sdk/mailbox/mailbox.py", line 68, in require_response
+    raise MailboxClosedError()
+wandb.sdk.mailbox.mailbox.MailboxClosedError

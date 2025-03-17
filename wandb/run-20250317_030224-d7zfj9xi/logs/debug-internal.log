@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:02:24.424418401+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_030224-d7zfj9xi/logs/debug-core.log"}
+{"time":"2025-03-17T03:02:24.529349445+05:30","level":"INFO","msg":"created new stream","id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:24.529409014+05:30","level":"INFO","msg":"stream: started","id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:24.529527102+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:24.529537222+05:30","level":"INFO","msg":"sender: started","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:24.52966807+05:30","level":"INFO","msg":"handler: started","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:25.228361686+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:02:53.121605+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:02:53.121894635+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:02:54.122775555+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.676640532,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.358064956,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T03:02:54.834113862+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:02:55.246758138+05:30","level":"INFO","msg":"stream: closing","id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:55.246788447+05:30","level":"INFO","msg":"handler: closed","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:55.24680421+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:55.246817237+05:30","level":"INFO","msg":"sender: closed","stream_id":"d7zfj9xi"}
+{"time":"2025-03-17T03:02:55.246972461+05:30","level":"INFO","msg":"stream: closed","id":"d7zfj9xi"}

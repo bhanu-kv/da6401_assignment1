@@ -1,0 +1,18 @@
+0.09983333333333333
+New best model saved with validation accuracy: 0.09983333333333333
+------------------------------------------------------
+Epoch: 1
+Loss: 23000.836235464674
+Correct Predications: 5312
+Total Images: 54000
+Accuracy: 0.09837037037037037
+
+
+0.098
+------------------------------------------------------
+Epoch: 2
+Loss: 22993.962319337355
+Correct Predications: 5336
+Total Images: 54000
+Accuracy: 0.09881481481481481
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

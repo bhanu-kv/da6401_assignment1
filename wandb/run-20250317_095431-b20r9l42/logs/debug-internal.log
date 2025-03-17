@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:54:31.917749874+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_095431-b20r9l42/logs/debug-core.log"}
+{"time":"2025-03-17T09:54:32.022453547+05:30","level":"INFO","msg":"created new stream","id":"b20r9l42"}
+{"time":"2025-03-17T09:54:32.022528168+05:30","level":"INFO","msg":"stream: started","id":"b20r9l42"}
+{"time":"2025-03-17T09:54:32.022599909+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:32.022627235+05:30","level":"INFO","msg":"handler: started","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:32.022748154+05:30","level":"INFO","msg":"sender: started","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:32.799087768+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:54:57.78692416+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:54:57.78743637+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:54:58.790735593+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.685959693,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.403068072,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T09:54:59.412325133+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:54:59.737545168+05:30","level":"INFO","msg":"stream: closing","id":"b20r9l42"}
+{"time":"2025-03-17T09:54:59.737579559+05:30","level":"INFO","msg":"handler: closed","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:59.73760073+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:59.737621955+05:30","level":"INFO","msg":"sender: closed","stream_id":"b20r9l42"}
+{"time":"2025-03-17T09:54:59.737769469+05:30","level":"INFO","msg":"stream: closed","id":"b20r9l42"}

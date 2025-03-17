@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:53:02.379094578+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_075302-j6fk5hoq/logs/debug-core.log"}
+{"time":"2025-03-17T07:53:02.482418578+05:30","level":"INFO","msg":"created new stream","id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:02.482499592+05:30","level":"INFO","msg":"stream: started","id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:02.482593766+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:02.482612309+05:30","level":"INFO","msg":"sender: started","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:02.482690128+05:30","level":"INFO","msg":"handler: started","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:03.246658515+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:53:12.770579523+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:53:12.771820454+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:53:13.774707456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.676564939,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.376165292,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T07:53:14.399719321+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:53:14.734008171+05:30","level":"INFO","msg":"stream: closing","id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:14.734059054+05:30","level":"INFO","msg":"handler: closed","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:14.734096446+05:30","level":"INFO","msg":"sender: closed","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:14.734085589+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j6fk5hoq"}
+{"time":"2025-03-17T07:53:14.734282853+05:30","level":"INFO","msg":"stream: closed","id":"j6fk5hoq"}

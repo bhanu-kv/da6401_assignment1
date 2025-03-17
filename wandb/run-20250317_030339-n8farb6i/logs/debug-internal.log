@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:03:39.253934646+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_030339-n8farb6i/logs/debug-core.log"}
+{"time":"2025-03-17T03:03:39.361360907+05:30","level":"INFO","msg":"created new stream","id":"n8farb6i"}
+{"time":"2025-03-17T03:03:39.36140025+05:30","level":"INFO","msg":"stream: started","id":"n8farb6i"}
+{"time":"2025-03-17T03:03:39.361487745+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:39.361490078+05:30","level":"INFO","msg":"handler: started","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:39.361615866+05:30","level":"INFO","msg":"sender: started","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:40.278919629+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:03:55.618973448+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:03:55.619415243+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:03:56.623673856+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691661601,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.411304738,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T03:03:57.412963723+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:03:57.711290315+05:30","level":"INFO","msg":"stream: closing","id":"n8farb6i"}
+{"time":"2025-03-17T03:03:57.711323985+05:30","level":"INFO","msg":"handler: closed","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:57.711349478+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:57.711369961+05:30","level":"INFO","msg":"sender: closed","stream_id":"n8farb6i"}
+{"time":"2025-03-17T03:03:57.7115502+05:30","level":"INFO","msg":"stream: closed","id":"n8farb6i"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:59:17.767855219+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_055917-uh48q6dr/logs/debug-core.log"}
+{"time":"2025-03-17T05:59:17.872584672+05:30","level":"INFO","msg":"created new stream","id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:17.872651097+05:30","level":"INFO","msg":"stream: started","id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:17.872736744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:17.872759102+05:30","level":"INFO","msg":"handler: started","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:17.872910523+05:30","level":"INFO","msg":"sender: started","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:18.628148816+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:59:34.239658081+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:59:34.240061974+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:59:35.243605824+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.559727494,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.310040964,"progress":"994B/994B"}],"total_operations":2}}
+{"time":"2025-03-17T05:59:36.031472876+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:59:36.319887941+05:30","level":"INFO","msg":"stream: closing","id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:36.319968201+05:30","level":"INFO","msg":"handler: closed","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:36.319998245+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:36.320041775+05:30","level":"INFO","msg":"sender: closed","stream_id":"uh48q6dr"}
+{"time":"2025-03-17T05:59:36.320217356+05:30","level":"INFO","msg":"stream: closed","id":"uh48q6dr"}

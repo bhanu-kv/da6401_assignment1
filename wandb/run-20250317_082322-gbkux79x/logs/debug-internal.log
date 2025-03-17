@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:23:22.273037863+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_082322-gbkux79x/logs/debug-core.log"}
+{"time":"2025-03-17T08:23:22.377981633+05:30","level":"INFO","msg":"created new stream","id":"gbkux79x"}
+{"time":"2025-03-17T08:23:22.378062547+05:30","level":"INFO","msg":"stream: started","id":"gbkux79x"}
+{"time":"2025-03-17T08:23:22.378142519+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:22.378158343+05:30","level":"INFO","msg":"sender: started","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:22.378270507+05:30","level":"INFO","msg":"handler: started","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:23.188608828+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:23:35.93608199+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:23:35.936644944+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:23:36.940369733+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692001959,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.397936904,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T08:23:37.545921392+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:23:37.880056542+05:30","level":"INFO","msg":"stream: closing","id":"gbkux79x"}
+{"time":"2025-03-17T08:23:37.880092165+05:30","level":"INFO","msg":"handler: closed","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:37.88010891+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:37.880162943+05:30","level":"INFO","msg":"sender: closed","stream_id":"gbkux79x"}
+{"time":"2025-03-17T08:23:37.880279658+05:30","level":"INFO","msg":"stream: closed","id":"gbkux79x"}

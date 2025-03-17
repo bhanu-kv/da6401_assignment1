@@ -1,0 +1,91 @@
+0.7726666666666666
+New best model saved with validation accuracy: 0.7726666666666666
+------------------------------------------------------
+Epoch: 1
+Loss: 706.0782163715766
+Correct Predications: 37453
+Total Images: 54000
+Accuracy: 0.6935740740740741
+
+
+0.805
+New best model saved with validation accuracy: 0.805
+------------------------------------------------------
+Epoch: 2
+Loss: 550.0566907602159
+Correct Predications: 41866
+Total Images: 54000
+Accuracy: 0.7752962962962963
+
+
+0.819
+New best model saved with validation accuracy: 0.819
+------------------------------------------------------
+Epoch: 3
+Loss: 557.747215211621
+Correct Predications: 42127
+Total Images: 54000
+Accuracy: 0.7801296296296296
+
+
+0.801
+------------------------------------------------------
+Epoch: 4
+Loss: 560.0497003530274
+Correct Predications: 42445
+Total Images: 54000
+Accuracy: 0.7860185185185186
+
+
+0.8035
+------------------------------------------------------
+Epoch: 5
+Loss: 556.3283408428326
+Correct Predications: 42606
+Total Images: 54000
+Accuracy: 0.789
+
+
+0.8091666666666667
+------------------------------------------------------
+Epoch: 6
+Loss: 549.6587904493899
+Correct Predications: 42795
+Total Images: 54000
+Accuracy: 0.7925
+
+
+0.7716666666666666
+------------------------------------------------------
+Epoch: 7
+Loss: 570.7682476371866
+Correct Predications: 42433
+Total Images: 54000
+Accuracy: 0.7857962962962963
+
+
+0.7786666666666666
+------------------------------------------------------
+Epoch: 8
+Loss: 583.250894887741
+Correct Predications: 42223
+Total Images: 54000
+Accuracy: 0.7819074074074074
+
+
+0.7896666666666666
+------------------------------------------------------
+Epoch: 9
+Loss: 589.3017579354281
+Correct Predications: 42221
+Total Images: 54000
+Accuracy: 0.7818703703703703
+
+
+0.7881666666666667
+------------------------------------------------------
+Epoch: 10
+Loss: 587.633429975078
+Correct Predications: 42400
+Total Images: 54000
+Accuracy: 0.7851851851851852

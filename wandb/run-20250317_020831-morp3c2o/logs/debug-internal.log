@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:08:31.133623046+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_020831-morp3c2o/logs/debug-core.log"}
+{"time":"2025-03-17T02:08:31.240098398+05:30","level":"INFO","msg":"created new stream","id":"morp3c2o"}
+{"time":"2025-03-17T02:08:31.240118643+05:30","level":"INFO","msg":"stream: started","id":"morp3c2o"}
+{"time":"2025-03-17T02:08:31.240181941+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:08:31.240186554+05:30","level":"INFO","msg":"sender: started","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:08:31.240218981+05:30","level":"INFO","msg":"handler: started","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:08:32.020117591+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:09:15.293099629+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:09:15.295423495+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:09:16.267234905+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.654953248,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.385682338,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T02:09:17.004843488+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:09:17.313323173+05:30","level":"INFO","msg":"stream: closing","id":"morp3c2o"}
+{"time":"2025-03-17T02:09:17.313332504+05:30","level":"INFO","msg":"handler: closed","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:09:17.313343259+05:30","level":"INFO","msg":"sender: closed","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:09:17.313339831+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"morp3c2o"}
+{"time":"2025-03-17T02:09:17.31339803+05:30","level":"INFO","msg":"stream: closed","id":"morp3c2o"}

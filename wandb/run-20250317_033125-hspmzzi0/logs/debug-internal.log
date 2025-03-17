@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:31:25.405316777+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_033125-hspmzzi0/logs/debug-core.log"}
+{"time":"2025-03-17T03:31:25.512773145+05:30","level":"INFO","msg":"created new stream","id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:25.512802613+05:30","level":"INFO","msg":"stream: started","id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:25.513234555+05:30","level":"INFO","msg":"sender: started","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:25.513213774+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:25.513221657+05:30","level":"INFO","msg":"handler: started","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:26.369750617+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:31:53.792181994+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:31:53.792514928+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:31:54.796006345+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692860965,"progress":"218B/218B"},{"desc":"uploading config.yaml","runtime_seconds":0.402410662,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T03:31:55.509400138+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:31:55.820658931+05:30","level":"INFO","msg":"stream: closing","id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:55.820688006+05:30","level":"INFO","msg":"handler: closed","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:55.820717913+05:30","level":"INFO","msg":"sender: closed","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:55.820707202+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hspmzzi0"}
+{"time":"2025-03-17T03:31:55.82086497+05:30","level":"INFO","msg":"stream: closed","id":"hspmzzi0"}

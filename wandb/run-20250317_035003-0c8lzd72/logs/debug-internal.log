@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:50:03.171328845+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035003-0c8lzd72/logs/debug-core.log"}
+{"time":"2025-03-17T03:50:03.276285359+05:30","level":"INFO","msg":"created new stream","id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:03.276363497+05:30","level":"INFO","msg":"stream: started","id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:03.276466287+05:30","level":"INFO","msg":"sender: started","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:03.276447728+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:03.276517591+05:30","level":"INFO","msg":"handler: started","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:04.015673378+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:50:19.372606433+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:50:19.37299862+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:50:20.376482278+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.413111375,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.143351853,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T03:50:21.299818251+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:50:21.596390794+05:30","level":"INFO","msg":"stream: closing","id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:21.596425923+05:30","level":"INFO","msg":"handler: closed","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:21.596460685+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:21.596484777+05:30","level":"INFO","msg":"sender: closed","stream_id":"0c8lzd72"}
+{"time":"2025-03-17T03:50:21.596617051+05:30","level":"INFO","msg":"stream: closed","id":"0c8lzd72"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:39:26.857204007+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_103926-o3ovw6da/logs/debug-core.log"}
+{"time":"2025-03-17T10:39:26.961558805+05:30","level":"INFO","msg":"created new stream","id":"o3ovw6da"}
+{"time":"2025-03-17T10:39:26.961639237+05:30","level":"INFO","msg":"stream: started","id":"o3ovw6da"}
+{"time":"2025-03-17T10:39:26.961727464+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:39:26.961742312+05:30","level":"INFO","msg":"sender: started","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:39:26.961835205+05:30","level":"INFO","msg":"handler: started","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:39:27.752331135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:40:08.266921231+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:40:08.267255532+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:40:09.270531542+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.665636951,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.320031538,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T10:40:09.904003562+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:40:10.225240487+05:30","level":"INFO","msg":"stream: closing","id":"o3ovw6da"}
+{"time":"2025-03-17T10:40:10.225277621+05:30","level":"INFO","msg":"handler: closed","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:40:10.225294701+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:40:10.22532241+05:30","level":"INFO","msg":"sender: closed","stream_id":"o3ovw6da"}
+{"time":"2025-03-17T10:40:10.225447294+05:30","level":"INFO","msg":"stream: closed","id":"o3ovw6da"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:11:55.907927162+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_041155-gsis24bk/logs/debug-core.log"}
+{"time":"2025-03-17T04:11:56.012056851+05:30","level":"INFO","msg":"created new stream","id":"gsis24bk"}
+{"time":"2025-03-17T04:11:56.012114275+05:30","level":"INFO","msg":"stream: started","id":"gsis24bk"}
+{"time":"2025-03-17T04:11:56.012220828+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:11:56.012254019+05:30","level":"INFO","msg":"sender: started","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:11:56.01234915+05:30","level":"INFO","msg":"handler: started","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:11:56.804169599+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:12:10.241484781+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:12:10.242003961+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:12:11.2451522+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.688090266,"progress":"218B/218B"},{"desc":"uploading config.yaml","runtime_seconds":0.39222211,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T04:12:11.912332379+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:12:12.236149462+05:30","level":"INFO","msg":"stream: closing","id":"gsis24bk"}
+{"time":"2025-03-17T04:12:12.236190408+05:30","level":"INFO","msg":"handler: closed","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:12:12.236205508+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:12:12.236272348+05:30","level":"INFO","msg":"sender: closed","stream_id":"gsis24bk"}
+{"time":"2025-03-17T04:12:12.236338652+05:30","level":"INFO","msg":"stream: closed","id":"gsis24bk"}

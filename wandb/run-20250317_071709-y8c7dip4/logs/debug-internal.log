@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:17:09.546191184+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_071709-y8c7dip4/logs/debug-core.log"}
+{"time":"2025-03-17T07:17:09.64986105+05:30","level":"INFO","msg":"created new stream","id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:09.649931284+05:30","level":"INFO","msg":"stream: started","id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:09.650016401+05:30","level":"INFO","msg":"handler: started","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:09.65002924+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:09.650184463+05:30","level":"INFO","msg":"sender: started","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:10.427028434+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:17:28.647766657+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:17:28.648082343+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:17:29.651658239+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689442739,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.408936311,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T07:17:30.255565151+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:17:30.561346754+05:30","level":"INFO","msg":"stream: closing","id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:30.561387623+05:30","level":"INFO","msg":"handler: closed","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:30.561405344+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:30.561469903+05:30","level":"INFO","msg":"sender: closed","stream_id":"y8c7dip4"}
+{"time":"2025-03-17T07:17:30.561618334+05:30","level":"INFO","msg":"stream: closed","id":"y8c7dip4"}

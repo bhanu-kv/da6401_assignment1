@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:51:24.100571013+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035124-8edqcxqw/logs/debug-core.log"}
+{"time":"2025-03-17T03:51:24.205674165+05:30","level":"INFO","msg":"created new stream","id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:24.205734623+05:30","level":"INFO","msg":"stream: started","id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:24.205832864+05:30","level":"INFO","msg":"sender: started","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:24.205818531+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:24.205899804+05:30","level":"INFO","msg":"handler: started","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:25.014578666+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:51:54.590602387+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:51:54.591253359+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:51:55.594807834+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.692196557,"progress":"1.8KB/1.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.355627352,"progress":"984B/984B"}],"total_operations":2}}
+{"time":"2025-03-17T03:51:56.463538223+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:51:56.797038645+05:30","level":"INFO","msg":"stream: closing","id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:56.797072627+05:30","level":"INFO","msg":"handler: closed","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:56.797119839+05:30","level":"INFO","msg":"sender: closed","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:56.797098149+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8edqcxqw"}
+{"time":"2025-03-17T03:51:56.797282214+05:30","level":"INFO","msg":"stream: closed","id":"8edqcxqw"}

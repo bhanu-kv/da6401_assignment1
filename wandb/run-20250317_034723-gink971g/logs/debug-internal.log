@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:47:23.444592351+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_034723-gink971g/logs/debug-core.log"}
+{"time":"2025-03-17T03:47:23.548843401+05:30","level":"INFO","msg":"created new stream","id":"gink971g"}
+{"time":"2025-03-17T03:47:23.548922524+05:30","level":"INFO","msg":"stream: started","id":"gink971g"}
+{"time":"2025-03-17T03:47:23.548971967+05:30","level":"INFO","msg":"handler: started","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:23.548971975+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:23.549255286+05:30","level":"INFO","msg":"sender: started","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:24.317494668+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:47:40.001143654+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:47:40.001534782+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:47:41.002797299+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.666667632,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.365422466,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T03:47:41.674642638+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:47:41.965743055+05:30","level":"INFO","msg":"stream: closing","id":"gink971g"}
+{"time":"2025-03-17T03:47:41.965774521+05:30","level":"INFO","msg":"handler: closed","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:41.965797176+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:41.965833455+05:30","level":"INFO","msg":"sender: closed","stream_id":"gink971g"}
+{"time":"2025-03-17T03:47:41.965988434+05:30","level":"INFO","msg":"stream: closed","id":"gink971g"}

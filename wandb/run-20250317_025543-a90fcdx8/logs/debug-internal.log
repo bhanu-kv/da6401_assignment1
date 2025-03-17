@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:55:43.669388681+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_025543-a90fcdx8/logs/debug-core.log"}
+{"time":"2025-03-17T02:55:43.773750135+05:30","level":"INFO","msg":"created new stream","id":"a90fcdx8"}
+{"time":"2025-03-17T02:55:43.773817762+05:30","level":"INFO","msg":"stream: started","id":"a90fcdx8"}
+{"time":"2025-03-17T02:55:43.77387384+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:55:43.773888399+05:30","level":"INFO","msg":"handler: started","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:55:43.774059765+05:30","level":"INFO","msg":"sender: started","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:55:44.539472082+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:56:11.921904393+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:56:11.922178664+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:56:12.923348149+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.679148407,"progress":"214B/214B"},{"desc":"uploading config.yaml","runtime_seconds":0.367653185,"progress":"987B/987B"}],"total_operations":2}}
+{"time":"2025-03-17T02:56:13.898391364+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:56:14.23092678+05:30","level":"INFO","msg":"stream: closing","id":"a90fcdx8"}
+{"time":"2025-03-17T02:56:14.230964563+05:30","level":"INFO","msg":"handler: closed","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:56:14.230981605+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:56:14.231021265+05:30","level":"INFO","msg":"sender: closed","stream_id":"a90fcdx8"}
+{"time":"2025-03-17T02:56:14.231145781+05:30","level":"INFO","msg":"stream: closed","id":"a90fcdx8"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:18:31.174223716+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_101831-zsjxk8b1/logs/debug-core.log"}
+{"time":"2025-03-17T10:18:31.277853821+05:30","level":"INFO","msg":"created new stream","id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:31.277897063+05:30","level":"INFO","msg":"stream: started","id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:31.277958171+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:31.278000415+05:30","level":"INFO","msg":"sender: started","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:31.278020081+05:30","level":"INFO","msg":"handler: started","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:32.099957179+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:18:42.364933989+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:18:42.365676458+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:18:43.366599902+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.690617079,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.398713645,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T10:18:44.023277949+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:18:44.345278706+05:30","level":"INFO","msg":"stream: closing","id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:44.345285781+05:30","level":"INFO","msg":"handler: closed","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:44.345290741+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:44.345301916+05:30","level":"INFO","msg":"sender: closed","stream_id":"zsjxk8b1"}
+{"time":"2025-03-17T10:18:44.345340586+05:30","level":"INFO","msg":"stream: closed","id":"zsjxk8b1"}

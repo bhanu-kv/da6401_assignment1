@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:08:55.663962082+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250316_230855-nyom86ae/logs/debug-core.log"}
+{"time":"2025-03-16T23:08:55.76682165+05:30","level":"INFO","msg":"created new stream","id":"nyom86ae"}
+{"time":"2025-03-16T23:08:55.766851828+05:30","level":"INFO","msg":"stream: started","id":"nyom86ae"}
+{"time":"2025-03-16T23:08:55.766900142+05:30","level":"INFO","msg":"sender: started","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:08:55.76694121+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:08:55.766974621+05:30","level":"INFO","msg":"handler: started","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:08:56.495635176+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:10:11.572918755+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:10:11.574199268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:10:12.545094089+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.349708951,"progress":"1.9KB/1.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.349665299,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.050137194,"progress":"986B/986B"}],"total_operations":3}}
+{"time":"2025-03-16T23:10:12.854856436+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:10:13.310695083+05:30","level":"INFO","msg":"stream: closing","id":"nyom86ae"}
+{"time":"2025-03-16T23:10:13.310738915+05:30","level":"INFO","msg":"handler: closed","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:10:13.310767362+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:10:13.310818805+05:30","level":"INFO","msg":"sender: closed","stream_id":"nyom86ae"}
+{"time":"2025-03-16T23:10:13.310976135+05:30","level":"INFO","msg":"stream: closed","id":"nyom86ae"}

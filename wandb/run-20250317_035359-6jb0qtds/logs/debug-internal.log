@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:53:59.080585462+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_035359-6jb0qtds/logs/debug-core.log"}
+{"time":"2025-03-17T03:53:59.184371877+05:30","level":"INFO","msg":"created new stream","id":"6jb0qtds"}
+{"time":"2025-03-17T03:53:59.184449103+05:30","level":"INFO","msg":"stream: started","id":"6jb0qtds"}
+{"time":"2025-03-17T03:53:59.184591918+05:30","level":"INFO","msg":"sender: started","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:53:59.184530877+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:53:59.184544297+05:30","level":"INFO","msg":"handler: started","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:54:00.040036335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:54:09.373764628+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:54:09.377606892+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:54:10.377321521+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.693661926,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.402713149,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T03:54:11.196305366+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:54:11.513425077+05:30","level":"INFO","msg":"stream: closing","id":"6jb0qtds"}
+{"time":"2025-03-17T03:54:11.513478551+05:30","level":"INFO","msg":"handler: closed","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:54:11.513499588+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:54:11.513542244+05:30","level":"INFO","msg":"sender: closed","stream_id":"6jb0qtds"}
+{"time":"2025-03-17T03:54:11.513677603+05:30","level":"INFO","msg":"stream: closed","id":"6jb0qtds"}

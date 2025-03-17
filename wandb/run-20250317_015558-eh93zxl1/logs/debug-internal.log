@@ -1,0 +1,16 @@
+{"time":"2025-03-17T01:55:58.933826604+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_015558-eh93zxl1/logs/debug-core.log"}
+{"time":"2025-03-17T01:55:59.038531218+05:30","level":"INFO","msg":"created new stream","id":"eh93zxl1"}
+{"time":"2025-03-17T01:55:59.038585397+05:30","level":"INFO","msg":"stream: started","id":"eh93zxl1"}
+{"time":"2025-03-17T01:55:59.038688098+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:55:59.038739015+05:30","level":"INFO","msg":"handler: started","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:55:59.03887445+05:30","level":"INFO","msg":"sender: started","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:55:59.860549252+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T01:56:26.657014139+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T01:56:26.657697201+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T01:56:27.660850318+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.694967516,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.389612892,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T01:56:28.452997054+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T01:56:28.798049152+05:30","level":"INFO","msg":"stream: closing","id":"eh93zxl1"}
+{"time":"2025-03-17T01:56:28.798086169+05:30","level":"INFO","msg":"handler: closed","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:56:28.798121444+05:30","level":"INFO","msg":"sender: closed","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:56:28.79810826+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eh93zxl1"}
+{"time":"2025-03-17T01:56:28.798282899+05:30","level":"INFO","msg":"stream: closed","id":"eh93zxl1"}

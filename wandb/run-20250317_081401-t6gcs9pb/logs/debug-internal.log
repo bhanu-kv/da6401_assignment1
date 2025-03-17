@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:14:01.115713651+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_081401-t6gcs9pb/logs/debug-core.log"}
+{"time":"2025-03-17T08:14:01.220421981+05:30","level":"INFO","msg":"created new stream","id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:01.220516152+05:30","level":"INFO","msg":"stream: started","id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:01.220582377+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:01.220627634+05:30","level":"INFO","msg":"sender: started","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:01.22073016+05:30","level":"INFO","msg":"handler: started","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:01.94801149+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:14:30.596894818+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:14:30.597186359+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:14:31.600747778+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686948247,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.384022964,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T08:14:31.693516859+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:14:32.029006896+05:30","level":"INFO","msg":"stream: closing","id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:32.029035538+05:30","level":"INFO","msg":"handler: closed","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:32.0290507+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:32.029108073+05:30","level":"INFO","msg":"sender: closed","stream_id":"t6gcs9pb"}
+{"time":"2025-03-17T08:14:32.029205518+05:30","level":"INFO","msg":"stream: closed","id":"t6gcs9pb"}

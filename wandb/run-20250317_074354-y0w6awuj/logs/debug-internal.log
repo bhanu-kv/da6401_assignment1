@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:43:54.295029194+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_074354-y0w6awuj/logs/debug-core.log"}
+{"time":"2025-03-17T07:43:54.399728633+05:30","level":"INFO","msg":"created new stream","id":"y0w6awuj"}
+{"time":"2025-03-17T07:43:54.399786177+05:30","level":"INFO","msg":"stream: started","id":"y0w6awuj"}
+{"time":"2025-03-17T07:43:54.399870933+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:43:54.399876702+05:30","level":"INFO","msg":"sender: started","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:43:54.400063266+05:30","level":"INFO","msg":"handler: started","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:43:55.142063787+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:44:17.964249786+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:44:17.964586371+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:44:18.968176698+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689159651,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.360759247,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T07:44:19.566827825+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:44:19.883135113+05:30","level":"INFO","msg":"stream: closing","id":"y0w6awuj"}
+{"time":"2025-03-17T07:44:19.883167773+05:30","level":"INFO","msg":"handler: closed","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:44:19.88318278+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:44:19.88325925+05:30","level":"INFO","msg":"sender: closed","stream_id":"y0w6awuj"}
+{"time":"2025-03-17T07:44:19.883325967+05:30","level":"INFO","msg":"stream: closed","id":"y0w6awuj"}

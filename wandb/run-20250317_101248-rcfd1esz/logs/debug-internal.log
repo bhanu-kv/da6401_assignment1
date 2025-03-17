@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:12:48.142989473+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_101248-rcfd1esz/logs/debug-core.log"}
+{"time":"2025-03-17T10:12:48.247233417+05:30","level":"INFO","msg":"created new stream","id":"rcfd1esz"}
+{"time":"2025-03-17T10:12:48.247293351+05:30","level":"INFO","msg":"stream: started","id":"rcfd1esz"}
+{"time":"2025-03-17T10:12:48.247406162+05:30","level":"INFO","msg":"handler: started","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:12:48.247419708+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:12:48.247529927+05:30","level":"INFO","msg":"sender: started","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:12:49.055057222+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:13:14.065229051+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:13:14.065729972+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:13:15.014099311+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:13:15.066977777+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 6-9, summary, console lines 57-93","runtime_seconds":0.052786539}],"total_operations":1}}
+{"time":"2025-03-17T10:13:15.3526271+05:30","level":"INFO","msg":"stream: closing","id":"rcfd1esz"}
+{"time":"2025-03-17T10:13:15.352668331+05:30","level":"INFO","msg":"handler: closed","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:13:15.352689623+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:13:15.352754505+05:30","level":"INFO","msg":"sender: closed","stream_id":"rcfd1esz"}
+{"time":"2025-03-17T10:13:15.352865468+05:30","level":"INFO","msg":"stream: closed","id":"rcfd1esz"}

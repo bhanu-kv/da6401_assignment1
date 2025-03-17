@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:27:20.59342574+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_052720-lymwqmng/logs/debug-core.log"}
+{"time":"2025-03-17T05:27:20.697757942+05:30","level":"INFO","msg":"created new stream","id":"lymwqmng"}
+{"time":"2025-03-17T05:27:20.697820616+05:30","level":"INFO","msg":"stream: started","id":"lymwqmng"}
+{"time":"2025-03-17T05:27:20.697962345+05:30","level":"INFO","msg":"sender: started","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:20.698039875+05:30","level":"INFO","msg":"handler: started","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:20.698103615+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:21.541270214+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:27:48.929931263+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:27:48.930506799+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:27:49.934058517+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.697436084,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.409367669,"progress":"990B/990B"}],"total_operations":2}}
+{"time":"2025-03-17T05:27:50.568587321+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:27:50.887263943+05:30","level":"INFO","msg":"stream: closing","id":"lymwqmng"}
+{"time":"2025-03-17T05:27:50.887296349+05:30","level":"INFO","msg":"handler: closed","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:50.887311839+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:50.887371576+05:30","level":"INFO","msg":"sender: closed","stream_id":"lymwqmng"}
+{"time":"2025-03-17T05:27:50.887488519+05:30","level":"INFO","msg":"stream: closed","id":"lymwqmng"}

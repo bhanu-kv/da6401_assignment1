@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:30:21.557946853+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_053021-ym14nvkb/logs/debug-core.log"}
+{"time":"2025-03-17T05:30:21.661723225+05:30","level":"INFO","msg":"created new stream","id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:21.661780253+05:30","level":"INFO","msg":"stream: started","id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:21.661890544+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:21.661904557+05:30","level":"INFO","msg":"sender: started","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:21.662048502+05:30","level":"INFO","msg":"handler: started","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:22.414598678+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:30:47.055561315+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:30:47.056050025+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:30:48.058981389+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.690787431,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.386190585,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T05:30:48.658828837+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:30:48.995628806+05:30","level":"INFO","msg":"stream: closing","id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:48.995673364+05:30","level":"INFO","msg":"handler: closed","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:48.995696851+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:48.995742843+05:30","level":"INFO","msg":"sender: closed","stream_id":"ym14nvkb"}
+{"time":"2025-03-17T05:30:48.995880376+05:30","level":"INFO","msg":"stream: closed","id":"ym14nvkb"}

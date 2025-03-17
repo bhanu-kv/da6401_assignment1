@@ -1,0 +1,16 @@
+{"time":"2025-03-17T04:02:32.233331941+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_040232-psq0r8q3/logs/debug-core.log"}
+{"time":"2025-03-17T04:02:32.337539663+05:30","level":"INFO","msg":"created new stream","id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:32.337612656+05:30","level":"INFO","msg":"stream: started","id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:32.337709815+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:32.337759566+05:30","level":"INFO","msg":"handler: started","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:32.337838672+05:30","level":"INFO","msg":"sender: started","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:33.079396595+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T04:02:41.645664154+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T04:02:41.646450761+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T04:02:42.650075308+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.699429168,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.369100855,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T04:02:43.312498683+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T04:02:43.639969724+05:30","level":"INFO","msg":"stream: closing","id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:43.640000673+05:30","level":"INFO","msg":"handler: closed","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:43.640017724+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:43.640092298+05:30","level":"INFO","msg":"sender: closed","stream_id":"psq0r8q3"}
+{"time":"2025-03-17T04:02:43.640188095+05:30","level":"INFO","msg":"stream: closed","id":"psq0r8q3"}

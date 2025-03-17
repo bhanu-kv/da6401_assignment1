@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:27:51.916707283+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_032751-6n2hsn6n/logs/debug-core.log"}
+{"time":"2025-03-17T03:27:52.022736341+05:30","level":"INFO","msg":"created new stream","id":"6n2hsn6n"}
+{"time":"2025-03-17T03:27:52.022802712+05:30","level":"INFO","msg":"stream: started","id":"6n2hsn6n"}
+{"time":"2025-03-17T03:27:52.022862466+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:27:52.022881139+05:30","level":"INFO","msg":"handler: started","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:27:52.023073502+05:30","level":"INFO","msg":"sender: started","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:27:52.835873346+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:28:30.764536312+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:28:30.764884665+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:28:31.768246655+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.684063671,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.369737522,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T03:28:32.493643075+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:28:32.932299765+05:30","level":"INFO","msg":"stream: closing","id":"6n2hsn6n"}
+{"time":"2025-03-17T03:28:32.932331046+05:30","level":"INFO","msg":"handler: closed","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:28:32.932348477+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:28:32.932375647+05:30","level":"INFO","msg":"sender: closed","stream_id":"6n2hsn6n"}
+{"time":"2025-03-17T03:28:32.932521101+05:30","level":"INFO","msg":"stream: closed","id":"6n2hsn6n"}

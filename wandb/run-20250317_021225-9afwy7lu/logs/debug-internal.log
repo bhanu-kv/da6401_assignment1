@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:12:25.665687629+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_021225-9afwy7lu/logs/debug-core.log"}
+{"time":"2025-03-17T02:12:25.773805404+05:30","level":"INFO","msg":"created new stream","id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:25.773863505+05:30","level":"INFO","msg":"stream: started","id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:25.777843394+05:30","level":"INFO","msg":"sender: started","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:25.777801045+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:25.777801064+05:30","level":"INFO","msg":"handler: started","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:26.514606691+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:12:40.832173625+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:12:40.832825701+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:12:41.836247408+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.686824301,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.397096925,"progress":"991B/991B"}],"total_operations":2}}
+{"time":"2025-03-17T02:12:42.48705155+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:12:42.831488735+05:30","level":"INFO","msg":"stream: closing","id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:42.831541941+05:30","level":"INFO","msg":"handler: closed","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:42.831565337+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:42.831624971+05:30","level":"INFO","msg":"sender: closed","stream_id":"9afwy7lu"}
+{"time":"2025-03-17T02:12:42.831712358+05:30","level":"INFO","msg":"stream: closed","id":"9afwy7lu"}

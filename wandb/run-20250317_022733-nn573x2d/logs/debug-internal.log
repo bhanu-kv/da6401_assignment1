@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:27:33.219068473+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_022733-nn573x2d/logs/debug-core.log"}
+{"time":"2025-03-17T02:27:33.323222341+05:30","level":"INFO","msg":"created new stream","id":"nn573x2d"}
+{"time":"2025-03-17T02:27:33.32329153+05:30","level":"INFO","msg":"stream: started","id":"nn573x2d"}
+{"time":"2025-03-17T02:27:33.323352682+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:33.323359928+05:30","level":"INFO","msg":"handler: started","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:33.323507976+05:30","level":"INFO","msg":"sender: started","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:34.07303205+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:27:54.552893539+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:27:54.55841312+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:27:55.523599018+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.640871949,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.313474236,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T02:27:56.226676404+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:27:56.542071687+05:30","level":"INFO","msg":"stream: closing","id":"nn573x2d"}
+{"time":"2025-03-17T02:27:56.542100051+05:30","level":"INFO","msg":"handler: closed","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:56.542114788+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:56.542158101+05:30","level":"INFO","msg":"sender: closed","stream_id":"nn573x2d"}
+{"time":"2025-03-17T02:27:56.542258102+05:30","level":"INFO","msg":"stream: closed","id":"nn573x2d"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T08:07:36.447992762+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_080736-ogstuktv/logs/debug-core.log"}
+{"time":"2025-03-17T08:07:36.55224101+05:30","level":"INFO","msg":"created new stream","id":"ogstuktv"}
+{"time":"2025-03-17T08:07:36.552295473+05:30","level":"INFO","msg":"stream: started","id":"ogstuktv"}
+{"time":"2025-03-17T08:07:36.552390112+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:07:36.552404234+05:30","level":"INFO","msg":"handler: started","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:07:36.552557092+05:30","level":"INFO","msg":"sender: started","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:07:37.316317626+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T08:08:25.337676791+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T08:08:25.33801187+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T08:08:26.34160639+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.274778744,"progress":"989B/989B"}],"total_operations":1}}
+{"time":"2025-03-17T08:08:26.409061695+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T08:08:26.748671374+05:30","level":"INFO","msg":"stream: closing","id":"ogstuktv"}
+{"time":"2025-03-17T08:08:26.74870069+05:30","level":"INFO","msg":"handler: closed","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:08:26.748719349+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:08:26.748747907+05:30","level":"INFO","msg":"sender: closed","stream_id":"ogstuktv"}
+{"time":"2025-03-17T08:08:26.748896412+05:30","level":"INFO","msg":"stream: closed","id":"ogstuktv"}

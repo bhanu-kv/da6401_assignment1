@@ -1,0 +1,16 @@
+{"time":"2025-03-17T09:57:27.658880625+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_095727-jf80gfsh/logs/debug-core.log"}
+{"time":"2025-03-17T09:57:27.764191078+05:30","level":"INFO","msg":"created new stream","id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:27.76424882+05:30","level":"INFO","msg":"stream: started","id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:27.764351914+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:27.764410343+05:30","level":"INFO","msg":"handler: started","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:27.76451211+05:30","level":"INFO","msg":"sender: started","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:28.536531147+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T09:57:47.796150417+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T09:57:47.796811778+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T09:57:48.741127538+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T09:57:48.798261203+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 7-9, summary, console lines 66-92","runtime_seconds":0.056863889}],"total_operations":1}}
+{"time":"2025-03-17T09:57:49.071676473+05:30","level":"INFO","msg":"stream: closing","id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:49.07170553+05:30","level":"INFO","msg":"handler: closed","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:49.071719066+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:49.071750809+05:30","level":"INFO","msg":"sender: closed","stream_id":"jf80gfsh"}
+{"time":"2025-03-17T09:57:49.071889684+05:30","level":"INFO","msg":"stream: closed","id":"jf80gfsh"}

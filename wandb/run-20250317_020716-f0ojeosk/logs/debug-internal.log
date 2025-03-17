@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:07:16.538286355+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_020716-f0ojeosk/logs/debug-core.log"}
+{"time":"2025-03-17T02:07:16.642768115+05:30","level":"INFO","msg":"created new stream","id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:16.642861388+05:30","level":"INFO","msg":"stream: started","id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:16.642965172+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:16.643009816+05:30","level":"INFO","msg":"handler: started","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:16.643072233+05:30","level":"INFO","msg":"sender: started","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:17.381307716+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:07:26.210665934+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:07:26.211233804+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:07:27.221473593+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.697937114,"progress":"2.4KB/2.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.387081514,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-03-17T02:07:27.911490987+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:07:28.245016344+05:30","level":"INFO","msg":"stream: closing","id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:28.245047344+05:30","level":"INFO","msg":"handler: closed","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:28.245063588+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:28.245129776+05:30","level":"INFO","msg":"sender: closed","stream_id":"f0ojeosk"}
+{"time":"2025-03-17T02:07:28.245237557+05:30","level":"INFO","msg":"stream: closed","id":"f0ojeosk"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T06:09:38.633388355+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_060938-tj14l666/logs/debug-core.log"}
+{"time":"2025-03-17T06:09:38.737888011+05:30","level":"INFO","msg":"created new stream","id":"tj14l666"}
+{"time":"2025-03-17T06:09:38.737943299+05:30","level":"INFO","msg":"stream: started","id":"tj14l666"}
+{"time":"2025-03-17T06:09:38.73805586+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:38.738062971+05:30","level":"INFO","msg":"sender: started","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:38.738156047+05:30","level":"INFO","msg":"handler: started","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:39.487178633+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T06:09:52.319999606+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T06:09:52.320631309+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T06:09:53.324085959+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.694885291,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.392240765,"progress":"989B/989B"}],"total_operations":2}}
+{"time":"2025-03-17T06:09:53.915891808+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T06:09:54.240853714+05:30","level":"INFO","msg":"stream: closing","id":"tj14l666"}
+{"time":"2025-03-17T06:09:54.240882417+05:30","level":"INFO","msg":"handler: closed","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:54.240899368+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:54.240929979+05:30","level":"INFO","msg":"sender: closed","stream_id":"tj14l666"}
+{"time":"2025-03-17T06:09:54.241036463+05:30","level":"INFO","msg":"stream: closed","id":"tj14l666"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T05:24:28.700661007+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_052428-gfgixaig/logs/debug-core.log"}
+{"time":"2025-03-17T05:24:28.804120466+05:30","level":"INFO","msg":"created new stream","id":"gfgixaig"}
+{"time":"2025-03-17T05:24:28.804157181+05:30","level":"INFO","msg":"stream: started","id":"gfgixaig"}
+{"time":"2025-03-17T05:24:28.804193464+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:28.804194658+05:30","level":"INFO","msg":"handler: started","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:28.804287545+05:30","level":"INFO","msg":"sender: started","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:29.63054682+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T05:24:46.025426059+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T05:24:46.026005923+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T05:24:47.029196429+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.697244787,"progress":"215B/215B"},{"desc":"uploading config.yaml","runtime_seconds":0.394595611,"progress":"993B/993B"}],"total_operations":2}}
+{"time":"2025-03-17T05:24:47.658283487+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T05:24:47.964912565+05:30","level":"INFO","msg":"stream: closing","id":"gfgixaig"}
+{"time":"2025-03-17T05:24:47.964946628+05:30","level":"INFO","msg":"handler: closed","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:47.964961749+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:47.964987595+05:30","level":"INFO","msg":"sender: closed","stream_id":"gfgixaig"}
+{"time":"2025-03-17T05:24:47.96513216+05:30","level":"INFO","msg":"stream: closed","id":"gfgixaig"}

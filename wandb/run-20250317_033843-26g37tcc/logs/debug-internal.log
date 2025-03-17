@@ -1,0 +1,16 @@
+{"time":"2025-03-17T03:38:43.746330837+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_033843-26g37tcc/logs/debug-core.log"}
+{"time":"2025-03-17T03:38:43.849727302+05:30","level":"INFO","msg":"created new stream","id":"26g37tcc"}
+{"time":"2025-03-17T03:38:43.849775804+05:30","level":"INFO","msg":"stream: started","id":"26g37tcc"}
+{"time":"2025-03-17T03:38:43.849825578+05:30","level":"INFO","msg":"handler: started","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:43.849836842+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:43.849903313+05:30","level":"INFO","msg":"sender: started","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:44.57164411+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T03:38:53.548790482+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T03:38:53.549416544+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T03:38:54.553023504+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.691063079,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.380837652,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T03:38:55.257104354+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T03:38:55.557012168+05:30","level":"INFO","msg":"stream: closing","id":"26g37tcc"}
+{"time":"2025-03-17T03:38:55.557039736+05:30","level":"INFO","msg":"handler: closed","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:55.557056335+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:55.557086285+05:30","level":"INFO","msg":"sender: closed","stream_id":"26g37tcc"}
+{"time":"2025-03-17T03:38:55.557225143+05:30","level":"INFO","msg":"stream: closed","id":"26g37tcc"}

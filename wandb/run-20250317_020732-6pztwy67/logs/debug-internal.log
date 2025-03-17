@@ -1,0 +1,16 @@
+{"time":"2025-03-17T02:07:32.381349536+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_020732-6pztwy67/logs/debug-core.log"}
+{"time":"2025-03-17T02:07:32.484806981+05:30","level":"INFO","msg":"created new stream","id":"6pztwy67"}
+{"time":"2025-03-17T02:07:32.484864523+05:30","level":"INFO","msg":"stream: started","id":"6pztwy67"}
+{"time":"2025-03-17T02:07:32.48495252+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:32.484969138+05:30","level":"INFO","msg":"sender: started","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:32.485198254+05:30","level":"INFO","msg":"handler: started","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:33.211590989+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T02:07:54.143536915+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T02:07:54.144575231+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T02:07:55.147092232+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.696559213,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.380840714,"progress":"986B/986B"}],"total_operations":2}}
+{"time":"2025-03-17T02:07:55.839388928+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T02:07:56.146866234+05:30","level":"INFO","msg":"stream: closing","id":"6pztwy67"}
+{"time":"2025-03-17T02:07:56.146898992+05:30","level":"INFO","msg":"handler: closed","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:56.146920838+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:56.146941488+05:30","level":"INFO","msg":"sender: closed","stream_id":"6pztwy67"}
+{"time":"2025-03-17T02:07:56.147097558+05:30","level":"INFO","msg":"stream: closed","id":"6pztwy67"}

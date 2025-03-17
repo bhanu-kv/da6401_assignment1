@@ -1,0 +1,98 @@
+0.4701666666666667
+New best model saved with validation accuracy: 0.4701666666666667
+------------------------------------------------------
+Epoch: 1
+Loss: 872.4846690717478
+Correct Predications: 20053
+Total Images: 54000
+Accuracy: 0.3713518518518519
+
+
+0.5893333333333334
+New best model saved with validation accuracy: 0.5893333333333334
+------------------------------------------------------
+Epoch: 2
+Loss: 614.3059882795746
+Correct Predications: 29530
+Total Images: 54000
+Accuracy: 0.5468518518518518
+
+
+0.6443333333333333
+New best model saved with validation accuracy: 0.6443333333333333
+------------------------------------------------------
+Epoch: 3
+Loss: 470.10601002357345
+Correct Predications: 33618
+Total Images: 54000
+Accuracy: 0.6225555555555555
+
+
+0.7
+New best model saved with validation accuracy: 0.7
+------------------------------------------------------
+Epoch: 4
+Loss: 381.3032683585828
+Correct Predications: 36406
+Total Images: 54000
+Accuracy: 0.6741851851851852
+
+
+0.7335
+New best model saved with validation accuracy: 0.7335
+------------------------------------------------------
+Epoch: 5
+Loss: 326.5668835441572
+Correct Predications: 38825
+Total Images: 54000
+Accuracy: 0.7189814814814814
+
+
+0.747
+New best model saved with validation accuracy: 0.747
+------------------------------------------------------
+Epoch: 6
+Loss: 290.3866793277403
+Correct Predications: 40198
+Total Images: 54000
+Accuracy: 0.7444074074074074
+
+
+0.7583333333333333
+New best model saved with validation accuracy: 0.7583333333333333
+------------------------------------------------------
+Epoch: 7
+Loss: 267.2211242528745
+Correct Predications: 41004
+Total Images: 54000
+Accuracy: 0.7593333333333333
+
+
+0.7676666666666667
+New best model saved with validation accuracy: 0.7676666666666667
+------------------------------------------------------
+Epoch: 8
+Loss: 252.10293147754464
+Correct Predications: 41630
+Total Images: 54000
+Accuracy: 0.7709259259259259
+
+
+0.7806666666666666
+New best model saved with validation accuracy: 0.7806666666666666
+------------------------------------------------------
+Epoch: 9
+Loss: 240.97484148524038
+Correct Predications: 42201
+Total Images: 54000
+Accuracy: 0.7815
+
+
+0.7921666666666667
+New best model saved with validation accuracy: 0.7921666666666667
+------------------------------------------------------
+Epoch: 10
+Loss: 231.79688657826122
+Correct Predications: 42848
+Total Images: 54000
+Accuracy: 0.7934814814814815

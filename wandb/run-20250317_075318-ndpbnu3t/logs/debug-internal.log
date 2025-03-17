@@ -1,0 +1,16 @@
+{"time":"2025-03-17T07:53:18.885535625+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/bhanu/IITM/Courses/FDL/da6401_assignment1/wandb/run-20250317_075318-ndpbnu3t/logs/debug-core.log"}
+{"time":"2025-03-17T07:53:18.990501185+05:30","level":"INFO","msg":"created new stream","id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:18.990565079+05:30","level":"INFO","msg":"stream: started","id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:18.990680564+05:30","level":"INFO","msg":"handler: started","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:18.990700886+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:18.990827315+05:30","level":"INFO","msg":"sender: started","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:19.790534261+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T07:53:49.468077848+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T07:53:49.46837041+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T07:53:50.471729809+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.689926592,"progress":"217B/217B"},{"desc":"uploading config.yaml","runtime_seconds":0.371819602,"progress":"992B/992B"}],"total_operations":2}}
+{"time":"2025-03-17T07:53:51.080557806+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T07:53:51.378632475+05:30","level":"INFO","msg":"stream: closing","id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:51.378640749+05:30","level":"INFO","msg":"handler: closed","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:51.378664011+05:30","level":"INFO","msg":"sender: closed","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:51.37865947+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ndpbnu3t"}
+{"time":"2025-03-17T07:53:51.378702522+05:30","level":"INFO","msg":"stream: closed","id":"ndpbnu3t"}

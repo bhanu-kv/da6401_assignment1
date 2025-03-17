@@ -17,10 +17,16 @@ print("Training Images Shape:", train_images.shape)
 print("Validation Images Shape:", val_images.shape)
 print("Test Images Shape:", test_images.shape)
 
-NN = NeuralNetwork(28*28, 10, weights_init='xavier', bias_init='zeros')
+NN = NeuralNetwork(28*28, 10, weights_init='xavier_init', bias_init='zeros_init', optimizer="nadam", learning_rate=0.0001, weight_decay=0)
 
-NN.add_layer(500, activation_type='sigmoid')
-NN.add_layer(250, activation_type='sigmoid')
-NN.add_layer(100, activation_type='sigmoid')
+NN.add_layer(128, activation_type='sigmoid')
+NN.add_layer(128, activation_type='sigmoid')
+NN.add_layer(128, activation_type='sigmoid')
 
-NN.train(train_images = train_images, train_labels = train_labels, epochs=40, batch_size = 64)
+# with open('best_model.pkl', 'rb') as file:
+#     NN = pickle.load(file)
+
+NN.train(train_images = train_images, train_labels = train_labels, val = (val_images, val_labels), epochs=40, batch_size = 64)
+# NN.train(train_images = train_images, train_labels = train_labels, val = None, epochs=40, batch_size = 64)
+# NN.test(test_images = test_images, test_labels = test_labels)
+NN.generate_classification_report(test_images, test_labels)
